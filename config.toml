@@ -1,0 +1,44 @@
+title = "Meta SIG"
+baseURL = "https://example.com"
+languageCode = "en-us"
+theme = "gohugo-theme-ananke"
+resourceDir = "../resources"
+
+DefaultContentLanguage = "en"
+#ectionPagesMenu = "main"
+#Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[menu]
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+    
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+    
+  [[menu.main]]
+    name = "AERA Program"
+    url = "/program/"
+    weight = 3
+    
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = ""
+  twitter = "https://twitter.com/GoHugoIO"
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  body_classes = "baskerville"
+  featured_image = ""
+  recent_posts_number = 2

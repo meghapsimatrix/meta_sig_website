@@ -1,0 +1,26 @@
+title: Notre-Dame de Paris
+baseURL: https://example.com
+languageCode: en-us
+theme: gohugo-theme-ananke
+resourceDir: ../resources
+DefaultContentLanguage: en
+SectionPagesMenu: main
+Paginate: 3
+googleAnalytics: ''
+enableRobotsTXT: yes
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
+params:
+  background_color_class: bg-black
+  description: ''  
+  linkedin: ''
+  mastodon: ''
+  recent_posts_number: 2
+  rss: ''
+  site_logo: ''
+  slack: ''
+  stackoverflow: ''
+  twitter: https://twitter.com/GoHugoIO
+  youtube: ''

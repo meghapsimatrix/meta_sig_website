@@ -1,0 +1,19 @@
+---
+title: "Introduction to Meta-Analysis"
+author: "Mj"
+date: 2021-06-09
+categories: ["R"]
+tags: ["meta-analysis"]
+---
+
+Scientific researchers tend to produce literature on the same topic either to replicate or extend prior studies or due to a lack of awareness of prior evidence. Results across studies tend to vary, even when researchers try to replicate studies, due to differences in sample characteristics, research designs, analytic strategies or sampling error .
+
+Meta-analysis is a set of statistical techniques for synthesizing results from multiple primary studies on a common topic. Meta-analysis can be used to synthesize effect estimates from randomized or quasi-experimental studies, and correlations between variables from descriptive studies.
+
+The three major goals of meta-analysis include:
+
+(1) summarizing effect size estimates across studies
+
+(2) characterizing variability in effect sizes across studies
+
+(3) explaining the variability in the effect sizes
