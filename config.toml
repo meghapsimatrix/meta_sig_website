@@ -9,6 +9,7 @@ DefaultContentLanguage = "en"
 #Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [menu]
 
@@ -38,7 +39,7 @@ enableRobotsTXT = true
   description = ""
   twitter = "https://twitter.com/GoHugoIO"
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
+  background_color_class = "bg-dark-green"
   body_classes = "baskerville"
   featured_image = ""
   recent_posts_number = 2

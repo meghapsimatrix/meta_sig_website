@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Meta SIG</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Meta SIG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction to Meta-Analysis</title>
+      <link>/posts/meta-analysis-introduction/meta_analysis_intro/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/meta-analysis-introduction/meta_analysis_intro/</guid>
+      <description>Scientific researchers tend to produce literature on the same topic either to replicate or extend prior studies or due to a lack of awareness of prior evidence. Results across studies tend to vary, even when researchers try to replicate studies, due to differences in sample characteristics, research designs, analytic strategies or sampling error .
+Meta-analysis is a set of statistical techniques for synthesizing results from multiple primary studies on a common topic.</description>
+    </item>
+    
+  </channel>
+</rss>
