@@ -1,6 +1,6 @@
 ---
-title: "Introduction to Meta-Analysis"
-author: "Mj"
+title: "What is Meta-Analysis?"
+author: "MJ"
 date: 2021-06-09
 categories: ["R"]
 tags: ["meta-analysis"]
