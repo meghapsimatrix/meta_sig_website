@@ -6,7 +6,7 @@ categories: ["R"]
 tags: ["meta-analysis"]
 ---
 
-Scientific researchers tend to produce literature on the same topic either to replicate or extend prior studies or due to a lack of awareness of prior evidence. Results across studies tend to vary, even when researchers try to replicate studies, due to differences in sample characteristics, research designs, analytic strategies or sampling error .
+Scientific researchers tend to produce literature on the same topic either to replicate or extend prior studies or due to a lack of awareness of prior evidence. Results across studies tend to vary, even when researchers try to replicate studies, due to differences in sample characteristics, research designs, analytic strategies or sampling error.
 
 Meta-analysis is a set of statistical techniques for synthesizing results from multiple primary studies on a common topic. Meta-analysis can be used to synthesize effect estimates from randomized or quasi-experimental studies, and correlations between variables from descriptive studies.
 
