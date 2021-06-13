@@ -5,8 +5,8 @@ theme = "gohugo-theme-ananke"
 resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
-#ectionPagesMenu = "main"
-#Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+#SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
