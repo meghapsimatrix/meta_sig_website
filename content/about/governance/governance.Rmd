@@ -6,9 +6,9 @@ categories: ["about"]
 tags: ["officers"]
 ---
 
-**SIG Chair**
+## **SIG Chair**
 
-![](/images/jep.jpg){width="158"}
+![](/images/jep.jpg){width="119"}
 
 [James E. Pustejovsky](jepusto.com)
 
