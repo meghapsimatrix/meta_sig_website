@@ -12,7 +12,7 @@ The SRMA SIG has three main **purposes**:
 2.  To foster the development of systematic review and meta-analysis methods specific to applied research in education.
 3.  To educate researchers and practitioners on the best practices of meta-analysis.
 
-In order to meet those purposes, the SR/MA SIG has three main **goals**:
+In order to meet those purposes, the SRMA SIG has three main **goals**:
 
 1.  To produce high-quality systematic reviews and meta-analyses on educational topics.
 2.  To develop new methods and improve old methods of quantitative synthesis dedicated for the use in education and related fields.
