@@ -18,7 +18,7 @@ In order to meet those purposes, the SRMA SIG has three main **goals**:
 2.  To develop new methods and improve old methods of quantitative synthesis dedicated for the use in education and related fields.
 3.  To increase the knowledge of researchers and practitioners who utilize systematic reviews or meta-analysis.
 
-**SRMA SIG Membership** is open to any and all AERA members. For the first year, the cost to join is only \\\$5 for both non-students and students. 
+**SRMA SIG Membership** is open to any and all AERA members. For the first year, the cost to join is only \$5 for both non-students and students. 
 
 ## ![]()Governing Body (2021 - 2023)
 
