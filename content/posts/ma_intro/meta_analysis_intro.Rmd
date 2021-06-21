@@ -1,14 +1,26 @@
 ---
 title: "What is Meta-Analysis?"
-author: "MJ"
-date: 2021-06-09
+author: "Megha Joshi"
+date: 2021-06-21
 categories: ["R"]
-tags: ["meta-analysis"]
+tags: ["meta-analysis", "heterogeneity", "common effects", "fixed effects", "random effects", "meta-regression"]
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 
-Scientific researchers tend to produce literature on the same topic either to replicate or extend prior studies or due to a lack of awareness of prior evidence. Results across studies tend to vary, even when researchers try to replicate studies, due to differences in sample characteristics, research designs, analytic strategies or sampling error.
+Scientific researchers tend to produce literature on the same topic
+either to replicate or extend prior studies or due to a lack of
+awareness of prior evidence (Hedges & Cooper, 2009). Results across
+studies tend to vary, even when researchers try to replicate studies,
+due to differences in sample characteristics, research designs, analytic
+strategies or sampling error (Hedges & Cooper, 2009).
 
-Meta-analysis is a set of statistical techniques for synthesizing results from multiple primary studies on a common topic. Meta-analysis can be used to synthesize effect estimates from randomized or quasi-experimental studies, and correlations between variables from descriptive studies.
+Meta-analysis is a set of statistical techniques for synthesizing
+results from multiple primary studies on a common topic. Meta-analysis
+can be used to synthesize effect estimates from randomized or
+quasi-experimental studies, and correlations between variables from
+descriptive studies.
 
 The three major goals of meta-analysis include:
 
@@ -17,3 +29,122 @@ The three major goals of meta-analysis include:
 (2) characterizing variability in effect sizes across studies
 
 (3) explaining the variability in the effect sizes
+
+The three goals of meta-analysis are discussed below.
+
+## 1. Summarizing effect sizes
+
+The first major goal of meta-analysis is to summarize effect size
+estimates across multiple studies to estimate the average effect of an
+intervention or the average measure of the relationship between two
+variables (Konstantopoulos & Hedges, 2019). Let $m$ denote the number of
+studies in a meta-analysis, with each study contributing one effect size
+estimate, $T_i$ for $i = 1,…,m$. Below, let $w_i$ indicate some general
+weight. Effect size estimates can be pooled as follows (Konstantopoulos
+& Hedges, 2019):
+
+$$\hat{\mu} = \frac{\sum_{i= 1}^{m} w_i T_i}{\sum_{i= 1}^{m} w_i}$$
+
+One way to pool effect size estimates is by weighing them by the inverse
+of their variance estimates; these weights denote the precision of the
+estimated effect sizes (Viechtbauer, 2007).
+
+### Common and Fixed Effects Models
+
+The calculation of the inverse variance weights depends on certain
+assumptions which are discussed below. One assumption is the identical
+parameters assumption underlying the common effect model. This
+assumption states that one true effect size underlies all of the studies
+(Rice et al., 2018). An alternative assumption is the independent
+parameters assumption underlying the fixed effects model. This
+assumption treats the set of studies in a meta-analysis as all of the
+studies in the population of interest (Rice et al., 2018). When using
+the common effect and fixed effects models, the inverse variance weights
+can be calculated as $w_i = 1/ \hat{\sigma_{i}}^2$, where
+$\hat{\sigma}_i^2$ denotes the sampling error in the estimation of the
+effect sizes (Konstantopoulos & Hedges, 2019).
+
+### Random Effects Model
+
+Unlike the fixed effects model, the random effects model treats the set
+of studies in a meta-analysis as a sample of all possible studies in the
+population of interest (Higgins et al., 2009; Konstantopoulos & Hedges,
+2019). The variance of the effect sizes between studies is denoted by
+$\tau^2$ (Higgins et al., 2009; Konstantopoulos & Hedges, 2019). When
+using the random effects model, the inverse variance weights can be
+calculated as the inverse of the sum of the two variance components,
+$w_i = 1/(\hat{\tau}^2 + \hat{\sigma_{i}}^2)$, where $\hat\tau^2$ is
+some estimate of the between-study variance (Konstantopoulos & Hedges,
+2019).
+
+## 2. Characterizing Variation in Effect Sizes
+
+A commonly used statistic to characterize the variation in effect sizes
+is the $I^2$ statistics. However, Borenstein et al. (2017) argued that
+$I^2$ values do not really capture the variation in effects between
+studies. For more discussion on the trickiness in interpreting $I^2$
+values, see my blog post
+[here](https://meghapsimatrix.com/post/i_squared/).
+
+An absolute measure of heterogeneity that can be used instead to
+quantify between-study heterogeneity is $\tau^2$. It is a descriptive
+statistic that denotes the estimated variation in the true effects or,
+as Viechtbauer (2007) described it, the estimated variance of the random
+variable producing the true effect sizes.
+
+## 3. Explaining Variation in Effects
+
+In addition to pooling effect size estimates and characterizing
+variability in effect sizes, meta-analysts often want to examine what
+factors explain or are associated with the variability. Identifying
+answers to such questions can clarify whether an intervention is
+effective for groups of interest, and whether the intervention should be
+developed further to be more effective for target populations under
+relevant conditions.
+
+To explain variability in the effect sizes, a meta-regression model is
+generally used. Let $T_i$ denote effect size estimate \$i\$, \$p\$
+denote the number of regression parameters, $x_{i1}, … ,x_{i,p-1}$
+denote a set of moderator values associated with effect size estimate
+$i$, $\beta_0, …, \beta_{p-1}$ denote a vector of regression
+coefficients, and $\epsilon_i$ denote the error term (Konstantopoulos &
+Hedges, 2019). The meta-regression model can be written as follows:
+
+$$
+{T}_i = \beta_0 + x_{i1} \beta_1 \, + \,  , … , \, + \, x_{i,p-1}\beta_{p-1} + {\epsilon}_i
+$$
+
+A random effects weighted least squares meta-regression model can be
+used to estimate the parameters in the equation above. An intercept-only
+model can be used to estimate the overall average effect size. A
+statistically significant test of a regression coefficient for a
+moderator would indicate that the effects of a treatment or intervention
+depend on the level of the moderator---that the moderator explains
+statistically significant variation in the effect sizes.
+
+## References
+
+Borenstein, M., Higgins, J. P., Hedges, L. V., & Rothstein, H. R.
+(2017). Basics of meta-analysis: I2 is not an absolute measure of
+heterogeneity. *Research Synthesis Methods, 8* (1), 5--18.
+
+Hedges, L. V., & Cooper, H. M. (2009). Research synthesis as a
+scientific process. *The handbook of research synthesis and
+meta-analysis*.
+
+Higgins, J. P., Thompson, S. G., & Spiegelhalter, D. J. (2009). A
+re-evaluation of random-effects meta-analysis. *Journal of the Royal
+Statistical Society: Series A (Statistics in Society), 172* (1),
+137--159.
+
+Konstantopoulos, S., & Hedges, L. V. (2019). Statistically analyzing
+effect sizes: Fixed-and random-effects models. *The Handbook of Research
+Synthesis and Meta-Analysis*, 245--279.
+
+Rice, K., Higgins, J. P., & Lumley, T. (2018). A re-evaluation of fixed
+effect (s) meta-analysis. *Journal of the Royal Statistical Society:
+Series A (Statistics in Society)*, *181* (1), 205--227.
+
+Viechtbauer, W. (2007). Accounting for heterogeneity via random-effects
+models and moderator analyses in meta-analysis. *Zeitschrift für
+Psychologie/Journal of Psychology*, *215* (2), 104--121.
