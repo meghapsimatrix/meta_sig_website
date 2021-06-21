@@ -9,6 +9,8 @@ editor_options:
     wrap: 72
 ---
 
+*This post is based on excerpts from my dissertation.*
+
 Scientific researchers tend to produce literature on the same topic
 either to replicate or extend prior studies or due to a lack of
 awareness of prior evidence (Hedges & Cooper, 2009). Results across
@@ -47,22 +49,23 @@ $$\hat{\mu} = \frac{\sum_{i= 1}^{m} w_i T_i}{\sum_{i= 1}^{m} w_i}$$
 
 One way to pool effect size estimates is by weighing them by the inverse
 of their variance estimates; these weights denote the precision of the
-estimated effect sizes (Viechtbauer, 2007).
+estimated effect sizes (Viechtbauer, 2007). The calculation of the
+inverse variance weights depends on certain assumptions which are
+discussed below.
 
 ### Common and Fixed Effects Models
 
-The calculation of the inverse variance weights depends on certain
-assumptions which are discussed below. One assumption is the identical
-parameters assumption underlying the common effect model. This
-assumption states that one true effect size underlies all of the studies
-(Rice et al., 2018). An alternative assumption is the independent
-parameters assumption underlying the fixed effects model. This
-assumption treats the set of studies in a meta-analysis as all of the
-studies in the population of interest (Rice et al., 2018). When using
-the common effect and fixed effects models, the inverse variance weights
-can be calculated as $w_i = 1/ \hat{\sigma_{i}}^2$, where
-$\hat{\sigma}_i^2$ denotes the sampling error in the estimation of the
-effect sizes (Konstantopoulos & Hedges, 2019).
+One assumption is the identical parameters assumption underlying the
+common effect model. This assumption states that one true effect size
+underlies all of the studies (Rice et al., 2018). An alternative
+assumption is the independent parameters assumption underlying the fixed
+effects model. This assumption treats the set of studies in a
+meta-analysis as all of the studies in the population of interest (Rice
+et al., 2018). When using the common effect and fixed effects models,
+the inverse variance weights can be calculated as
+$w_i = 1/ \hat{\sigma_{i}}^2$, where $\hat{\sigma}_i^2$ denotes the
+sampling error in the estimation of the effect sizes (Konstantopoulos &
+Hedges, 2019).
 
 ### Random Effects Model
 
@@ -103,12 +106,12 @@ developed further to be more effective for target populations under
 relevant conditions.
 
 To explain variability in the effect sizes, a meta-regression model is
-generally used. Let $T_i$ denote effect size estimate \$i\$, \$p\$
-denote the number of regression parameters, $x_{i1}, … ,x_{i,p-1}$
-denote a set of moderator values associated with effect size estimate
-$i$, $\beta_0, …, \beta_{p-1}$ denote a vector of regression
-coefficients, and $\epsilon_i$ denote the error term (Konstantopoulos &
-Hedges, 2019). The meta-regression model can be written as follows:
+generally used. Let $T_i$ denote effect size estimate $i$, $p$ denote
+the number of regression parameters, $x_{i1}, … ,x_{i,p-1}$ denote a set
+of moderator values associated with effect size estimate $i$,
+$\beta_0, …, \beta_{p-1}$ denote a vector of regression coefficients,
+and $\epsilon_i$ denote the error term (Konstantopoulos & Hedges, 2019).
+The meta-regression model can be written as follows:
 
 $$
 {T}_i = \beta_0 + x_{i1} \beta_1 \, + \,  , … , \, + \, x_{i,p-1}\beta_{p-1} + {\epsilon}_i

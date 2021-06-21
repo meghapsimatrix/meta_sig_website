@@ -12,6 +12,7 @@ editor_options:
 <script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
 
 
+<p><em>This post is based on excerpts from my dissertation.</em></p>
 <p>Scientific researchers tend to produce literature on the same topic
 either to replicate or extend prior studies or due to a lack of
 awareness of prior evidence (Hedges &amp; Cooper, 2009). Results across
@@ -43,21 +44,22 @@ weight. Effect size estimates can be pooled as follows (Konstantopoulos
 <p><span class="math display">\[\hat{\mu} = \frac{\sum_{i= 1}^{m} w_i T_i}{\sum_{i= 1}^{m} w_i}\]</span></p>
 <p>One way to pool effect size estimates is by weighing them by the inverse
 of their variance estimates; these weights denote the precision of the
-estimated effect sizes (Viechtbauer, 2007).</p>
+estimated effect sizes (Viechtbauer, 2007). The calculation of the
+inverse variance weights depends on certain assumptions which are
+discussed below.</p>
 <div id="common-and-fixed-effects-models" class="section level3">
 <h3>Common and Fixed Effects Models</h3>
-<p>The calculation of the inverse variance weights depends on certain
-assumptions which are discussed below. One assumption is the identical
-parameters assumption underlying the common effect model. This
-assumption states that one true effect size underlies all of the studies
-(Rice et al., 2018). An alternative assumption is the independent
-parameters assumption underlying the fixed effects model. This
-assumption treats the set of studies in a meta-analysis as all of the
-studies in the population of interest (Rice et al., 2018). When using
-the common effect and fixed effects models, the inverse variance weights
-can be calculated as <span class="math inline">\(w_i = 1/ \hat{\sigma_{i}}^2\)</span>, where
-<span class="math inline">\(\hat{\sigma}_i^2\)</span> denotes the sampling error in the estimation of the
-effect sizes (Konstantopoulos &amp; Hedges, 2019).</p>
+<p>One assumption is the identical parameters assumption underlying the
+common effect model. This assumption states that one true effect size
+underlies all of the studies (Rice et al., 2018). An alternative
+assumption is the independent parameters assumption underlying the fixed
+effects model. This assumption treats the set of studies in a
+meta-analysis as all of the studies in the population of interest (Rice
+et al., 2018). When using the common effect and fixed effects models,
+the inverse variance weights can be calculated as
+<span class="math inline">\(w_i = 1/ \hat{\sigma_{i}}^2\)</span>, where <span class="math inline">\(\hat{\sigma}_i^2\)</span> denotes the
+sampling error in the estimation of the effect sizes (Konstantopoulos &amp;
+Hedges, 2019).</p>
 </div>
 <div id="random-effects-model" class="section level3">
 <h3>Random Effects Model</h3>
@@ -97,12 +99,12 @@ effective for groups of interest, and whether the intervention should be
 developed further to be more effective for target populations under
 relevant conditions.</p>
 <p>To explain variability in the effect sizes, a meta-regression model is
-generally used. Let <span class="math inline">\(T_i\)</span> denote effect size estimate $i$, $p$
-denote the number of regression parameters, <span class="math inline">\(x_{i1}, … ,x_{i,p-1}\)</span>
-denote a set of moderator values associated with effect size estimate
-<span class="math inline">\(i\)</span>, <span class="math inline">\(\beta_0, …, \beta_{p-1}\)</span> denote a vector of regression
-coefficients, and <span class="math inline">\(\epsilon_i\)</span> denote the error term (Konstantopoulos &amp;
-Hedges, 2019). The meta-regression model can be written as follows:</p>
+generally used. Let <span class="math inline">\(T_i\)</span> denote effect size estimate <span class="math inline">\(i\)</span>, <span class="math inline">\(p\)</span> denote
+the number of regression parameters, <span class="math inline">\(x_{i1}, … ,x_{i,p-1}\)</span> denote a set
+of moderator values associated with effect size estimate <span class="math inline">\(i\)</span>,
+<span class="math inline">\(\beta_0, …, \beta_{p-1}\)</span> denote a vector of regression coefficients,
+and <span class="math inline">\(\epsilon_i\)</span> denote the error term (Konstantopoulos &amp; Hedges, 2019).
+The meta-regression model can be written as follows:</p>
 <p><span class="math display">\[
 {T}_i = \beta_0 + x_{i1} \beta_1 \, + \,  , … , \, + \, x_{i,p-1}\beta_{p-1} + {\epsilon}_i
 \]</span></p>
