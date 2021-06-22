@@ -18,6 +18,18 @@ In order to meet those purposes, the SRMA SIG has three main **goals**:
 2.  To develop new methods and improve old methods of quantitative synthesis dedicated for the use in education and related fields.
 3.  To increase the knowledge of researchers and practitioners who utilize systematic reviews or meta-analysis.
 
-**SRMA SIG Membership** is open to any and all AERA members. For the first year, the cost to join is only \$5 for both non-students and students. 
+## Membership
+
+**SRMA SIG Membership** is open to any and all AERA members. For the first year, the cost to join is only **\$5** for both non-students and students. 
+
+The SRMA SIG has a total of 119 members.
+
+## History
+
+The SRMA SIG was conceptualized after the 2011 AERA in New Orleans by [Terri Pigott](https://www.terripigott.com/) and [Josh Polanin](https://www.air.org/person/joshua-r-polanin). The first annual business meeting was held at the 2014 AERA in Philadelphia. The first substantive program was held at the 2015 AERA in Chicago. The SRMA SIG received official SIG Status in Fall 2018. The first elections were held at the end of 2020.
+
+## Bylaws
+
+The bylaws that govern the SRMA SIG can be found [here](srma_bylaws.pdf).
 
 ## ![]()
