@@ -69,4 +69,4 @@ Hosted by: Josh Polanin
 
 *Email Josh Polanin (jpolanin&#x0040;air.org) or*
 
-*James Pustejovsky (pustejovsky&#x0040;wisc.edu).*
+*James Pustejovsky (pustejovsky&#x0040;wisc.edu)*
