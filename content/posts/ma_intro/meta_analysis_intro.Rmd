@@ -9,8 +9,6 @@ editor_options:
     wrap: 72
 ---
 
-*This post is based on excerpts from my dissertation.*
-
 Scientific researchers tend to produce literature on the same topic
 either to replicate or extend prior studies or due to a lack of
 awareness of prior evidence (Hedges & Cooper, 2009). Results across
