@@ -67,6 +67,6 @@ Hosted by: Josh Polanin
 
 **Questions?**
 
-*Email Josh Polanin ([jpolanin\\&#x0040;air.org](mailto:jpolanin@air.org)) or*
+*Email Josh Polanin (jpolanin&#x0040;air.org) or*
 
-*James Pustejovsky ([pustejovsky\\&#x0040;wisc.edu](mailto:pustejovsky@wisc.edu)).*
+*James Pustejovsky (pustejovsky&#x0040;wisc.edu).*
