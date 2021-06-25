@@ -33,8 +33,7 @@ Session Type: Roundtable Session
 
 -   A Systematic Review of Eye Tracking in Computational Thinking Skills of Children - Man Niu, University of British Columbia
 
--   A Systematic Literature Review of Novice/K--12 Visual Representations of Design
-    Ideas - Mehdi Ghahremani, Mississippi State University
+-   A Systematic Literature Review of Novice/K--12 Visual Representations of Design Ideas - Mehdi Ghahremani, Mississippi State University
 
 -   Learner-Facing Learning Analytics Dashboards: A Systematic Literature Review Focusing on Domain Measures and Evaluation - Natercia Valle, Cornell University
 
@@ -48,16 +47,15 @@ Session Type: Roundtable Session
 
 Session Type: Paper Session
 
-Extending the Investigation of the Learning and Study Strategies Inventory's Factor
-Structure: A Meta-Analytic Structural Equation Modeling Approach - Carlton J. Fong, Texas State University
+-   Extending the Investigation of the Learning and Study Strategies Inventory's Factor Structure: A Meta-Analytic Structural Equation Modeling Approach - Carlton J. Fong, Texas State University
 
-Summary Effect Sizes in Meta-Analyses of Flipped Classroom and Group Learning Interventions - Torstein Låg, UIT The Arctic University of Norway
+-   Summary Effect Sizes in Meta-Analyses of Flipped Classroom and Group Learning Interventions - Torstein Låg, UIT The Arctic University of Norway
 
-Disproportionality Reduction in Exclusionary School Discipline: A Best-Evidence Synthesis - Rebecca A Cruz, San Jose State University
+-   Disproportionality Reduction in Exclusionary School Discipline: A Best-Evidence Synthesis - Rebecca A Cruz, San Jose State University
 
-Effectiveness of Self-Regulated Learning Strategies on Academic Achievement in Online and Blended Environments: A Meta-Analysis - Zhihong Xu, Texas A&M University - College Station
+-   Effectiveness of Self-Regulated Learning Strategies on Academic Achievement in Online and Blended Environments: A Meta-Analysis - Zhihong Xu, Texas A&M University - College Station
 
-Effective Tier 1 Reading Instruction for Elementary Schools: A Systematic Review - Nathan Storey, Johns Hopkins University
+-   Effective Tier 1 Reading Instruction for Elementary Schools: A Systematic Review - Nathan Storey, Johns Hopkins University
 
 **Sunday, April 11, 2021**
 
@@ -67,10 +65,8 @@ Session Type: Business Meeting
 
 Hosted by: Josh Polanin
 
-
-
 **Questions?**
 
-*Email Josh Polanin ([jpolanin\@air.org](mailto:jpolanin@air.org)) or*
+*Email Josh Polanin ([jpolanin\\&#x0040;air.org](mailto:jpolanin@air.org)) or*
 
-*James Pustejovsky ([pustejovsky\@wisc.edu](mailto:pustejovsky@wisc.edu)).*
+*James Pustejovsky ([pustejovsky\\&#x0040;wisc.edu](mailto:pustejovsky@wisc.edu)).*
