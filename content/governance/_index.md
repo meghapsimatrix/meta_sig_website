@@ -18,7 +18,7 @@ I am a statistician and associate professor in the [School of Education](https:/
 
 ![](/images/sp.jpg)
 
-### [Sunyoung Park](https://www.callutheran.edu/faculty/profile.html?id=sunyoungpark)
+### [**Sunyoung Park**](https://www.callutheran.edu/faculty/profile.html?id=sunyoungpark)
 
 *Pronouns: she/her/hers*
 
@@ -28,7 +28,7 @@ I am an Assistant Professor in Graduate Psychology and the Master of Science Pro
 
 ![](/images/mj.jpeg)
 
-### [Megha Joshi](https://meghapsimatrix.com/)
+### [**Megha Joshi**](https://meghapsimatrix.com/)
 
 *Pronouns: she/her/hers*
 
