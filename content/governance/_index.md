@@ -8,7 +8,7 @@ title: SIG Officers 2021-2023
 
 ![](/images/jep.jpg)
 
-### **James E. Pustejovsky**
+### [**James E. Pustejovsky**](https://www.jepusto.com/)
 
 *Pronouns: he/him/his*
 
