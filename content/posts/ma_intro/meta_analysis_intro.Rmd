@@ -123,6 +123,8 @@ moderator would indicate that the effects of a treatment or intervention
 depend on the level of the moderator---that the moderator explains
 statistically significant variation in the effect sizes.
 
+*This post is based on excerpts from the author's dissertation.*
+
 ## References
 
 Borenstein, M., Higgins, J. P., Hedges, L. V., & Rothstein, H. R.
