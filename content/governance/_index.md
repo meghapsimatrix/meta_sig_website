@@ -14,6 +14,17 @@ title: SIG Officers 2021-2023
 
 I am a statistician and associate professor in the [School of Education](https://education.wisc.edu/) at the [University of Wisconsin-Madison](https://www.wisc.edu/), where I teach in the [Educational Psychology Department](https://edpsych.education.wisc.edu/) and the [graduate program in Quantitative Methods](https://edpsych.education.wisc.edu/academics/quantitative-methods/). My research involves developing statistical methods for problems in education, psychology, and other areas of social science research, with a focus on methods related to research synthesis and meta-analysis.
 
+## **Outgoing SIG Chair**
+
+![](/images/jp.jpg)
+
+### [**Joshua R. Polanin**](https://www.air.org/person/joshua-r-polanin)
+
+*Pronouns: he/him/his*
+
+I am a principal researcher in the Human Services division at American Institutes for Research (AIR). I am a quantitative methodologist working across [education](https://journals.sagepub.com/doi/full/10.1177/2332858418791991), [criminology](https://journals.sagepub.com/doi/full/10.3102/0034654316632061?casa_token=iaFE1DQIdtMAAAAA%3AIj1ZuO3RB2iahN3uXFqvjjj2VLH4UHXH899AEn_uPCXE68HaiOLsVAigPkiZ8SIlwOli6eu_e6HHQQ), [public health](https://www.tandfonline.com/doi/abs/10.1080/13811118.2019.1663329), and [methodology](https://journals.sagepub.com/doi/full/10.1177/1745691620906416?casa_token=IQGRUs59TBkAAAAA%3AwlKa2v1PW5UejPF9ncqKyqWswOF7caM8a04TLrhvGuHfUh_VlBKIyOp2cujJhUV4dylF24rJGTyBNA). I have several projects ongoing, including, as Principal Investigator, a National Science Foundation project[
+*Effects of the Engagement, Exploration, Explanation, Elaboration, and Evaluation Instructional Model: Systematic Review and Innovation Through New Meta-Analysis Methodology*](https://www.research.gov/research-portal/appmanager/base/desktop;jsessionid=Gz4hfpjRr0HrQTL2m48MQLBKz87LwztX6HgjDhpVLT62B1y4bMSY!717582469!-1003691897?_nfpb=true&_windowLabel=rsrViewAllAwards_1_2&wsrp-urlType=blockingAction&wsrp-url=&wsrp-requiresRewrite=&wsrp-navigationalState=eJyLL07OL0i1Tc-JT0rMUYNQtgBZ6Af8&wsrp-interactionState=wlprsrViewAllAwards_1_2_action%3DviewRsrDetail%26wlprsrViewAllAwards_1_2_fedAwrdId%3D2000672&wsrp-mode=wsrp%3Aview&wsrp-windowState=), which is conducting a comprehensive review of the 5E instructional model as well as creating the first open-source, collaborative relational database specifically for conducting systematic reviews. In 2020, I won the [*Early Career Award*](https://www.sree.org/2020-early-career-winners-announcement) from the *Society for Research on Educational Evaluation*.
+
 ## Treasurer
 
 ![](/images/sp.jpg)
