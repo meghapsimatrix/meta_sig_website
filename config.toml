@@ -1,5 +1,5 @@
 title = "SRMA SIG"
-baseURL = "https://example.com"
+baseURL = "www.srmasig.org"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 resourceDir = "../resources"
