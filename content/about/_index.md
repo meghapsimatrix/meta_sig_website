@@ -20,7 +20,7 @@ In order to meet those purposes, the SRMA SIG has three main **goals**:
 
 ## Membership
 
-**SRMA SIG Membership** is open to any and all AERA members. For the first year, the cost to join is only **\\\\\$5** for both non-students and students. 
+**SRMA SIG Membership** is open to any and all AERA members. For the first year, the cost to join is only **\$5** for both non-students and students. 
 
 The SRMA SIG has a total of 119 members.
 
