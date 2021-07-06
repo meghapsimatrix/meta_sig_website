@@ -52,12 +52,7 @@ I am an Assistant Professor in Graduate Psychology and the Master of Science Pro
 
 *Pronouns: she/her/hers*
 
-I'm a senior researcher in the Human Services division at the American
-Institutes for Research (AIR). I use quantitative modeling and evidence
-synthesis to improve the use and translation of evidence in youth
-development. I also develop interactive data visualizations and open-source software tools to support systematic review and meta-analysis methods. My research has
-been published in academic journals including [*Psychological Science*](https://onlinelibrary.wiley.com/doi/abs/10.1111/desc.12388)*, [Developmental Science](https://onlinelibrary.wiley.com/doi/abs/10.1111/desc.12388),* and [*Behavioral and Brain Sciences*](https://pubmed.ncbi.nlm.nih.gov/29342753/)*,* and has also been featured in the popular press, such as [*Medium*](https://elemental.medium.com/the-ongoing-controversy-over-the-marshmallow-test-b495db1809be)*.* I have worked on multiple evidence clearinghouse entities including the What Works Clearinghouse and Blueprints for Healthy Youth Development
-and am a co-founder of the [Methods of Synthesis and Integration Center (MOSAIC)](http://mosaic.air.org/) at AIR.
+I'm a senior researcher in the Human Services division at the American Institutes for Research (AIR). I use quantitative modeling and evidence synthesis to improve the use and translation of evidence in youth development. I also develop interactive data visualizations and open-source software tools to support systematic review and meta-analysis methods. My research has been published in academic journals including [*Psychological Science*](https://onlinelibrary.wiley.com/doi/abs/10.1111/desc.12388)*, [Developmental Science](https://onlinelibrary.wiley.com/doi/abs/10.1111/desc.12388),* and [*Behavioral and Brain Sciences*](https://pubmed.ncbi.nlm.nih.gov/29342753/)*,* and has also been featured in the popular press, such as [*Medium*](https://elemental.medium.com/the-ongoing-controversy-over-the-marshmallow-test-b495db1809be)*.* I have worked on multiple evidence clearinghouse entities including the What Works Clearinghouse and Blueprints for Healthy Youth Development and am a co-founder of the [Methods of Synthesis and Integration Center (MOSAIC)](http://mosaic.air.org/) at AIR.
 
 ## Graduate Student Member-at-Large
 
