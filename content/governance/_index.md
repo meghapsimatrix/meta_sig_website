@@ -44,6 +44,10 @@ I'm a researcher in the Research and Evaluation Division at American Institutes 
 
 I am an Assistant Professor in Graduate Psychology and the Master of Science Program in Clinical Psychology at California Lutheran University. I joined CLU's faculty in 2018 as assistant professor. I have served as a committee member of Graduate Academic Standards at CLU. I received my bachelor's degree in Korean literature and psychology from Sogang University. And, I received master's degree in measurement and statistics from Korea University and master's degree in program evaluation from University of Texas at Austin. Then, I worked at Institute of Education Sciences grant, Meadows Center for Preventing Educational Risk, and Department of Educational Psychology as graduate research assistantship where I earned a doctoral degree in 2018 from the Educational Psychology department specializing in quantitative methods. I have expertise in quantitative methods as applied to the social behavioral sciences including meta-analysis and multilevel models. 
 
+## Secretary
+
+### [**Laura Michaelson**](https://www.air.org/person/laura-michaelson)
+
 ## Graduate Student Member-at-Large
 
 ![](/images/mj.jpeg)
