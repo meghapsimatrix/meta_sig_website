@@ -22,7 +22,7 @@ I am a statistician and associate professor in the [School of Education](https:/
 
 *Pronouns: he/him/his*
 
-I am a principal researcher in the Human Services division at American Institutes for Research (AIR). I am a quantitative methodologist working across [education](https://journals.sagepub.com/doi/full/10.1177/2332858418791991), [criminology](https://journals.sagepub.com/doi/full/10.3102/0034654316632061?casa_token=iaFE1DQIdtMAAAAA%3AIj1ZuO3RB2iahN3uXFqvjjj2VLH4UHXH899AEn_uPCXE68HaiOLsVAigPkiZ8SIlwOli6eu_e6HHQQ), [public health](https://www.tandfonline.com/doi/abs/10.1080/13811118.2019.1663329), and [methodology](https://journals.sagepub.com/doi/full/10.1177/1745691620906416?casa_token=IQGRUs59TBkAAAAA%3AwlKa2v1PW5UejPF9ncqKyqWswOF7caM8a04TLrhvGuHfUh_VlBKIyOp2cujJhUV4dylF24rJGTyBNA). I have several projects ongoing, including, as Principal Investigator, a National Science Foundation project[*Effects of the Engagement, Exploration, Explanation, Elaboration, and Evaluation Instructional Model: Systematic Review and Innovation Through New Meta-Analysis Methodology*](https://www.research.gov/research-portal/appmanager/base/desktop;jsessionid=Gz4hfpjRr0HrQTL2m48MQLBKz87LwztX6HgjDhpVLT62B1y4bMSY!717582469!-1003691897?_nfpb=true&_windowLabel=rsrViewAllAwards_1_2&wsrp-urlType=blockingAction&wsrp-url=&wsrp-requiresRewrite=&wsrp-navigationalState=eJyLL07OL0i1Tc-JT0rMUYNQtgBZ6Af8&wsrp-interactionState=wlprsrViewAllAwards_1_2_action%3DviewRsrDetail%26wlprsrViewAllAwards_1_2_fedAwrdId%3D2000672&wsrp-mode=wsrp%3Aview&wsrp-windowState=), which is conducting a comprehensive review of the 5E instructional model as well as creating the first open-source, collaborative relational database specifically for conducting systematic reviews. In 2020, I won the [*Early Career Award*](https://www.sree.org/2020-early-career-winners-announcement) from the *Society for Research on Educational Evaluation*.
+I am a principal researcher in the Human Services division at American Institutes for Research (AIR). I am a quantitative methodologist working across [education](https://journals.sagepub.com/doi/full/10.1177/2332858418791991), [criminology](https://journals.sagepub.com/doi/full/10.3102/0034654316632061?casa_token=iaFE1DQIdtMAAAAA%3AIj1ZuO3RB2iahN3uXFqvjjj2VLH4UHXH899AEn_uPCXE68HaiOLsVAigPkiZ8SIlwOli6eu_e6HHQQ), [public health](https://www.tandfonline.com/doi/abs/10.1080/13811118.2019.1663329), and [methodology](https://journals.sagepub.com/doi/full/10.1177/1745691620906416?casa_token=IQGRUs59TBkAAAAA%3AwlKa2v1PW5UejPF9ncqKyqWswOF7caM8a04TLrhvGuHfUh_VlBKIyOp2cujJhUV4dylF24rJGTyBNA). I have several projects ongoing, including, as Principal Investigator, a National Science Foundation project [*Effects of the Engagement, Exploration, Explanation, Elaboration, and Evaluation Instructional Model: Systematic Review and Innovation Through New Meta-Analysis Methodology*](https://www.research.gov/research-portal/appmanager/base/desktop;jsessionid=Gz4hfpjRr0HrQTL2m48MQLBKz87LwztX6HgjDhpVLT62B1y4bMSY!717582469!-1003691897?_nfpb=true&_windowLabel=rsrViewAllAwards_1_2&wsrp-urlType=blockingAction&wsrp-url=&wsrp-requiresRewrite=&wsrp-navigationalState=eJyLL07OL0i1Tc-JT0rMUYNQtgBZ6Af8&wsrp-interactionState=wlprsrViewAllAwards_1_2_action%3DviewRsrDetail%26wlprsrViewAllAwards_1_2_fedAwrdId%3D2000672&wsrp-mode=wsrp%3Aview&wsrp-windowState=), which is conducting a comprehensive review of the 5E instructional model as well as creating the first open-source, collaborative relational database specifically for conducting systematic reviews. In 2020, I won the [*Early Career Award*](https://www.sree.org/2020-early-career-winners-announcement) from the *Society for Research on Educational Evaluation*.
 
 ## **Program Chair**
 
@@ -46,7 +46,18 @@ I am an Assistant Professor in Graduate Psychology and the Master of Science Pro
 
 ## Secretary
 
+![](/images/lm.jpg)
+
 ### [**Laura Michaelson**](https://www.air.org/person/laura-michaelson)
+
+*Pronouns: she/her/hers*
+
+I'm a senior researcher in the Human Services division at the American
+Institutes for Research (AIR). I use quantitative modeling and evidence
+synthesis to improve the use and translation of evidence in youth
+development. I also develop interactive data visualizations and open-source software tools to support systematic review and meta-analysis methods. My research has
+been published in academic journals including [*Psychological Science*](https://onlinelibrary.wiley.com/doi/abs/10.1111/desc.12388)*, [Developmental Science](https://onlinelibrary.wiley.com/doi/abs/10.1111/desc.12388),* and [*Behavioral and Brain Sciences*](https://pubmed.ncbi.nlm.nih.gov/29342753/)*,* and has also been featured in the popular press, such as [*Medium*](https://elemental.medium.com/the-ongoing-controversy-over-the-marshmallow-test-b495db1809be)*.* I have worked on multiple evidence clearinghouse entities including the What Works Clearinghouse and Blueprints for Healthy Youth Development
+and am a co-founder of the [Methods of Synthesis and Integration Center (MOSAIC)](http://mosaic.air.org/) at AIR.
 
 ## Graduate Student Member-at-Large
 
