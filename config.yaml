@@ -1,5 +1,5 @@
 title: Notre-Dame de Paris
-baseURL: www.srmasig.org
+baseURL: https://www.srmasig.org/
 languageCode: en-us
 theme: gohugo-theme-ananke
 resourceDir: ../resources
