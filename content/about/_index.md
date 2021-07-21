@@ -32,4 +32,6 @@ The SRMA SIG was conceptualized after the 2011 AERA in New Orleans by [Terri Pig
 
 The bylaws that govern the SRMA SIG can be found [here](srma_bylaws.pdf).
 
-## ![]()
+## Disclaimer
+
+This website represents the news, updates, and general purposes of the SRMA SIG of the American Educational Research Association (AERA).
