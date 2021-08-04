@@ -1,0 +1,97 @@
+---
+title: "Spotlight: Recent Graduate"
+author: ""
+date: 2021-08-04
+categories: ["spotlight"]
+tags: ["spotlight", "meta-analysis", "recent graduate"]
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+## [Karina G. Diaz](https://www.kgdiaz.com/)
+
+![](/images/kgd.jpg){width="417"}
+
+*Pronouns: she/her/hers*
+
+**Tell us a bit about yourself.**
+
+My name is Karina Diaz, I'm a research specialist at the Consortium for
+Policy Research in Education (CPRE) at the University of Pennsylvania.
+I'm primarily responsible for the design and execution of quantitative
+analyses for funded research studies, including efficacy evaluations and
+large-scale projects with experimental and quasi-experimental designs.
+Prior to this, I collaborated as a research assistant at the STEPP
+Center at the Institute for Policy Research (IPR) at Northwestern
+University.
+
+**How did you get into systematic review and/or meta-analysis
+research?**
+
+While working as a researcher in Chile, I wanted to understand what the
+most effective type of professional development educational programs
+were. To my surprise, I found a great number of studies, which provided
+a variety of different recommendations. I found this to be both exciting
+and confusing. I finally came across a meta-analysis that addressed this
+research question and that proved to be very useful in clarifying
+conclusions previously published on this topic.
+
+Years later, while I was working on my master's degree at Teachers
+College, I took a statistics class with Beth Tipton. She mentioned how
+her field of study was meta-analysis and explained many of the
+statistical challenges of systemic reviews. I started participating in
+her students' research group, where we reviewed different theoretical
+and practical articles on meta-analysis.
+
+**What work do you do now that is related to systematic review and/or
+meta-analysis?**
+
+My research interests include methods for meta-analysis, design and
+analysis of experiments, and advances to missing data approaches. Much
+of my methodological work is motivated by statistical inference
+questions arising in social research, particularly in educational
+research.
+
+I'm currently working on methods to handle missing data of covariates in
+meta-regression and on the development of effect size estimators used in
+systematic reviews. I'm also collaborating on a meta-analysis that seeks
+to evaluate the utility of Emotional approach coping (EAC) in response
+to a variety of stressors (i.e., general, health-related,
+trauma-related, and interpersonal). These findings may help determine
+the most beneficial applications of EAC and serve as a framework for
+evaluating the utility of other coping mechanisms.
+
+**What do you love about systematic review and/or meta-analysis?**
+
+One of the things that I value the most about systematic reviews is that
+they provide clarification on conclusions previously published on a
+particular topic of interest. It does this by increasing the statistical
+power through combined analysis. Meta-analysis results can then help
+policymakers and practitioners make evidence-based decisions about
+specific interventions, programs, and practices.
+
+Systematic reviews are not only used to aggregate evidence relating to a
+specific topic, but also to make clear what is not known and, thus, to
+direct new primary research into areas where there might be a gap in the
+body of knowledge.
+
+**What advice do you have for graduate students and early career
+researchers about working in systematic review and meta-analysis
+research?**
+
+Conducting a meta-analysis is an extensive, meticulous process that may
+take months to complete. Before staring a meta-analysis, I would suggest
+identifying the question that you want to answer. Understanding if there
+is a gap in the literature and whether a systematic review is needed.
+Second, make sure your meta-analysis includes both published and
+unpublished sources for data collection. Third, explore missingness in
+your data and select the appropriate approach to handle missing data. I
+would recommend implementing model base methods instead of ad hoc
+approaches, such as complete-case analysis and shifting units of
+analysis.
+
+Finally, I would encourage practitioners to provide raw data underlying
+their systematic review. Providing access to raw data could contribute
+to the advance of science and the improvement of research synthesis
+practices.
