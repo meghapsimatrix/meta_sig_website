@@ -1,0 +1,39 @@
+---
+title: "Introducing MOSAIC from American Institutes for Research"
+author: ""
+date: 2021-08-19
+categories: ["Resources"]
+tags: ["meta-analysis"]
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+The American Institutes for Research® (AIR®) recently launched the
+[Methods of Synthesis and Integration
+Center (MOSAIC)](http://mosaic.air.org/). The center supports projects
+that synthesize evidence across multiple studies to inform stakeholders
+and create evidence-based solutions in education, health, international
+development, social welfare, and the workforce. At MOSAIC, leading
+experts in evidence synthesis methodology work to develop
+state-of-the-art synthesis tools. AIR's [Martyna
+Citkowicz](https://www.air.org/experts/person/martyna-citkowicz), [Laura
+Michaelson](https://www.air.org/experts/person/laura-michaelson), [David
+Miller](https://www.air.org/experts/person/david-i-miller), [Josh
+Polanin](https://www.air.org/experts/person/joshua-r-polanin), and [Ryan
+Williams](https://www.air.org/experts/person/ryan-williams) lead the
+center.
+
+Earlier this year, MOSAIC researchers, sponsored by the Institute of
+Education Sciences, completed the largest systematic review and
+meta-analysis of mathematics intervention effects to date. AIR shared
+the results of the project, including the underlying data, through an
+[interactive web
+tool](https://www.air.org/centers/mosaic/mosaic-db "interactive web tool ")
+that enables users to "build their own" meta-analysis. The tool
+summarizes results from more than 200 mathematics intervention studies
+from the last 25 years and presents the results through a host of
+analytics and visuals. 
+
+To learn more, visit the MOSAIC website at
+[mosaic.air.org](http://mosaic.air.org/).
