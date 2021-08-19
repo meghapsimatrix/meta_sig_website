@@ -29,7 +29,7 @@ Education Sciences, completed the largest systematic review and
 meta-analysis of mathematics intervention effects to date. AIR shared
 the results of the project, including the underlying data, through an
 [interactive web
-tool](https://www.air.org/centers/mosaic/mosaic-db "interactive web tool ")
+tool](https://www.air.org/centers/mosaic/mosaic-db "interactive web tool")
 that enables users to "build their own" meta-analysis. The tool
 summarizes results from more than 200 mathematics intervention studies
 from the last 25 years and presents the results through a host of
@@ -37,3 +37,6 @@ analytics and visuals. 
 
 To learn more, visit the MOSAIC website at
 [mosaic.air.org](http://mosaic.air.org/).
+
+[Here](https://www.air.org/sites/default/files/2021-08/MOSAIC-Infographic-v2-August-2021.pdf)
+is an infographic describing the center.
