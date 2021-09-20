@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AERA Program on Meta SIG</title>
+    <title>AERA Program on SRMA SIG</title>
     <link>/program/</link>
-    <description>Recent content in AERA Program on Meta SIG</description>
+    <description>Recent content in AERA Program on SRMA SIG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
 	<atom:link href="/program/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>AERA Program 2022</title>
-      <link>/program/program/aera_program/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/program/program/aera_program/</guid>
-      <description>Add program here</description>
-    </item>
     
   </channel>
 </rss>

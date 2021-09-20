@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fixed effects on SRMA SIG</title>
+    <link>/tags/fixed-effects/</link>
+    <description>Recent content in fixed effects on SRMA SIG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/fixed-effects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is Meta-Analysis?</title>
+      <link>/posts/ma_methods/meta_analysis_intro/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/ma_methods/meta_analysis_intro/</guid>
+      <description>Scientific researchers tend to produce literature on the same topiceither to replicate or extend prior studies or due to a lack ofawareness of prior evidence (Hedges &amp;amp; Cooper, 2009). Results acrossstudies tend to vary, even when researchers try to replicate studies,due to differences in sample characteristics, research designs, analyticstrategies or sampling error (Hedges &amp;amp; Cooper, 2009).
+Meta-analysis is a set of statistical techniques for synthesizingresults from multiple primary studies on a common topic.</description>
+    </item>
+    
+  </channel>
+</rss>
