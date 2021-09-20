@@ -2,7 +2,6 @@
 description: 'Systematic Reviews and Meta-Analysis Methodology'
 featured_image: ""
 title: Online Seminar
-draft: true
 ---
 
 The AERA SIG on Systematic Review and Meta-Analysis is proud to present a regular, online seminar series on the methodology of systematic reviews, meta-analysis, and evidence synthesis for education research and the broader social sciences. Live seminars are scheduled for __*Third Fridays*__ of the month, from 9-10 a.m. Pacific/10-11 a.m. Mountain/11 a.m.-12 noon Central/12-1 p.m. Eastern/16:00-17:00 UTC. The seminars are open to all (you need not be a SIG or AERA member) but require registering. Most talks will be recorded and made available for later viewing. 
@@ -33,9 +32,10 @@ __*Missing Covariates in Meta-Regression: Considerations and Implications*__
 
     - [Jacob Schauer](https://www.jmschauer.com/), Northwestern University
     - [Jihyun Lee](https://education.utexas.edu/student/jihyun_lee), University of Texas at Austin
-    - [Karina Diaz](https://www.kgdiaz.com/), Teachers College, Columbia Unversity 
+    - [Karina Diaz-Yanez](https://www.kgdiaz.com/), University of Pennsylvania 
     - [Terri Pigott](https://www.terripigott.com/), Georgia State University
 
+- Description: This talk will take a deep dive into methods for exploring and handling missing covariates in meta-regression analysis. The speakers will highlight examples of exploratory data analysis techniques and share results of on-going research on methods for handling missing covariate information in a meta-regression. The speakers will present for 30-45 minutes, followed by a Q&A and discussion period. 
 
 ### November 19, 2021
 
