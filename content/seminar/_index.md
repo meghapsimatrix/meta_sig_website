@@ -14,7 +14,7 @@ If you currently subscribe to the mailing list and would like to un-subscribe, y
 
 # Google Calendar
 
-You can find a Google Calendar with all of our events here.
+You can find a Google Calendar with [all of our events here](https://calendar.google.com/calendar/u/0?cid=MDB1bW1la2x0MzNmcDZndm8zcGo1aXRpY2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
 # Suggest a Speaker
 
