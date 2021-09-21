@@ -22,6 +22,8 @@ Is there a scholar who you would like to hear from as part of the seminar? Are y
 
 # Acknowledgements
 
+The seminar series is supported by the Institute of Education Sciences, U.S. Department of Education, through Grant R305B190002, the Meta-Analysis Training Institute, and by the National Science Foundation through Award 1937642, the Modern Meta-Analysis Research Institute.
+
 # Upcoming events
 
 ### October 22, 2021
