@@ -8,17 +8,15 @@ The AERA SIG on Systematic Review and Meta-Analysis is proud to present a regula
 
 # Mailing List
 
-To get regular updates about upcoming presentations, please join the seminar series mailing list. 
-
-If you currently subscribe to the mailing list and would like to un-subscribe, you can do so here.
+To get regular updates about upcoming presentations, please [register here](https://docs.google.com/forms/d/1TuDpxGVv-hc2I7m3lTh_mne35WZ18aplF9pztYIkyzg/).
 
 # Google Calendar
 
-You can find a Google Calendar with [all of our events here](https://calendar.google.com/calendar/u/0?cid=MDB1bW1la2x0MzNmcDZndm8zcGo1aXRpY2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+You can find a Google Calendar with [all of our events here](https://calendar.google.com/calendar/embed?src=00ummeklt33fp6gvo3pj5itick%40group.calendar.google.com&ctz=America%2FChicago).
 
 # Suggest a Speaker
 
-Is there a scholar who you would like to hear from as part of the seminar? Are you interested in presenting your own work on evidence synthesis methodology? Please feel free to reach out with suggestions, including self-nominations, to [James Pustejovsky](mailto: pustejovsky@wisc.edu). Nominations will be considered if they fall within the scope of the seminar series. Speakers need not be members of AERA. Scholars from outside of North America are welcome.
+Is there a scholar who you would like to hear from as part of the seminar? Are you interested in presenting your own work on evidence synthesis methodology? Please feel free to reach out with suggestions, including self-nominations, to [James Pustejovsky](mailto:pustejovsky@wisc.edu). Nominations will be considered if they fall within the scope of the seminar series. Speakers need not be members of AERA. We welcome scholars from outside of North America.
 
 # Acknowledgements
 
@@ -37,11 +35,15 @@ __*Missing Covariates in Meta-Regression: Considerations and Implications*__
 
 - Description: This talk will take a deep dive into methods for exploring and handling missing covariates in meta-regression analysis. The speakers will highlight examples of exploratory data analysis techniques and share results of on-going research on methods for handling missing covariate information in a meta-regression. The speakers will present for 30-45 minutes, followed by a Q&A and discussion period. 
 
+- [Register to attend](https://docs.google.com/forms/d/1TuDpxGVv-hc2I7m3lTh_mne35WZ18aplF9pztYIkyzg/)
+
 ### November 19, 2021
 
 __*Modeling Statistical Artefacts in Meta-Analysis*__
 
 - Speaker: [Brenton Wiernik](https://wiernik.org/), University of South Florida
+
+- [Register to attend](https://docs.google.com/forms/d/1TuDpxGVv-hc2I7m3lTh_mne35WZ18aplF9pztYIkyzg/)
 
 ### December 17, 2021
 
@@ -49,11 +51,15 @@ __*One-stage Meta-Analytic Structural Equation Modeling*__
 
 - Speaker: [Suzanne Jak](http://www.suzannejak.nl/), University of Amsterdam
 
+- [Register to attend](https://docs.google.com/forms/d/1TuDpxGVv-hc2I7m3lTh_mne35WZ18aplF9pztYIkyzg/)
+
 ### January 21, 2022
 
 __*Implications of Open Science for Research Syntheses in Education*__
 
 - Speaker: [Erika Patall](https://rossier.usc.edu/faculty/erika-patall/), University of Southern California
+
+- [Register to attend](https://docs.google.com/forms/d/1TuDpxGVv-hc2I7m3lTh_mne35WZ18aplF9pztYIkyzg/)
 
 ### February 18, 2022
 
@@ -61,14 +67,20 @@ __*Model-Building with Complex Meta-Regression: Strategies and Considerations*__
 
 - Speaker: [Ryan Williams](https://www.air.org/experts/person/ryan-williams), American Institutes for Research
 
+- [Register to attend](https://docs.google.com/forms/d/1TuDpxGVv-hc2I7m3lTh_mne35WZ18aplF9pztYIkyzg/)
+
 ### March 18, 2022
 
 __*Using Multilevel Modeling for Meta-Analyzing Single-Design Research*__
 
 - Speaker: [Mariola Moeyaert](https://www.albany.edu/education/faculty/mariola-moeyaert), University of Albany
 
+- [Register to attend](https://docs.google.com/forms/d/1TuDpxGVv-hc2I7m3lTh_mne35WZ18aplF9pztYIkyzg/)
+
 ### April 15, 2022
 
 __*Sensitivity Analyses for Unmeasured Confounding in Meta-Analyses*__
 
 - Speaker: [Maya Mathur](https://www.mayamathur.com/), Stanford University
+
+- [Register to attend](https://docs.google.com/forms/d/1TuDpxGVv-hc2I7m3lTh_mne35WZ18aplF9pztYIkyzg/)
