@@ -8,7 +8,7 @@ The AERA SIG on Systematic Review and Meta-Analysis is proud to present a regula
 
 # Mailing List
 
-To get regular updates about upcoming presentations, please [register here](https://docs.google.com/forms/d/1TuDpxGVv-hc2I7m3lTh_mne35WZ18aplF9pztYIkyzg/).
+To get regular updates about upcoming presentations, please [register here](https://forms.gle/H5LzMmHfEJuoUPru8).
 
 # Google Calendar
 
@@ -37,7 +37,7 @@ __*Missing Covariates in Meta-Regression: Considerations and Implications*__
 
 - Description: This talk will take a deep dive into methods for exploring and handling missing covariates in meta-regression analysis. The speakers will highlight examples of exploratory data analysis techniques and share results of on-going research on methods for handling missing covariate information in a meta-regression. The speakers will present for 30-45 minutes, followed by a Q&A and discussion period. 
 
-- [Register to attend](https://docs.google.com/forms/d/1TuDpxGVv-hc2I7m3lTh_mne35WZ18aplF9pztYIkyzg/)
+- [Register to attend](https://forms.gle/H5LzMmHfEJuoUPru8)
 
 ### November 19, 2021
 
@@ -45,7 +45,7 @@ __*Modeling Statistical Artefacts in Meta-Analysis*__
 
 - Speaker: [Brenton Wiernik](https://wiernik.org/), University of South Florida
 
-- [Register to attend](https://docs.google.com/forms/d/1TuDpxGVv-hc2I7m3lTh_mne35WZ18aplF9pztYIkyzg/)
+- [Register to attend](https://forms.gle/H5LzMmHfEJuoUPru8)
 
 ### December 17, 2021
 
@@ -53,7 +53,7 @@ __*One-stage Meta-Analytic Structural Equation Modeling*__
 
 - Speaker: [Suzanne Jak](http://www.suzannejak.nl/), University of Amsterdam
 
-- [Register to attend](https://docs.google.com/forms/d/1TuDpxGVv-hc2I7m3lTh_mne35WZ18aplF9pztYIkyzg/)
+- [Register to attend](https://forms.gle/H5LzMmHfEJuoUPru8)
 
 ### January 21, 2022
 
@@ -61,7 +61,7 @@ __*Implications of Open Science for Research Syntheses in Education*__
 
 - Speaker: [Erika Patall](https://rossier.usc.edu/faculty/erika-patall/), University of Southern California
 
-- [Register to attend](https://docs.google.com/forms/d/1TuDpxGVv-hc2I7m3lTh_mne35WZ18aplF9pztYIkyzg/)
+- [Register to attend](https://forms.gle/H5LzMmHfEJuoUPru8)
 
 ### February 18, 2022
 
@@ -69,7 +69,7 @@ __*Model-Building with Complex Meta-Regression: Strategies and Considerations*__
 
 - Speaker: [Ryan Williams](https://www.air.org/experts/person/ryan-williams), American Institutes for Research
 
-- [Register to attend](https://docs.google.com/forms/d/1TuDpxGVv-hc2I7m3lTh_mne35WZ18aplF9pztYIkyzg/)
+- [Register to attend](https://forms.gle/H5LzMmHfEJuoUPru8)
 
 ### March 18, 2022
 
@@ -77,7 +77,7 @@ __*Using Multilevel Modeling for Meta-Analyzing Single-Design Research*__
 
 - Speaker: [Mariola Moeyaert](https://www.albany.edu/education/faculty/mariola-moeyaert), University of Albany
 
-- [Register to attend](https://docs.google.com/forms/d/1TuDpxGVv-hc2I7m3lTh_mne35WZ18aplF9pztYIkyzg/)
+- [Register to attend](https://forms.gle/H5LzMmHfEJuoUPru8)
 
 ### April 15, 2022
 
@@ -85,4 +85,4 @@ __*Sensitivity Analyses for Unmeasured Confounding in Meta-Analyses*__
 
 - Speaker: [Maya Mathur](https://www.mayamathur.com/), Stanford University
 
-- [Register to attend](https://docs.google.com/forms/d/1TuDpxGVv-hc2I7m3lTh_mne35WZ18aplF9pztYIkyzg/)
+- [Register to attend](https://forms.gle/H5LzMmHfEJuoUPru8)
