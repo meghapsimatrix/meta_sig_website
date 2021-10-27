@@ -4,7 +4,7 @@ featured_image: ""
 title: Online Seminar
 ---
 
-The AERA SIG on Systematic Review and Meta-Analysis is proud to present a regular, online seminar series on the methodology of systematic reviews, meta-analysis, and evidence synthesis for education research and the broader social sciences. Live seminars are scheduled for __*Third Fridays*__ of the month, from 9-10 a.m. Pacific/10-11 a.m. Mountain/11 a.m.-12 noon Central/12-1 p.m. Eastern/16:00-17:00 UTC. The seminars are open to all (you need not be a SIG or AERA member) but require registering. Most talks will be recorded and made available for later viewing. 
+The AERA SIG on Systematic Review and Meta-Analysis is proud to present a regular, online seminar series on the methodology of systematic reviews, meta-analysis, and evidence synthesis for education research and the broader social sciences. Live seminars are scheduled for ***Third Fridays*** of the month, from 9-10 a.m. Pacific/10-11 a.m. Mountain/11 a.m.-12 noon Central/12-1 p.m. Eastern/16:00-17:00 UTC. The seminars are open to all (you need not be a SIG or AERA member) but require registering. Most talks will be recorded and made available for later viewing.
 
 # Mailing List
 
@@ -26,63 +26,66 @@ The seminar series is supported by the Institute of Education Sciences, U.S. Dep
 
 ### October 22, 2021
 
-__*Missing Covariates in Meta-Regression: Considerations and Implications*__
+***Missing Covariates in Meta-Regression: Considerations and Implications***
 
-- Speakers: 
+-   Speakers:
 
-    - [Jacob Schauer](https://www.jmschauer.com/), Northwestern University
-    - [Jihyun Lee](https://education.utexas.edu/student/jihyun_lee), University of Texas at Austin
-    - [Karina Diaz-Yanez](https://www.kgdiaz.com/), University of Pennsylvania 
-    - [Terri Pigott](https://www.terripigott.com/), Georgia State University
+    -   [Jacob Schauer](https://www.jmschauer.com/), Northwestern University
+    -   [Jihyun Lee](https://education.utexas.edu/student/jihyun_lee), University of Texas at Austin
+    -   [Karina Diaz-Yanez](https://www.kgdiaz.com/), University of Pennsylvania
+    -   [Terri Pigott](https://www.terripigott.com/), Georgia State University
 
-- Description: This talk will take a deep dive into methods for exploring and handling missing covariates in meta-regression analysis. The speakers will highlight examples of exploratory data analysis techniques and share results of on-going research on methods for handling missing covariate information in a meta-regression. The speakers will present for 30-45 minutes, followed by a Q&A and discussion period. 
+-   Description: This talk will take a deep dive into methods for exploring and handling missing covariates in meta-regression analysis. The speakers will highlight examples of exploratory data analysis techniques and share results of on-going research on methods for handling missing covariate information in a meta-regression. The speakers will present for 30-45 minutes, followed by a Q&A and discussion period.
 
-- [Register to attend](https://forms.gle/kcrMmobSgWan641g7)
+-   Video Recording
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=8asqqvYXuBs" frameborder="0" allowfullscreen></iframe>
+
 
 ### November 19, 2021
 
-__*Modeling Statistical Artefacts in Meta-Analysis*__
+***Modeling Statistical Artefacts in Meta-Analysis***
 
-- Speaker: [Brenton Wiernik](https://wiernik.org/), University of South Florida
+-   Speaker: [Brenton Wiernik](https://wiernik.org/), University of South Florida
 
-- [Register to attend](https://forms.gle/kcrMmobSgWan641g7)
+-   [Register to attend](https://forms.gle/kcrMmobSgWan641g7)
 
 ### December 17, 2021
 
-__*One-stage Meta-Analytic Structural Equation Modeling*__
+***One-stage Meta-Analytic Structural Equation Modeling***
 
-- Speaker: [Suzanne Jak](http://www.suzannejak.nl/), University of Amsterdam
+-   Speaker: [Suzanne Jak](http://www.suzannejak.nl/), University of Amsterdam
 
-- [Register to attend](https://forms.gle/kcrMmobSgWan641g7)
+-   [Register to attend](https://forms.gle/kcrMmobSgWan641g7)
 
 ### January 21, 2022
 
-__*Implications of Open Science for Research Syntheses in Education*__
+***Implications of Open Science for Research Syntheses in Education***
 
-- Speaker: [Erika Patall](https://rossier.usc.edu/faculty/erika-patall/), University of Southern California
+-   Speaker: [Erika Patall](https://rossier.usc.edu/faculty/erika-patall/), University of Southern California
 
-- [Register to attend](https://forms.gle/kcrMmobSgWan641g7)
+-   [Register to attend](https://forms.gle/kcrMmobSgWan641g7)
 
 ### February 18, 2022
 
-__*Model-Building with Complex Meta-Regression: Strategies and Considerations*__
+***Model-Building with Complex Meta-Regression: Strategies and Considerations***
 
-- Speaker: [Ryan Williams](https://www.air.org/experts/person/ryan-williams), American Institutes for Research
+-   Speaker: [Ryan Williams](https://www.air.org/experts/person/ryan-williams), American Institutes for Research
 
-- [Register to attend](https://forms.gle/kcrMmobSgWan641g7)
+-   [Register to attend](https://forms.gle/kcrMmobSgWan641g7)
 
 ### March 18, 2022
 
-__*Using Multilevel Modeling for Meta-Analyzing Single-Design Research*__
+***Using Multilevel Modeling for Meta-Analyzing Single-Design Research***
 
-- Speaker: [Mariola Moeyaert](https://www.albany.edu/education/faculty/mariola-moeyaert), University of Albany
+-   Speaker: [Mariola Moeyaert](https://www.albany.edu/education/faculty/mariola-moeyaert), University of Albany
 
-- [Register to attend](https://forms.gle/kcrMmobSgWan641g7)
+-   [Register to attend](https://forms.gle/kcrMmobSgWan641g7)
 
 ### April 15, 2022
 
-__*Sensitivity Analyses for Unmeasured Confounding in Meta-Analyses*__
+***Sensitivity Analyses for Unmeasured Confounding in Meta-Analyses***
 
-- Speaker: [Maya Mathur](https://www.mayamathur.com/), Stanford University
+-   Speaker: [Maya Mathur](https://www.mayamathur.com/), Stanford University
 
-- [Register to attend](https://forms.gle/kcrMmobSgWan641g7)
+-   [Register to attend](https://forms.gle/kcrMmobSgWan641g7)
