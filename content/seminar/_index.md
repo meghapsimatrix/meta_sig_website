@@ -39,7 +39,8 @@ The seminar series is supported by the Institute of Education Sciences, U.S. Dep
 
 -   Video Recording
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=8asqqvYXuBs" frameborder="0" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=8asqqvYXuBs)
+
 
 
 ### November 19, 2021
