@@ -19,10 +19,15 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 1
     
   [[menu.main]]
-    name = "Governance"
-    url = "/governance/"
+    name = "Leadership"
+    url = "/leadership/"
     weight = 2
     
+  [[menu.main]]
+    name = "Seminar"
+    url = "/seminar/"
+    weight = 2
+
   [[menu.main]]
     name = "Posts"
     url = "/posts/"

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on SRMA SIG</title>
+    <link>/categories/resources/</link>
+    <description>Recent content in Resources on SRMA SIG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Aug 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/resources/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducing MOSAIC from American Institutes for Research</title>
+      <link>/posts/ma_resources/mosaic/</link>
+      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/ma_resources/mosaic/</guid>
+      <description>The American Institutes for Research® (AIR®) recently launched theMethods of Synthesis and IntegrationCenter (MOSAIC). The center supports projectsthat synthesize evidence across multiple studies to inform stakeholdersand create evidence-based solutions in education, health, internationaldevelopment, social welfare, and the workforce. At MOSAIC, leadingexperts in evidence synthesis methodology work to developstate-of-the-art synthesis tools. AIR’s MartynaCitkowicz, LauraMichaelson, DavidMiller, JoshPolanin, and RyanWilliams lead thecenter.</description>
+    </item>
+    
+  </channel>
+</rss>

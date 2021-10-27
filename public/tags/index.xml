@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Meta SIG</title>
+    <title>Tags on SRMA SIG</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Meta SIG</description>
+    <description>Recent content in Tags on SRMA SIG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,27 +14,72 @@
     <item>
       <title>meta-analysis</title>
       <link>/tags/meta-analysis/</link>
-      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/meta-analysis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>AERA</title>
-      <link>/tags/aera/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>recent graduate</title>
+      <link>/tags/recent-graduate/</link>
+      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/aera/</guid>
+      <guid>/tags/recent-graduate/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>SIG</title>
-      <link>/tags/sig/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>spotlight</title>
+      <link>/tags/spotlight/</link>
+      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/sig/</guid>
+      <guid>/tags/spotlight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>common effects</title>
+      <link>/tags/common-effects/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/common-effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fixed effects</title>
+      <link>/tags/fixed-effects/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fixed-effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>heterogeneity</title>
+      <link>/tags/heterogeneity/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/heterogeneity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meta-regression</title>
+      <link>/tags/meta-regression/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/meta-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>random effects</title>
+      <link>/tags/random-effects/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/random-effects/</guid>
       <description></description>
     </item>
     
