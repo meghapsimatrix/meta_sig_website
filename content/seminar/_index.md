@@ -8,7 +8,7 @@ The AERA SIG on Systematic Review and Meta-Analysis is proud to present a regula
 
 # Mailing List
 
-To get regular updates about upcoming presentations, please [register here](https://forms.gle/kcrMmobSgWan641g7).
+To get regular updates about upcoming presentations, please [register here](https://gsu.qualtrics.com/jfe/form/SV_881zggxEkAVnzhk).
 
 # Google Calendar
 
@@ -51,7 +51,7 @@ The seminar series is supported by the Institute of Education Sciences, U.S. Dep
 
 -   Speaker: [Brenton Wiernik](https://wiernik.org/), University of South Florida
 
--   [Register to attend](https://forms.gle/kcrMmobSgWan641g7)
+-   [Register to attend](https://gsu.qualtrics.com/jfe/form/SV_881zggxEkAVnzhk)
 
 ### December 17, 2021
 
@@ -59,7 +59,7 @@ The seminar series is supported by the Institute of Education Sciences, U.S. Dep
 
 -   Speaker: [Suzanne Jak](http://www.suzannejak.nl/), University of Amsterdam
 
--   [Register to attend](https://forms.gle/kcrMmobSgWan641g7)
+-   [Register to attend](https://gsu.qualtrics.com/jfe/form/SV_881zggxEkAVnzhk)
 
 ### January 21, 2022
 
@@ -67,7 +67,7 @@ The seminar series is supported by the Institute of Education Sciences, U.S. Dep
 
 -   Speaker: [Erika Patall](https://rossier.usc.edu/faculty/erika-patall/), University of Southern California
 
--   [Register to attend](https://forms.gle/kcrMmobSgWan641g7)
+-   [Register to attend](https://gsu.qualtrics.com/jfe/form/SV_881zggxEkAVnzhk)
 
 ### February 18, 2022
 
@@ -75,7 +75,7 @@ The seminar series is supported by the Institute of Education Sciences, U.S. Dep
 
 -   Speaker: [Ryan Williams](https://www.air.org/experts/person/ryan-williams), American Institutes for Research
 
--   [Register to attend](https://forms.gle/kcrMmobSgWan641g7)
+-   [Register to attend](https://gsu.qualtrics.com/jfe/form/SV_881zggxEkAVnzhk)
 
 ### March 18, 2022
 
@@ -83,7 +83,7 @@ The seminar series is supported by the Institute of Education Sciences, U.S. Dep
 
 -   Speaker: [Mariola Moeyaert](https://www.albany.edu/education/faculty/mariola-moeyaert), University of Albany
 
--   [Register to attend](https://forms.gle/kcrMmobSgWan641g7)
+-   [Register to attend](https://gsu.qualtrics.com/jfe/form/SV_881zggxEkAVnzhk)
 
 ### April 15, 2022
 
@@ -91,4 +91,4 @@ The seminar series is supported by the Institute of Education Sciences, U.S. Dep
 
 -   Speaker: [Maya Mathur](https://www.mayamathur.com/), Stanford University
 
--   [Register to attend](https://forms.gle/kcrMmobSgWan641g7)
+-   [Register to attend](https://gsu.qualtrics.com/jfe/form/SV_881zggxEkAVnzhk)
