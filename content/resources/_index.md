@@ -21,3 +21,5 @@ title: Resources
 #### [Campbell Collaboration](https://www.campbellcollaboration.org/)
 
 #### [Methods of Synthesis and Integration Center (MOSAIC)](https://www.air.org/centers/mosaic) at the American Institutes for Research (AIR)
+
+#### [Meta-Analysis Learning Information Center (MALIC)](https://www.meta-analysis-learning-information-center.com/)
