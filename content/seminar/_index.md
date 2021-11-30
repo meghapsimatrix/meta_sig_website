@@ -22,38 +22,9 @@ Is there a scholar who you would like to hear from as part of the seminar? Are y
 
 The seminar series is supported by the Institute of Education Sciences, U.S. Department of Education, through Grant R305B190002, the Meta-Analysis Training Institute, and by the National Science Foundation through Award 1937642, the Modern Meta-Analysis Research Institute.
 
-# Past Events
 
-### October 22, 2021
-
-***Missing Covariates in Meta-Regression: Considerations and Implications***
-
--   Speakers:
-
-    -   [Jacob Schauer](https://www.jmschauer.com/), Northwestern University
-    -   [Jihyun Lee](https://education.utexas.edu/student/jihyun_lee), University of Texas at Austin
-    -   [Karina Diaz-Yanez](https://www.kgdiaz.com/), University of Pennsylvania
-    -   [Terri Pigott](https://www.terripigott.com/), Georgia State University
-
--   Description: This talk will take a deep dive into methods for exploring and handling missing covariates in meta-regression analysis. The speakers will highlight examples of exploratory data analysis techniques and share results of on-going research on methods for handling missing covariate information in a meta-regression. The speakers will present for 30-45 minutes, followed by a Q&A and discussion period.
-
--   [Slides](seminar_1_missing_data.pdf)
-
--   Video Recording
-
-        {{< youtube 8asqqvYXuBs >}}
 
 # Upcoming Events
-
-### November 19, 2021
-
-***Modeling Statistical Artefacts in Meta-Analysis***
-
--   Speaker: [Brenton Wiernik](https://wiernik.org/), University of South Florida
-
--   Description: Most published meta-analyses address only artefactual variance due to sampling error and ignore the role of other statistical and psychometric artefacts, such as measurement error (due to factors including unreliability of measurements, group mis-classification, and variable treatment strength) and selection effects (including range restriction/enhancement and collider biases). These artefacts can have severe biasing effects on the results of individual studies and meta-analyses. Failing to account for these artefacts can lead to inaccurate conclusions about the mean effect size and between-studies effect-size heterogeneity, and can influence the results of meta-regression, publication bias, and sensitivity analyses. In this talk, I will provide a brief introduction to the biasing effects of measurement error and selection effects and their relevance to a variety of research designs, including connecting to the broader literatures on measurement modeling and causal inference in statistical analysis. I will describe how to estimate the effects of several artefacts in different research designs and correct for their impacts in meta-analyses. This talk is based in part a paper available from https://psyarxiv.com/9mpbn/. Example code implementing methods in R will be provided.
-
--   [Register to attend](https://gsu.qualtrics.com/jfe/form/SV_881zggxEkAVnzhk)
 
 
 
@@ -98,3 +69,40 @@ The seminar series is supported by the Institute of Education Sciences, U.S. Dep
 -   Speaker: [Maya Mathur](https://www.mayamathur.com/), Stanford University
 
 -   [Register to attend](https://gsu.qualtrics.com/jfe/form/SV_881zggxEkAVnzhk)
+
+
+# Past Events
+
+### October 22, 2021
+
+***Missing Covariates in Meta-Regression: Considerations and Implications***
+
+-   Speakers:
+
+    -   [Jacob Schauer](https://www.jmschauer.com/), Northwestern University
+    -   [Jihyun Lee](https://education.utexas.edu/student/jihyun_lee), University of Texas at Austin
+    -   [Karina Diaz-Yanez](https://www.kgdiaz.com/), University of Pennsylvania
+    -   [Terri Pigott](https://www.terripigott.com/), Georgia State University
+
+-   Description: This talk will take a deep dive into methods for exploring and handling missing covariates in meta-regression analysis. The speakers will highlight examples of exploratory data analysis techniques and share results of on-going research on methods for handling missing covariate information in a meta-regression. The speakers will present for 30-45 minutes, followed by a Q&A and discussion period.
+
+-   [Slides](seminar_1_missing_data.pdf)
+
+-   Video Recording
+
+        {{< youtube 8asqqvYXuBs >}}
+        
+        
+### November 19, 2021
+
+***Modeling Statistical Artefacts in Meta-Analysis***
+
+-   Speaker: [Brenton Wiernik](https://wiernik.org/), University of South Florida
+
+
+-   Description: Most published meta-analyses address only artefactual variance due to sampling error and ignore the role of other statistical and psychometric artefacts, such as measurement error (due to factors including unreliability of measurements, group misclassification, and variable treatment strength) and selection effects (including range restriction/enhancement and collider biases). These artefacts can have severe biasing effects on the results of individual studies and meta-analyses. Failing to account for these artefacts can lead to inaccurate conclusions about the mean effect size and between-studies effect-size heterogeneity, and can influence the results of meta-regression, publication bias, and sensitivity analyses. In this talk, I will provide a brief introduction to the biasing effects of measurement error and selection effects and their relevance to a variety of research designs, including connecting to the broader literatures on measurement modeling and causal inference in statistical analysis. I will describe how to estimate the effects of several artefacts in different research designs and correct for their impacts in meta-analyses. This talk is based in part a paper available from <https://psyarxiv.com/9mpbn/>. Example code implementing methods in R will be provided. The speaker will present for 30-45 minutes, followed by a Q&A and discussion period.
+
+-   Video Recording
+
+        {{< youtube YqUUEmhlDEE >}}
+
