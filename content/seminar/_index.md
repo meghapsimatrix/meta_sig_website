@@ -30,6 +30,8 @@ The seminar series is supported by the Institute of Education Sciences, U.S. Dep
 
 -   Speaker: [Suzanne Jak](http://www.suzannejak.nl/), University of Amsterdam
 
+-   Description: Meta-analytic structural equation modeling (MASEM) refers to fitting structural equation models (such as path models or factor models) to meta-analytic data. The meta-analytic data generally consists of correlations across the variables in the path or factor model, obtained from multiple primary studies. In this talk, I will contrast univariate MASEM to multivariate MASEM. Univariate MASEM refers to performing multiple univariate meta-analyses in order to obtain a synthesized correlation matrix as input in a SEM program. Multivariate MASEM in contrast involves using multivariate meta-analysis to synthesize correlation matrices across studies (e.g., GLS, TSSEM, one-stage MASEM). I will show that although univariate MASEM is the default MASEM method in for example organizational psychology, results obtained from univariate MASEM cannot be trusted. The reason that univariate MASEM is still often used, may be that fitting MASEMs may be challenging for researchers that are not accustomed to working with R software and packages. Therefore, we developed webMASEM; a web application for MASEM. This app implements the one-stage MASEM approach, and allows users to apply multivariate MASEM in a user-friendly way.
+
 -   [Register to attend](https://gsu.qualtrics.com/jfe/form/SV_881zggxEkAVnzhk)
 
 ### January 21, 2022
