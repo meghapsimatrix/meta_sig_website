@@ -108,6 +108,8 @@ The seminar series is supported by the Institute of Education Sciences, U.S. Dep
 
 -   Description: Extensive debate about common, yet questionable research practices that lead to biased findings within social and health sciences has emerged over the last decade. Similar challenges likely apply to education research, though the field has been slow to address them. In this talk, I  discuss current research norms, strategic solutions proposed under the broad rubric of “Open Science”, and the implications of both for the way research syntheses in education are conducted and the quality of the information they produce. Strategies such as preregistration, transparent reporting, open materials and data, and registered reports stand to address significant threats to the validity of research syntheses. These include challenges associated with publication, dissemination, and selective reporting biases, comprehensive information retrieval, and opportunities to execute unique analytic approaches. Parallel solutions that address biases in the decision making and practices of researchers conducting and evaluating research syntheses will also be discussed, along with the challenges and tips associated with their implementation. 
 
+-   [Slides](seminar_4_open_science.pdf)
+
 -   Video Recording
 
         {{< youtube FF7AR65DAY0 >}}
