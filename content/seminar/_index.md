@@ -24,13 +24,13 @@ The seminar series is supported by the Institute of Education Sciences, U.S. Dep
 
 # Upcoming Events
 
-
-
 ### February 18, 2022
 
 ***Model-Building with Complex Meta-Regression: Strategies and Considerations***
 
--   Speaker: [Ryan Williams](https://www.air.org/experts/person/ryan-williams), American Institutes for Research
+-   Speaker: [Ryan Williams](https://www.air.org/experts/person/ryan-williams) is a Principal Researcher at American Institutes for Research (AIR) where he co-leads the Methods of Synthesis and Integration Center (MOSAIC). At AIR, his work focuses applied meta-analyses, methods for research synthesis, and applied impact evaluations. He spends his spare time with his family, avoiding communicable disease.
+
+-   Description: In large scale meta-analyses, meta-regression model specification and determining variable (moderator) importance are increasingly common issues. This presentation will focus on some of those issues, using a recently completed synthesis ([Williams et al., 2022](https://doi.org/10.1080/19345747.2021.2009072)) as a working example. I will walk through how our team conceptualized an a priori meta-regression model to understand sources of heterogeneity using Cronbach’s units, treatments, outcomes, and settings framework (UTOS; Cronbach, 1982). Then I will describe the results of our confirmatory modeling and the rationale for developing an exploratory study, using random forests, to evaluate the robustness of our conceptual model and its explanatory value. I will briefly walk through how we applied a random forest model to our data to identify unanticipated or complex relationships, and what we discovered. The remainder of the talk (and discussion) will focus on how modern, large-scale, meta-analyses, with a focus on heterogeneity, can benefit from machine learning applications to evaluate the quality of theoretically grounded modeling strategies.
 
 -   [Register to attend](https://gsu.qualtrics.com/jfe/form/SV_881zggxEkAVnzhk)
 
@@ -107,6 +107,8 @@ The seminar series is supported by the Institute of Education Sciences, U.S. Dep
 -   Speaker: [Erika Patall](https://rossier.usc.edu/faculty/erika-patall/), University of Southern California
 
 -   Description: Extensive debate about common, yet questionable research practices that lead to biased findings within social and health sciences has emerged over the last decade. Similar challenges likely apply to education research, though the field has been slow to address them. In this talk, I  discuss current research norms, strategic solutions proposed under the broad rubric of “Open Science”, and the implications of both for the way research syntheses in education are conducted and the quality of the information they produce. Strategies such as preregistration, transparent reporting, open materials and data, and registered reports stand to address significant threats to the validity of research syntheses. These include challenges associated with publication, dissemination, and selective reporting biases, comprehensive information retrieval, and opportunities to execute unique analytic approaches. Parallel solutions that address biases in the decision making and practices of researchers conducting and evaluating research syntheses will also be discussed, along with the challenges and tips associated with their implementation. 
+
+-   [Slides](seminar_4_open_science.pdf)
 
 -   Video Recording
 
