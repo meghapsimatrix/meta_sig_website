@@ -1,0 +1,86 @@
+---
+title: "Spotlight: Graduate Student"
+author: ""
+date: 2022-02-07
+categories: ["spotlight"]
+tags: ["spotlight", "meta-analysis", "systematic reviews", "graduate student"]
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+## [Diego G. Campos](https://www.uv.uio.no/cemo/english/people/aca/diegogc/)
+
+![](/images/dgc.jpg){width="417"}
+
+**Tell us a bit about yourself.**
+
+My name is Diego G. Campos. I am a Ph.D. Candidate at the Centre for
+Educational Measurement at the University of Oslo (CEMO). I am working
+with Prof. Ronny Scherer and Prof. Mike Cheung to develop, use, and
+evaluate meta-analytic approaches to synthesize individual participant
+data from complex survey studies. We have outstanding educational data
+from large-scale assessments collected at the national and international
+levels. However, we have not successfully integrated those data sources
+in systematic reviews and meta-analyses. Individual participant data
+meta-analysis can provide us with tools to test relationships and
+describe distributions in these large, high-quality samples. Results
+from that enterprise can inform educational practices and develop
+educational policies. In my Ph.D. project, I hope to build and offer
+clear guidelines to use that data in systematic reviews and
+meta-analyses.
+
+**How did you get into systematic review and/or meta-analysis
+research?**
+
+While I was doing my master's, there was a lot of fuzz around the
+replication crisis. It was challenging to decide between contradictory
+evidence and identify the best evidence-based practices in teaching and
+learning. The open science movement changed my mind about science. I
+learned about the importance of the replicability, robustness, and
+generalizability of empirical findings. Then, in conversation with my
+Ph.D. supervisor, he pointed out the field of systematic reviews and
+meta-analyses. After doing some research, I realized that meta-analyses
+are a great tool to help create a cumulative body of knowledge in the
+social sciences. So here I am, trying to contribute to that task.
+
+**What work do you do now that is related to systematic review and/or
+meta-analysis?**
+
+I am working on synthesizing information on digital divides. The
+COVID-19 accelerated the transformation of education towards digital
+education, so it is crucial to identify populations that can be harmed
+the most for lack of access to technology. Hopefully, the evidence will
+serve as a guide for developing targeted solutions to specific
+populations. I am also looking into more methodological research
+questions. For example, I am testing the robustness of meta-analytic
+structural equational models (MASEM). I hope we can inform how robust
+these methodologies are to variations in some assumptions.
+
+**What do you love about systematic review and/or meta-analysis?**
+
+I love that it provides a framework to test a theoretical hypothesis's
+robustness. It is difficult to decide between contradictory evidence and
+understand the sources of differences. However, systematic reviews and
+meta-analyses enable researchers to compile multiple pieces of evidence,
+explore possible sources of the differences and build a take-home
+message for other researchers, practitioners, and policy-makers---all of
+this while striving for systematicity, reproducibility, and openness.
+
+**What advice do you have for graduate students and early career
+researchers about working in systematic review and meta-analysis
+research?**
+
+It is crucial to get yourself familiar with the software and statistical
+packages that can support you with searching, screening, coding, and
+analyzing the data. A few handy tools, for example, are the litsearchr R
+package that can help you to develop your search strategy. The reference
+manager Zotero can support you in saving and storing your searches.
+Covidence, Google Survey, or Excel can help you in the processof
+screening and coding your literature. Finally, the metafor, metaSEM,
+robumeta, and clubSandwich R packages can help you analyze your data.
+
+If you want to know about new software and statistical packages, the
+Evidence Synthesis Hackaton is a great place to do that. Also, do not
+forget to get yourself a pair of sweatpants and a comfy couch; you will
+spend quite some time there while doing a systematic review.
