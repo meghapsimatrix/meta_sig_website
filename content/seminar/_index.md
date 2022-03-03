@@ -25,7 +25,9 @@ The seminar series is supported by the Institute of Education Sciences, U.S. Dep
 # Upcoming Events
 
 
-### March 18, 2022 (Spring Break! No presentation this week.)
+### March 18, 2022 
+
+- Spring Break! No presentation this week.
 
 ### April 15, 2022
 
