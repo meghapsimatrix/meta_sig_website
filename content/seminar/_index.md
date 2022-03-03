@@ -25,13 +25,7 @@ The seminar series is supported by the Institute of Education Sciences, U.S. Dep
 # Upcoming Events
 
 
-### March 18, 2022
-
-***Using Multilevel Modeling for Meta-Analyzing Single-Design Research***
-
--   Speaker: [Mariola Moeyaert](https://www.albany.edu/education/faculty/mariola-moeyaert), University of Albany
-
--   [Register to attend](https://gsu.qualtrics.com/jfe/form/SV_881zggxEkAVnzhk)
+### March 18, 2022 (Spring Break! No presentation this week.)
 
 ### April 15, 2022
 
