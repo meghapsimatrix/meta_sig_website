@@ -38,6 +38,7 @@ Type: Symposium
 #### *Systematic Reviews of Advanced Research Methodologies in Education*
 
 Time: 2:30 pm -- 4:00 pm (PDT)  
+
 Location: Online (SIG Virtual Rooms)
 
 Session Type: Roundtable Session
@@ -55,6 +56,7 @@ Session Type: Roundtable Session
 *Addressing Equity in Education Research: What Can We Learn From Research Syntheses?*
 
 Time: 2:30 pm -- 4:00 pm (PDT)  
+
 Location: Marriott Marquis San Diego Marina, Floor: North Building, Lobby Level, Marriott Grand Ballroom 5
 
 Session Type: Paper Session
@@ -80,7 +82,9 @@ Session Type: Poster Session
 *Equity in Education: The Role of Syntheses and Knowledge Centers in Sweden and Norway*
 
 Time: 8:00 am -- 9:30 am (PDT)  
+
 Location: Marriott Marquis San Diego Marina, Floor: South Building, Level 3, Catalina  
+
 Session Type: Symposium
 
 -   An Evidence Ecosystem for Education: Norway as Case
@@ -94,7 +98,9 @@ Session Type: Symposium
 #### *Maximize Capacities of Systematic Reviews: New Tools and Approaches That Can Help*
 
 Time: 9:45 am -- 11:15 am (PDT)  
+
 Location: Online (SIG Virtual Rooms)  
+
 Session Type: Paper Session
 
 -   Bibliometric Network Analysis in Systematic Landscape Studies: Defining Concentrations of Ideas Within the Landscape
@@ -106,6 +112,7 @@ Session Type: Paper Session
 #### *Systematic Review and Meta-Analysis SIG Poster Session*
 
 Time: 11:30 am -- 1:00 pm (PDT)  
+
 Location: San Diego Convention Center, Floor: Upper Level, Sails Pavillion
 
 Session Type: Poster Session
@@ -117,6 +124,7 @@ Session Type: Poster Session
 #### *Advanced Methods in Meta-Analysis: Handling Missing Covariates and Dependence*
 
 Time: 4:15 pm -- 5:45 pm (PDT)  
+
 Location: Online (SIG Virtual Rooms)
 
 Session Type: Paper Session
@@ -130,23 +138,24 @@ Session Type: Paper Session
 #### *Systematic Review and Meta-Analysis SIG Business Meeting*
 
 Time: 6:00 pm -- 7:30 pm (PDT)  
-Location: Marriott Marquis San Diego Marina, Floor: South Bulding, Level 3, Del
-Mar  
+
+Location: Marriott Marquis San Diego Marina, Floor: South Bulding, Level 3, Del Mar  
+
 Session Type: Business Meeting
 
 Chair: James Pustejovsky
 
 ## **Tuesday, April 26, 2022**
 
-*Virtual Technology-Enhanced Teaching and Learning: What Can We Learn From Research
-Syntheses?*
+*Virtual Technology-Enhanced Teaching and Learning: What Can We Learn From Research Syntheses?*
 
 Time: 4:15 pm -- 5:45 pm (PDT)  
-Location: Online (SIG Virtual Rooms)   
+
+Location: Online (SIG Virtual Rooms) 
+
 Session Type: Roundtable Session
 
--   Social Media--Based Professional Development of K--12 Teachers: A Systematic Literature
-    Review
+-   Social Media--Based Professional Development of K--12 Teachers: A Systematic Literature Review
 
 -   Virtual Mentoring and Coaching in Education: A Systematic Literature Review
 
