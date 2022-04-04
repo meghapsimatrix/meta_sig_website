@@ -25,10 +25,6 @@ The seminar series is supported by the Institute of Education Sciences, U.S. Dep
 # Upcoming Events
 
 
-### March 18, 2022 
-
-- Spring Break! No presentation this week.
-
 ### April 15, 2022
 
 ***Sensitivity Analyses for Uncontrolled Confounding in Meta-Analyses***
@@ -38,6 +34,8 @@ The seminar series is supported by the Institute of Education Sciences, U.S. Dep
 -   Description: Meta-analyses contribute critically to cumulative science, but they can produce misleading conclusions if their constituent primary studies are biased, for example by uncontrolled confounding in nonrandomized studies. We provide practical guidance on how meta-analysts can address uncontrolled confounding, focusing primarily on sensitivity analyses that help quantify how biased the meta-analysis estimates might be. We discuss recently proposed sensitivity analyses that are straightforward to implement and interpret and that use somewhat less stringent statistical assumptions than earlier methods. We illustrate the methods’ use by conducting sensitivity analyses for two prominent meta-analyses on the effect of being overweight on all-cause mortality. One meta-analysis reported a detrimental association, while the other reported a protective association, sparking ongoing debate. Our re-analyses suggest that given potential uncontrolled confounding, neither meta-analysis provides robust evidence for either detrimental or protective effects of being overweight.
 
 -   [Register to attend](https://gsu.qualtrics.com/jfe/form/SV_881zggxEkAVnzhk)
+
+-   Description: Meta-analyses contribute critically to cumulative science, but they can produce misleading conclusions if their constituent primary studies are biased, for example by uncontrolled confounding in non-randomized studies. We provide practical guidance on how meta-analysts can address uncontrolled confounding, focusing primarily on sensitivity analyses that help quantify how biased the meta-analysis estimates might be. We discuss recently proposed sensitivity analyses that are straightforward to implement and interpret and that use somewhat less stringent statistical assumptions than earlier methods. We illustrate the methods’ use by conducting sensitivity analyses for two prominent meta-analyses on the effect of being overweight on all-cause mortality. One meta-analysis reported a detrimental association, while the other reported a protective association, sparking ongoing debate. Our re-analyses suggest that given potential uncontrolled confounding, neither meta-analysis provides robust evidence for either detrimental or protective effects of being overweight.
 
 # Past Events
 

@@ -1,56 +1,162 @@
 ---
 title: AERA Program
-description: "Systematic Review and Meta-Analysis Sessions at the American Education Research Association Conference 2021 (online)"
+description: "Systematic Review and Meta-Analysis Sessions at the American Education Research Association Conference 2022"
 ---
 
-## Advancing Methods for Meta-Analysis in Education Research
-Thursday, April 8, 2021, 1:00 pm -- 2:00 pm (EDT)
+## **Thursday, April 21, 2022**
+
+#### *What Works in STEM Education: Evidence From Meta-Analyses*
+
+Time: 8:00 am -- 9:30 am (PDT)
+
+Location: San Diego Convention Center, Exhibit Hall B Session
+
+Type: Roundtable Session
+
+-   Impact of Innovative Technology-Related Interventions on K--12 Students' STEM Career-Related Outcomes: A Meta-Analysis
+
+-   Exploring the Relationships Between Identity and Discourse in K--12 Mathematics and Science Classrooms
+
+-   A Systematic Review of the Most Effective Digital Math Learning Games for Elementary Students Research Through the Lens of Systematic Review
+
+#### *What Research Syntheses Tell Us About the Individual, Instructional, and Contextual Correlates to Academic Motivation*
+
+Time: 9:45 am -- 11:15 am (PDT)
+
+Location: Marriott Marquis San Diego Marina, Floor: North Building, Lobby Level, Torrey Pines 3 Session
+
+Type: Symposium
+
+-   How Do Variables Relate to Competence-Related Beliefs? Results From a Systematic Review of Meta-Analyses
+
+-   Which Student and Instructional Variables Are Most Strongly Related to Academic Motivation in K--12 Education? A Systematic Review of Meta-Analyses
+
+-   Stay Motivated and Carry On: A Meta-Analytic Investigation of the Role of Motivation Regulation Strategies
+
+-   A Systematic Review of Research of STEM Motivation in Rural Contexts
+
+#### *Systematic Reviews of Advanced Research Methodologies in Education*
+
+Time: 2:30 pm -- 4:00 pm (PDT)  
+
+Location: Online (SIG Virtual Rooms)
 
 Session Type: Roundtable Session
 
-- The Use of Mixture Random-Effect Models in Meta-Analysis: A Follow-Up Simulation Study - Belén Fernández-Castilla, University of Leuven
+-   Assessing Mindsets: A Meta-Analysis of the Reliability and Factor Structure of Dweck's Mindset Scale
 
-- An Evaluation of Meta-Analyses in Education: The Extent of Heterogeneity in Meta-Analysis - Qian Wang, Western Michigan University
+-   Measurement Invariance Testing Using Multiple-Group Confirmatory Factor Analysis: A Systematic Review
 
-- How to Handle Multi-Arm Studies in Network Meta-Analysis - Guanyu Chen, University of British Columbia
+-   Examining the Methodological Properties in Usability Studies of Educational/Learning Technologies: A Systematic Literature Review
 
-- The Potential of Evidence Gap Maps in Education Research: A Practical Application and Update From a Systematic Review of College Aid Programs - Joshua R. Polanin, American Institutes for Research
+-   Structural Equation Modeling in E-Learning Research: A Systematic Review
 
+#### **Saturday, April 23, 2022**
 
-## Research Through the Lens of Systematic Review
-Saturday, April 10, 2021, 9:30 am -- 10:30 am (EDT)
+*Addressing Equity in Education Research: What Can We Learn From Research Syntheses?*
 
-Session Type: Roundtable Session
+Time: 2:30 pm -- 4:00 pm (PDT)  
 
-- Defining Mathematics Literacy: A Systematic Review - Amanda Reinsburrow, Drexel University
-
-- A Systematic Review of Eye Tracking in Computational Thinking Skills of Children - Man Niu, University of British Columbia
-
-- A Systematic Literature Review of Novice/K--12 Visual Representations of Design Ideas - Mehdi Ghahremani, Mississippi State University
-
-- Learner-Facing Learning Analytics Dashboards: A Systematic Literature Review Focusing on Domain Measures and Evaluation - Natercia Valle, Cornell University
-
-- Reliability Generalization Meta-Analyses in Mathematics Education Research: A Research Synthesis - Ashley M. Williams, Texas A&M University
-
-
-## Evidence Syntheses of Cognitive, Social, and Behavioral Processes and Practices Across Learning Contexts
-Sunday, April 11, 2021, 2:30 -- 4:00 pm (EDT)
+Location: Marriott Marquis San Diego Marina, Floor: North Building, Lobby Level, Marriott Grand Ballroom 5
 
 Session Type: Paper Session
 
-- Extending the Investigation of the Learning and Study Strategies Inventory's Factor Structure: A Meta-Analytic Structural Equation Modeling Approach - Carlton J. Fong, Texas State University
+-   A Meta-Synthesis of Black, Indigenous, and People of Color Scholarship Related to Literacies, Communities, and Families
 
-- Summary Effect Sizes in Meta-Analyses of Flipped Classroom and Group Learning Interventions - Torstein Låg, UIT The Arctic University of Norway
+-   Behind "Model Minorities": A Systematic Review of Literature on Asian American and Pacific Islander Students
 
-- Disproportionality Reduction in Exclusionary School Discipline: A Best-Evidence Synthesis - Rebecca A Cruz, San Jose State University
+-   Capturing Equity. Educational Equity in Secondary Analyses on International Large-Scale Assessments: A Systematic Review
 
-- Effectiveness of Self-Regulated Learning Strategies on Academic Achievement in Online and Blended Environments: A Meta-Analysis - Zhihong Xu, Texas A&M University - College Station
+#### *Systematic Review and Meta-Analysis SIG Poster Session*
 
-- Effective Tier 1 Reading Instruction for Elementary Schools: A Systematic Review - Nathan Storey, Johns Hopkins University
+Time: 4:15 pm -- 5:45 pm (PDT)
 
-## Business meeting
-Sunday, April 11, 2021, 6:15 -- 8:15 pm (EDT)
+Location: Online (AERA Virtual Poster Rooms)
+
+Session Type: Poster Session
+
+-   Automated Feedback Generation in Programming Environments: A Systematic Review
+
+## **Monday, April 25, 2022**
+
+*Equity in Education: The Role of Syntheses and Knowledge Centers in Sweden and Norway*
+
+Time: 8:00 am -- 9:30 am (PDT)  
+
+Location: Marriott Marquis San Diego Marina, Floor: South Building, Level 3, Catalina  
+
+Session Type: Symposium
+
+-   An Evidence Ecosystem for Education: Norway as Case
+
+-   Systematic Maps in Evidence Ecologies: How Can We Ensure Their Use?
+
+-   Teacher Education as Part of an Evidence Ecosystem: How to Enhance the Use of Systematic Reviews
+
+-   Knowledge Culture Among Teachers as an Important Aspect of an Evidence Ecosystem
+
+#### *Maximize Capacities of Systematic Reviews: New Tools and Approaches That Can Help*
+
+Time: 9:45 am -- 11:15 am (PDT)  
+
+Location: Online (SIG Virtual Rooms)  
+
+Session Type: Paper Session
+
+-   Bibliometric Network Analysis in Systematic Landscape Studies: Defining Concentrations of Ideas Within the Landscape
+
+-   Incorporating Economic Evidence in Systematic Reviews in Education
+
+-   Meta-Reviewer: A Free, New Online Tool for Researchers Conducting a Systematic Review and Meta-Analysis
+
+#### *Systematic Review and Meta-Analysis SIG Poster Session*
+
+Time: 11:30 am -- 1:00 pm (PDT)  
+
+Location: San Diego Convention Center, Floor: Upper Level, Sails Pavillion
+
+Session Type: Poster Session
+
+-   Psychosocial Factors and Academic Achievement of Collegiate Student-Athletes: A Systematic Review and Qualitative Grounded Theory
+
+-   Learning Analytics in MOOCs Empirical Research: A Systematic Literature Review
+
+#### *Advanced Methods in Meta-Analysis: Handling Missing Covariates and Dependence*
+
+Time: 4:15 pm -- 5:45 pm (PDT)  
+
+Location: Online (SIG Virtual Rooms)
+
+Session Type: Paper Session
+
+-   On the Bias of Complete- and Shifting-Case Meta-Regressions With Missing Covariates
+
+-   A Monte Carlo Comparison of Handling Missing Covariates in Structural Equation Modeling--Based Meta-Analysis
+
+-   Three Approaches to Handling Dependence in Meta-Analysis of Writing Self-Efficacy and Writing Proficiency
+
+#### *Systematic Review and Meta-Analysis SIG Business Meeting*
+
+Time: 6:00 pm -- 7:30 pm (PDT)  
+
+Location: Marriott Marquis San Diego Marina, Floor: South Bulding, Level 3, Del Mar  
 
 Session Type: Business Meeting
 
-Hosted by: Josh Polanin
+Chair: James Pustejovsky
+
+## **Tuesday, April 26, 2022**
+
+*Virtual Technology-Enhanced Teaching and Learning: What Can We Learn From Research Syntheses?*
+
+Time: 4:15 pm -- 5:45 pm (PDT)  
+
+Location: Online (SIG Virtual Rooms) 
+
+Session Type: Roundtable Session
+
+-   Social Media--Based Professional Development of K--12 Teachers: A Systematic Literature Review
+
+-   Virtual Mentoring and Coaching in Education: A Systematic Literature Review
+
+-   External Variables That Impact Mobile Learning (M-Learning) Acceptance: A Meta-Analysis
