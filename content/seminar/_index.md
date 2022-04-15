@@ -24,9 +24,9 @@ The seminar series is supported by the Institute of Education Sciences, U.S. Dep
 
 # Upcoming Events
 
-<<<<<<< HEAD
+
 TBD
-=======
+
 
 ### April 15, 2022
 
