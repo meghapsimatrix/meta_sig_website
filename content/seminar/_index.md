@@ -24,16 +24,7 @@ The seminar series is supported by the Institute of Education Sciences, U.S. Dep
 
 # Upcoming Events
 
-
-### April 15, 2022
-
-***Sensitivity Analyses for Unmeasured Confounding in Meta-Analyses***
-
--   Speaker: [Maya Mathur](https://www.mayamathur.com/), Stanford University
-
--   [Register to attend](https://gsu.qualtrics.com/jfe/form/SV_881zggxEkAVnzhk)
-
--   Description: Meta-analyses contribute critically to cumulative science, but they can produce misleading conclusions if their constituent primary studies are biased, for example by uncontrolled confounding in non-randomized studies. We provide practical guidance on how meta-analysts can address uncontrolled confounding, focusing primarily on sensitivity analyses that help quantify how biased the meta-analysis estimates might be. We discuss recently proposed sensitivity analyses that are straightforward to implement and interpret and that use somewhat less stringent statistical assumptions than earlier methods. We illustrate the methods’ use by conducting sensitivity analyses for two prominent meta-analyses on the effect of being overweight on all-cause mortality. One meta-analysis reported a detrimental association, while the other reported a protective association, sparking ongoing debate. Our re-analyses suggest that given potential uncontrolled confounding, neither meta-analysis provides robust evidence for either detrimental or protective effects of being overweight.
+TBD
 
 # Past Events
 
@@ -83,32 +74,45 @@ The seminar series is supported by the Institute of Education Sciences, U.S. Dep
 -   Video Recording
 
         {{< youtube 0ykRk9WwHRA >}}
-        
-        
+
 ### January 21, 2022
 
 ***Implications of Open Science for Research Syntheses in Education***
 
 -   Speaker: [Erika Patall](https://rossier.usc.edu/faculty/erika-patall/), University of Southern California
 
--   Description: Extensive debate about common, yet questionable research practices that lead to biased findings within social and health sciences has emerged over the last decade. Similar challenges likely apply to education research, though the field has been slow to address them. In this talk, I  discuss current research norms, strategic solutions proposed under the broad rubric of “Open Science”, and the implications of both for the way research syntheses in education are conducted and the quality of the information they produce. Strategies such as preregistration, transparent reporting, open materials and data, and registered reports stand to address significant threats to the validity of research syntheses. These include challenges associated with publication, dissemination, and selective reporting biases, comprehensive information retrieval, and opportunities to execute unique analytic approaches. Parallel solutions that address biases in the decision making and practices of researchers conducting and evaluating research syntheses will also be discussed, along with the challenges and tips associated with their implementation. 
+-   Description: Extensive debate about common, yet questionable research practices that lead to biased findings within social and health sciences has emerged over the last decade. Similar challenges likely apply to education research, though the field has been slow to address them. In this talk, I discuss current research norms, strategic solutions proposed under the broad rubric of "Open Science", and the implications of both for the way research syntheses in education are conducted and the quality of the information they produce. Strategies such as preregistration, transparent reporting, open materials and data, and registered reports stand to address significant threats to the validity of research syntheses. These include challenges associated with publication, dissemination, and selective reporting biases, comprehensive information retrieval, and opportunities to execute unique analytic approaches. Parallel solutions that address biases in the decision making and practices of researchers conducting and evaluating research syntheses will also be discussed, along with the challenges and tips associated with their implementation.
 
 -   [Slides](seminar_4_open_science.pdf)
 
 -   Video Recording
 
         {{< youtube FF7AR65DAY0 >}}
-        
+
 ### February 18, 2022
 
 ***Model-Building with Complex Meta-Regression: Strategies and Considerations***
 
 -   Speaker: [Ryan Williams](https://www.air.org/experts/person/ryan-williams) is a Principal Researcher at American Institutes for Research (AIR) where he co-leads the Methods of Synthesis and Integration Center (MOSAIC). At AIR, his work focuses applied meta-analyses, methods for research synthesis, and applied impact evaluations. He spends his spare time with his family, avoiding communicable disease.
 
--   Description: In large scale meta-analyses, meta-regression model specification and determining variable (moderator) importance are increasingly common issues. This presentation will focus on some of those issues, using a recently completed synthesis ([Williams et al., 2022](https://doi.org/10.1080/19345747.2021.2009072)) as a working example. I will walk through how our team conceptualized an a priori meta-regression model to understand sources of heterogeneity using Cronbach’s units, treatments, outcomes, and settings framework (UTOS; Cronbach, 1982). Then I will describe the results of our confirmatory modeling and the rationale for developing an exploratory study, using random forests, to evaluate the robustness of our conceptual model and its explanatory value. I will briefly walk through how we applied a random forest model to our data to identify unanticipated or complex relationships, and what we discovered. The remainder of the talk (and discussion) will focus on how modern, large-scale, meta-analyses, with a focus on heterogeneity, can benefit from machine learning applications to evaluate the quality of theoretically grounded modeling strategies.
+-   Description: In large scale meta-analyses, meta-regression model specification and determining variable (moderator) importance are increasingly common issues. This presentation will focus on some of those issues, using a recently completed synthesis ([Williams et al., 2022](https://doi.org/10.1080/19345747.2021.2009072)) as a working example. I will walk through how our team conceptualized an a priori meta-regression model to understand sources of heterogeneity using Cronbach's units, treatments, outcomes, and settings framework (UTOS; Cronbach, 1982). Then I will describe the results of our confirmatory modeling and the rationale for developing an exploratory study, using random forests, to evaluate the robustness of our conceptual model and its explanatory value. I will briefly walk through how we applied a random forest model to our data to identify unanticipated or complex relationships, and what we discovered. The remainder of the talk (and discussion) will focus on how modern, large-scale, meta-analyses, with a focus on heterogeneity, can benefit from machine learning applications to evaluate the quality of theoretically grounded modeling strategies.
 
 -   [Slides](seminar_5_exploring_heterogeneity.pdf)
 
 -   Video Recording
 
         {{< youtube GPDZiRIYj_s >}}
+
+### April 15, 2022
+
+***Sensitivity Analyses for Unmeasured Confounding in Meta-Analyses***
+
+-   Speaker: [Maya Mathur](https://www.mayamathur.com/), Stanford University
+
+-   Description: Meta-analyses contribute critically to cumulative science, but they can produce misleading conclusions if their constituent primary studies are biased, for example by uncontrolled confounding in non-randomized studies. We provide practical guidance on how meta-analysts can address uncontrolled confounding, focusing primarily on sensitivity analyses that help quantify how biased the meta-analysis estimates might be. We discuss recently proposed sensitivity analyses that are straightforward to implement and interpret and that use somewhat less stringent statistical assumptions than earlier methods. We illustrate the methods' use by conducting sensitivity analyses for two prominent meta-analyses on the effect of being overweight on all-cause mortality. One meta-analysis reported a detrimental association, while the other reported a protective association, sparking ongoing debate. Our re-analyses suggest that given potential uncontrolled confounding, neither meta-analysis provides robust evidence for either detrimental or protective effects of being overweight.
+
+-   [Slides](senubar_6_causal.pdf)
+
+-   Video Recording
+
+          {{< youtube KRkmgN-Or5o >}}
