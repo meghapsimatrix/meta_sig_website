@@ -80,4 +80,5 @@ I'm a senior researcher in the Human Services division at the American Institute
 ```{r}
 knitr::include_graphics("mj.jpeg")
 ```
-I am a quantitative methodologist and a data scientist. I recently graduated from The University of Texas at Austin [Quantitative Methods](https://education.utexas.edu/departments/educational-psychology/graduate-programs/quantitative-methods) program. For my dissertation, I examined methods to handle dependent effects sizes in meta-analysis with a small number of studies. I have also consulted on applied meta-analyses in education and political science providing methodological and programming support to analyze data with complex structures. Moreover, I have experience organizing for graduate student rights at UT Austin.
+
+I am a Quantitative Researcher at the American Institutes for Research. I have a PhD in Quantitative Methods from The University of Texas at Austin. For my dissertation, I examined methods to handle dependent effects sizes in meta-analysis with a small number of studies. I have also consulted on applied meta-analyses in education and political science providing methodological and programming support to analyze data with complex structures. Moreover, I have experience organizing for graduate student rights at UT Austin.
