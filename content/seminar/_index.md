@@ -4,7 +4,7 @@ featured_image: ""
 title: Online Seminar
 ---
 
-The AERA SIG on Systematic Review and Meta-Analysis is proud to present a regular, online seminar series on the methodology of systematic reviews, meta-analysis, and evidence synthesis for education research and the broader social sciences. Live seminars are scheduled for ***Third Fridays*** of the month, from 9-10 a.m. Pacific/10-11 a.m. Mountain/11 a.m.-12 noon Central/12-1 p.m. Eastern/16:00-17:00 UTC. The seminars are open to all (you need not be a SIG or AERA member) but require registering. Most talks will be recorded and made available for later viewing.
+The AERA SIG on Systematic Review and Meta-Analysis is proud to present a regular, online seminar series on the methodology of systematic reviews, meta-analysis, and evidence synthesis for education research and the broader social sciences. Live seminars are usually scheduled for ***Third Fridays*** of the month (with a few exceptions), from 9-10 a.m. Pacific/10-11 a.m. Mountain/11 a.m.-12 noon Central/12-1 p.m. Eastern/16:00-17:00 UTC. The seminars are open to all (you need not be a SIG or AERA member) but require registering. Most talks will be recorded and made available for later viewing.
 
 # Mailing List
 
@@ -24,7 +24,54 @@ The seminar series is supported by the Institute of Education Sciences, U.S. Dep
 
 # Upcoming Events
 
-TBD
+### September 30, 2022
+
+***Usage of Individual Patient Data Meta-Analysis to Synthesize Single-Case Research Data***
+
+-   Speaker: [Mariola Moeyaert](https://www.albany.edu/education/faculty/mariola-moeyaert), SUNY Albany 
+
+-   Description: We have entered an era in which scientific knowledge and evidence increasingly informs research practice and policy. As the use of personalized trials increases, there is a remarkable and growing interest in the quantitative synthesis of single-case design (SCD) data. One technique that is developed and can be applied for this purpose is individual patient data (IPD) meta-analysis (also called raw SCD data meta-analysis). The IPD approach provides detailed information about intervention effectiveness and intervention heterogeneity. IPD is a flexible modeling approach, allowing for a variety of modeling options such as modeling moderators to explain intervention heterogeneity. During the seminar, the IPD meta-analytic technique (with the inclusion of moderators) will be introduced and demonstrated, and statistical properties of the model parameters will be discussed.
+
+### October 21, 2022
+
+***Advances in Methods for Overviews of Reviews***
+
+-   Speaker: [Carole Lunny](https://orcid.org/0000-0002-7825-6765), Knowledge Translation program at the University of Toronto and Cochrane Hypertension Review Group at the University of British Columbia
+
+### November 18, 2022
+
+***Synthesizing Individual Participant Data Obtained From Complex Sampling Surveys: A Two-Stage IPD Meta-Analysis Approach***
+
+-   Speaker: [Diegos Campos](https://diegocampos.co/), University of Oslo
+
+### December 16, 2022
+
+***Comprehensive and Transparently Reported Search Strategies***
+
+-   Speaker: [Amy Riegelman](https://www.lib.umn.edu/about/staff/amy-riegelman), University of Minnesota 
+
+### January 20, 2023
+
+***Your New Best Friend, Heterogeneity: Diverse Evidence Types and Diverse Methods to Address Explanatory Questions in Systematic Reviews***
+
+-   Speaker: [G.J. Melendez-Torres](https://medicine.exeter.ac.uk/people/profile/index.php?web_id=GJ_Melendez-Torres), University of Exeter 
+
+### February 17, 2023
+
+***Meta-Analytic QuantCrit: Exploring the Possibilities***
+
+-   Speaker: [Jamaal Young](https://scholars.library.tamu.edu/vivo/display/nc1659a42/Persons/View%20All), Texas A&M University 
+
+### March 17, 2023
+
+***To Be Determined***
+
+### May 19, 2023
+
+***MetaReviewer: A Free, Collaborative, Browser-Based Tool for Conducting Data Extraction***
+
+-   Speaker: [Joshua Polanin](https://www.air.org/experts/person/joshua-r-polanin), American Institutes for Research 
+
 
 # Past Events
 
