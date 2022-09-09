@@ -36,11 +36,15 @@ The seminar series is supported by the Institute of Education Sciences, U.S. Dep
 
 -   Description: We have entered an era in which scientific knowledge and evidence increasingly informs research practice and policy. As the use of personalized trials increases, there is a remarkable and growing interest in the quantitative synthesis of single-case design (SCD) data. One technique that is developed and can be applied for this purpose is individual patient data (IPD) meta-analysis (also called raw SCD data meta-analysis). The IPD approach provides detailed information about intervention effectiveness and intervention heterogeneity. IPD is a flexible modeling approach, allowing for a variety of modeling options such as modeling moderators to explain intervention heterogeneity. During the seminar, the IPD meta-analytic technique (with the inclusion of moderators) will be introduced and demonstrated, and statistical properties of the model parameters will be discussed.
 
+- [Register here.](https://gsu.qualtrics.com/jfe/form/SV_881zggxEkAVnzhk)
+
 ### October 21, 2022
 
 ***Advances in Methods for Overviews of Reviews***
 
 -   Speaker: [Carole Lunny](https://orcid.org/0000-0002-7825-6765), Knowledge Translation program at the University of Toronto and Cochrane Hypertension Review Group at the University of British Columbia
+
+- [Register here.](https://gsu.qualtrics.com/jfe/form/SV_881zggxEkAVnzhk)
 
 ### November 18, 2022
 
@@ -48,11 +52,15 @@ The seminar series is supported by the Institute of Education Sciences, U.S. Dep
 
 -   Speaker: [Diego Campos](https://diegocampos.co/), University of Oslo
 
+- [Register here.](https://gsu.qualtrics.com/jfe/form/SV_881zggxEkAVnzhk)
+
 ### December 16, 2022
 
 ***Comprehensive and Transparently Reported Search Strategies***
 
 -   Speaker: [Amy Riegelman](https://www.lib.umn.edu/about/staff/amy-riegelman), University of Minnesota 
+
+- [Register here.](https://gsu.qualtrics.com/jfe/form/SV_881zggxEkAVnzhk)
 
 ### January 20, 2023
 
@@ -60,11 +68,15 @@ The seminar series is supported by the Institute of Education Sciences, U.S. Dep
 
 -   Speaker: [G.J. Melendez-Torres](https://medicine.exeter.ac.uk/people/profile/index.php?web_id=GJ_Melendez-Torres), University of Exeter 
 
+- [Register here.](https://gsu.qualtrics.com/jfe/form/SV_881zggxEkAVnzhk)
+
 ### February 17, 2023
 
 ***Meta-Analytic QuantCrit: Exploring the Possibilities***
 
 -   Speaker: [Jamaal Young](https://scholars.library.tamu.edu/vivo/display/nc1659a42/Persons/View%20All), Texas A&M University 
+
+- [Register here.](https://gsu.qualtrics.com/jfe/form/SV_881zggxEkAVnzhk)
 
 ### March 17, 2023
 
@@ -76,6 +88,7 @@ The seminar series is supported by the Institute of Education Sciences, U.S. Dep
 
 -   Speaker: [Joshua Polanin](https://www.air.org/experts/person/joshua-r-polanin), American Institutes for Research 
 
+- [Register here.](https://gsu.qualtrics.com/jfe/form/SV_881zggxEkAVnzhk)
 
 # Past Events
 
