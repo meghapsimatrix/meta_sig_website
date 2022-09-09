@@ -46,7 +46,7 @@ The seminar series is supported by the Institute of Education Sciences, U.S. Dep
 
 ***Synthesizing Individual Participant Data Obtained From Complex Sampling Surveys: A Two-Stage IPD Meta-Analysis Approach***
 
--   Speaker: [Diegos Campos](https://diegocampos.co/), University of Oslo
+-   Speaker: [Diego Campos](https://diegocampos.co/), University of Oslo
 
 ### December 16, 2022
 
