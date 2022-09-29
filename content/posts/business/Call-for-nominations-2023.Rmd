@@ -1,0 +1,22 @@
+---
+title: "Call for SIG Officer Nominations"
+author: ""
+date: 2022-09-29
+categories: ["Business"]
+tags: ["SIG", "AERA"]
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+Our SIG will soon be holding elections for new officers. The terms of the [current officers](/leadership/) run through April, 2023, and all five positions on the leadership team will be up for election. In order to hold elections, we need candidates! We are now soliciting nominations (including self-nominations!) for all positions. If you are interested in running for a position, please contact SIG chair [James Pustejovsky](mailto:pustejovsky@wisc.edu), no later than October 28th, 2022. 
+
+Here are the open positions along with brief descriptions of duties:
+
+-	__SIG Chair__: oversees the activities of the SIG and acts as liaison with AERA's leadership and other SIGs.
+-	__Program Chair__: organizes and manages the proposal review process and assembles the SIG's program for the annual convention.
+-	__Secretary__: reports on SIG activities, including the annual business meeting, and leads communications with SIG members.
+-	__Treasurer__: manages and reports on SIG financial accounts, approves any expenditures. 
+-	__Graduate student member-at-large__: engages with graduate students around SIG activities, provides input and represents student perspectives on SIG activities. 
+
+Getting involved as a SIG officer is a great way to contribute to our community and provide professional service at the national level. Terms last two years, starting right after the 2023 AERA convention and continuing through the 2025 convention. For most positions, the duties are light and the time commitment is low and flexible. The program chair responsibilities require some more time and effort, mostly during Summer and early Fall, but the position also offers a meaningful and fulfilling way to shape our community's priorities and direction. If you have questions or are interested in learning more about any of the positions, please feel free to reach out to any of the [current SIG officers](/leadership/). You can also read more about the official responsibilities of each position in our [SIG bylaws](/about/srma_bylaws.pdf).
