@@ -17,4 +17,4 @@ date: 2022-10-03
 
 -   Video Recording
 
-        {{< youtube GvGYBU7E-I >}}
+        {{< youtube -GvGYBU7E-I >}}
