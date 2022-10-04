@@ -18,7 +18,7 @@ date: 2022-05-30
 
 -   Description: This talk will take a deep dive into methods for exploring and handling missing covariates in meta-regression analysis. The speakers will highlight examples of exploratory data analysis techniques and share results of on-going research on methods for handling missing covariate information in a meta-regression. The speakers will present for 30-45 minutes, followed by a Q&A and discussion period.
 
--   [Slides](seminar_1_missing_data.pdf)
+-   [Slides](../seminar_1_missing_data.pdf)
 
 -   Video Recording
 
@@ -32,7 +32,7 @@ date: 2022-05-30
 
 -   Description: Most published meta-analyses address only artefactual variance due to sampling error and ignore the role of other statistical and psychometric artefacts, such as measurement error (due to factors including unreliability of measurements, group misclassification, and variable treatment strength) and selection effects (including range restriction/enhancement and collider biases). These artefacts can have severe biasing effects on the results of individual studies and meta-analyses. Failing to account for these artefacts can lead to inaccurate conclusions about the mean effect size and between-studies effect-size heterogeneity, and can influence the results of meta-regression, publication bias, and sensitivity analyses. In this talk, I will provide a brief introduction to the biasing effects of measurement error and selection effects and their relevance to a variety of research designs, including connecting to the broader literatures on measurement modeling and causal inference in statistical analysis. I will describe how to estimate the effects of several artefacts in different research designs and correct for their impacts in meta-analyses. This talk is based in part a paper available from <https://psyarxiv.com/9mpbn/>. Example code implementing methods in R will be provided. The speaker will present for 30-45 minutes, followed by a Q&A and discussion period.
 
--   [Slides](seminar_2_stat_artefacts.pdf)
+-   [Slides](../seminar_2_stat_artefacts.pdf)
 
 -   Video Recording
 
@@ -46,7 +46,7 @@ date: 2022-05-30
 
 -   Description: Meta-analytic structural equation modeling (MASEM) refers to fitting structural equation models (such as path models or factor models) to meta-analytic data. The meta-analytic data generally consists of correlations across the variables in the path or factor model, obtained from multiple primary studies. In this talk, I will contrast univariate MASEM to multivariate MASEM. Univariate MASEM refers to performing multiple univariate meta-analyses in order to obtain a synthesized correlation matrix as input in a SEM program. Multivariate MASEM in contrast involves using multivariate meta-analysis to synthesize correlation matrices across studies (e.g., GLS, TSSEM, one-stage MASEM). I will show that although univariate MASEM is the default MASEM method in for example organizational psychology, results obtained from univariate MASEM cannot be trusted. The reason that univariate MASEM is still often used, may be that fitting MASEMs may be challenging for researchers that are not accustomed to working with R software and packages. Therefore, we developed webMASEM; a web application for MASEM. This app implements the one-stage MASEM approach, and allows users to apply multivariate MASEM in a user-friendly way.
 
--   [Slides](seminar_3_MASEM.pdf)
+-   [Slides](../seminar_3_MASEM.pdf)
 
 -   Video Recording
 
@@ -60,7 +60,7 @@ date: 2022-05-30
 
 -   Description: Extensive debate about common, yet questionable research practices that lead to biased findings within social and health sciences has emerged over the last decade. Similar challenges likely apply to education research, though the field has been slow to address them. In this talk, I discuss current research norms, strategic solutions proposed under the broad rubric of "Open Science", and the implications of both for the way research syntheses in education are conducted and the quality of the information they produce. Strategies such as preregistration, transparent reporting, open materials and data, and registered reports stand to address significant threats to the validity of research syntheses. These include challenges associated with publication, dissemination, and selective reporting biases, comprehensive information retrieval, and opportunities to execute unique analytic approaches. Parallel solutions that address biases in the decision making and practices of researchers conducting and evaluating research syntheses will also be discussed, along with the challenges and tips associated with their implementation.
 
--   [Slides](seminar_4_open_science.pdf)
+-   [Slides](../seminar_4_open_science.pdf)
 
 -   Video Recording
 
@@ -74,7 +74,7 @@ date: 2022-05-30
 
 -   Description: In large scale meta-analyses, meta-regression model specification and determining variable (moderator) importance are increasingly common issues. This presentation will focus on some of those issues, using a recently completed synthesis ([Williams et al., 2022](https://doi.org/10.1080/19345747.2021.2009072)) as a working example. I will walk through how our team conceptualized an a priori meta-regression model to understand sources of heterogeneity using Cronbach's units, treatments, outcomes, and settings framework (UTOS; Cronbach, 1982). Then I will describe the results of our confirmatory modeling and the rationale for developing an exploratory study, using random forests, to evaluate the robustness of our conceptual model and its explanatory value. I will briefly walk through how we applied a random forest model to our data to identify unanticipated or complex relationships, and what we discovered. The remainder of the talk (and discussion) will focus on how modern, large-scale, meta-analyses, with a focus on heterogeneity, can benefit from machine learning applications to evaluate the quality of theoretically grounded modeling strategies.
 
--   [Slides](seminar_5_exploring_heterogeneity.pdf)
+-   [Slides](../seminar_5_exploring_heterogeneity.pdf)
 
 -   Video Recording
 
@@ -88,7 +88,7 @@ date: 2022-05-30
 
 -   Description: Meta-analyses contribute critically to cumulative science, but they can produce misleading conclusions if their constituent primary studies are biased, for example by uncontrolled confounding in non-randomized studies. We provide practical guidance on how meta-analysts can address uncontrolled confounding, focusing primarily on sensitivity analyses that help quantify how biased the meta-analysis estimates might be. We discuss recently proposed sensitivity analyses that are straightforward to implement and interpret and that use somewhat less stringent statistical assumptions than earlier methods. We illustrate the methods' use by conducting sensitivity analyses for two prominent meta-analyses on the effect of being overweight on all-cause mortality. One meta-analysis reported a detrimental association, while the other reported a protective association, sparking ongoing debate. Our re-analyses suggest that given potential uncontrolled confounding, neither meta-analysis provides robust evidence for either detrimental or protective effects of being overweight.
 
--   [Slides](seminar_6_causal.pdf)
+-   [Slides](../seminar_6_causal.pdf)
 
 -   Video Recording
 
