@@ -17,7 +17,7 @@ date: 2022-10-03
 
 -   Video Recording
 
-        {{< youtube dckvtGtm9c >}}
+        {{< youtube _dckvtGtm9c >}}
 
 References to these studies are found below:
 
