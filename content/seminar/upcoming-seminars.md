@@ -43,6 +43,9 @@ date: 2022-10-03
 
 ***To Be Determined***
 
+-   Speaker: [Sarah Peko-Spicer](https://www.linkedin.com/in/sarah-peko-spicer-640a4436/), American Institutes for Research
+
+
 ### May 19, 2023
 
 ***MetaReviewer: A Free, Collaborative, Browser-Based Tool for Conducting Data Extraction***
