@@ -15,6 +15,10 @@ date: 2022-10-03
 
 - [Slides](../seminar_9_IPD_surveys.pdf)
 
+-   Video Recording
+
+        {{< youtube rVggoVOFJO8 >}}
+
 ### October 21, 2022
 
 **Advances in Methods for Overviews of Reviews**
