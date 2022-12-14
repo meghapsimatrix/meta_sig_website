@@ -11,6 +11,8 @@ date: 2022-10-03
 
 -   Speaker: [Amy Riegelman](https://www.lib.umn.edu/about/staff/amy-riegelman), University of Minnesota 
 
+-   Description: By definition, systematic reviews and meta-analyses are supposed to have exhaustive and comprehensive literature searches. Additionally, the strategies used to identify relevant literature need to be transparently reported in order to facilitate reproducibility. While some research topics are well indexed and therefore readily discoverable, literature on others research topics is dispersed across many databases and search engines, which poses challenges for systematic searching. Furthermore, grey literature is often sought for reviews, but grey sources can be very challenging to identify. This talk will describe guidelines and best practices for targeting the relevant literature while balancing precision and recall. This seminar will also include tips and tricks for conducting comprehensive searches while adhering to guidelines (e.g., PRISMA) to help ensure reproducibility of search methods.  
+
 - [Register here.](https://us06web.zoom.us/meeting/register/tZIldOuorzwiGNAnEoedUXskxj2maT3GbmBH)
 
 ### January 20, 2023
