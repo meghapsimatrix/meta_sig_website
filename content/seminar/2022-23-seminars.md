@@ -15,6 +15,10 @@ date: 2022-10-03
 
 - [Slides](../seminar_11_heterogeneity.pdf)
 
+-   Video Recording
+
+        {{< youtube K5n1xCacXVo >}}
+
 ### December 16, 2022
 
 ***Comprehensive and Transparently Reported Search Strategies***
