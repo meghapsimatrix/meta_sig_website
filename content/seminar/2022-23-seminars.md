@@ -5,6 +5,16 @@ title: 2022-23 Seminars and Recordings
 date: 2022-10-03
 ---
 
+### January 20, 2023
+
+***Your New Best Friend, Heterogeneity: Diverse Evidence Types and Diverse Methods to Address Explanatory Questions in Systematic Reviews***
+
+- Speaker: [G.J. Melendez-Torres](https://medicine.exeter.ac.uk/people/profile/index.php?web_id=GJ_Melendez-Torres), University of Exeter 
+
+- Description: Heterogeneity is, to many meta-analysts, an irritation or an afterthought: a nuisance parameter, an opportunity for misinterpretation, or (for the workshy) an excuse to avoid meta-analysis completely.  But viewed another way, heterogeneity provides an essential basis for meta-analyses that go beyond inferential tests and summative answers to explanatory insights.  In this discussion, I consider deductive, abductive and inductive methods that move past ‘exploring’ heterogeneity to capitalising on heterogeneity as an opportunity to deliver better, more useful findings for policy and practice impact, in bodies of evidence both large and small.
+
+- [Slides](../seminar_11_heterogeneity.pdf)
+
 ### December 16, 2022
 
 ***Comprehensive and Transparently Reported Search Strategies***
