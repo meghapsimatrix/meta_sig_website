@@ -15,6 +15,10 @@ date: 2022-10-03
 
 - [Slides](../seminar_12_quant_crit.pdf)
 
+-   Video Recording
+
+        {{< youtube CslRRSvuhK8 >}}
+        
 ### January 20, 2023
 
 ***Your New Best Friend, Heterogeneity: Diverse Evidence Types and Diverse Methods to Address Explanatory Questions in Systematic Reviews***
