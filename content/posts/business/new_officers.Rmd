@@ -1,0 +1,20 @@
+---
+title: "New Officers"
+author: "James E. Pustejovsky"
+date: 2023-03-17
+categories: ["Business"]
+tags: ["SIG", "AERA"]
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+This past January, AERA held its annual elections, which included elections for several officer positions in our SIG. [Results were announced recently](https://www.aera.net/Portals/38/Election%20Results%20Website%20Report%202023%20as%20of%20February%2028%202023.pdf?utm_source=Informz&utm_medium=email&utm_campaign=test) Officers for the 2023-2025 term will be:
+
+* Program co-chairs: [Carlton Fong](https://faculty.txst.edu/profile/2018070) (Texas State University) and [Derek Rodgers](https://iowareadingresearch.org/person/derek-rodgers) (University of Iowa)
+*	Secretary: [Amanda Neitzel](https://schoolhealth.jhu.edu/staff/amanda-neitzel-phd/) (Johns Hopkins University)
+*	Treasurer: [Megha Joshi](https://meghapsimatrix.com/) (American Institutes of Research)
+*	Graduate Student Representative-at-Large: [Qiyang Zhang](https://education.jhu.edu/directory/qiyang-zhang/) (Johns Hopkins University)
+*	SIG Chair: [James Pustejovsky](https://www.jepusto.com/) (University of Wisconsin – Madison)
+
+I look forward to working with our new officers. I would also like to offer special thanks to our [current officers](/leadership/) and to everyone who stepped forward to run for office this year. We all appreciate your commitment to the SIG and willingness to serve as an officer, and I hope that you will remain involved with our work in the future. 
