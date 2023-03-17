@@ -15,6 +15,11 @@ date: 2022-10-03
 
 - [Slides](https://www.canva.com/design/DAFdMeqG6iI/K8l6GmgvAZLV4VN6hJFZgA/view)
 
+-   Video Recording
+
+        {{< youtube cjEjLnGIc2Q >}}
+        
+
 ### February 17, 2023
 
 ***Meta-Analytic QuantCrit: Exploring the Possibilities***
