@@ -23,7 +23,7 @@ knitr::opts_chunk$set(
 *Pronouns: he/him/his*
 
 ```{r}
-knitr::include_graphics("jep-small.jpg")
+knitr::include_graphics("jep.jpg")
 ```
 I am a statistician and associate professor in the [School of Education](https://education.wisc.edu/) at the [University of Wisconsin-Madison](https://www.wisc.edu/), where I teach in the [Educational Psychology Department](https://edpsych.education.wisc.edu/) and the [graduate program in Quantitative Methods](https://edpsych.education.wisc.edu/academics/quantitative-methods/). My research involves developing statistical methods for problems in education, psychology, and other areas of social science research, with a focus on methods related to research synthesis and meta-analysis.
 
@@ -36,6 +36,7 @@ I am a statistician and associate professor in the [School of Education](https:/
 ```{r}
 knitr::include_graphics("cjf.jpg")
 ```
+
 I am an educational psychologist and an associate professor in the College of Education at Texas State University. I apply research synthesis methods to study the role of motivation and self-regulation in postsecondary student learning. I have served on the editorial team of Campbell Systematic Reviews and on the editorial board of Review of Educational Research, Educational Psychology Review, and Journal of Educational Psychology, among others. My research syntheses have also been published in the previously mentioned journals as well as Educational Research Review, Journal of Experimental Education, and Educational Policy. I am the PI of an NSF-funded grant, [Psychosocial Interventions to Improve Postsecondary Student Mathematics Attainment: A Meta-Analysis Exploring What Works and for Whom](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2300030).
 
 ### [**Derek B. Rodgers**](https://iowareadingresearch.org/person/derek-rodgers)
@@ -64,8 +65,6 @@ I am a Quantitative Researcher at the American Institutes for Research. I have a
 
 ### [**Amanda Neitzel**](https://schoolhealth.jhu.edu/staff/amanda-neitzel-phd/)
 
-
 ## Graduate Student Member-at-Large
 
 ### [**Qiyang Zhang**](https://education.jhu.edu/directory/qiyang-zhang/)
-
