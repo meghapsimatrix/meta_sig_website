@@ -1,7 +1,7 @@
 ---
 description: 'Systematic Reviews and Meta-Analysis Methodology'
 featured_image: ""
-title: 2022-23 Seminars and Recordings
+title: 2023-24 Seminars and Recordings
 date: 2023-09-25
 ---
 
