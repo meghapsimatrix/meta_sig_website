@@ -15,6 +15,10 @@ date: 2023-09-25
 
 - [Slides](../seminar_17_ROBMA.pdf)
 
+-   Video Recording
+
+        {{< youtube 9SXiHS-Msb4 >}}
+
 
 ## October 20, 2023
 
