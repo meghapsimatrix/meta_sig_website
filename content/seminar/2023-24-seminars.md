@@ -5,6 +5,21 @@ title: 2023-24 Seminars and Recordings
 date: 2023-09-25
 ---
 
+## December 8, 2023
+
+***Knowledge mobilization and lessons for communicating meta-analytic results***
+
+- Speaker: [Kaitlyn Fitzgerald](https://www.apu.edu/clas/faculty/kfitzgerald/), Azusa Pacific University, Department of Mathematics, Physics, and Statistics
+
+- Description: In order to make evidence-based decisions, education decision-makers are increasingly tasked with making sense of evidence across a collection of studies, which involves complex reasoning about statistical ideas such as effect sizes, uncertainty, and meta-analytic results. This talk will highlight some of the inherent difficulties in communicating meta-analytic results to non-researchers, cognitive pitfalls to avoid, and best practices established in the data visualization, statistical cognition, and Human Computer Interaction literatures. We will discuss the curse of expertise and why education researchers should not rely on common visualizations such as forest plots for communicating meta-analyses to decision-makers. Finally, we discuss the need for the education research community to directly study strategies for disseminating evidence and mobilizing knowledge, and we present a framework for how to organize such studies.
+
+- [Slides](../seminar_18_knowledge_mobilization.pdf)
+
+-   Video Recording
+
+        {{< youtube HDeohjun8rs >}}
+
+
 ## November 17, 2023
 
 ***Robust Bayesian meta-regression: Model-averaged moderation analysis in the presence of publication bias***
