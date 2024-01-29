@@ -13,7 +13,7 @@ The AERA SIG on Systematic Review and Meta-Analysis is proud to present a regula
 
 # Registration Required
 
-To participate in the 2022-23 seminars, please [register here](https://us02web.zoom.us/meeting/register/tZwucu6hrT0vHNbu0sxk5wyoOLIU3johwQQS). You'll only need to do this once. After registering, you will receive a Zoom link for all of the events in the seminar series. __*Please note that you will need to register for the 2023-24 seminars, even if you participated in last year's seminar series.*__
+To participate in the 2023-24 seminars, please [register here](https://us02web.zoom.us/meeting/register/tZwucu6hrT0vHNbu0sxk5wyoOLIU3johwQQS). You'll only need to do this once. After registering, you will receive a Zoom link for all of the events in the seminar series. __*Please note that you will need to register for the 2023-24 seminars, even if you participated in last year's seminar series.*__
 
 # Mailing List
 
