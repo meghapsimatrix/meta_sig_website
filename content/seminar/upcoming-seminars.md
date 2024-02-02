@@ -11,6 +11,8 @@ date: 2023-09-25
 
 - Speaker: [Marta Topor](https://orcid.org/0000-0003-3761-392X), Postdoctoral Researcher, Linköping University
 
+- Description: Evidence synthesis methodology is evolving quickly thanks to detailed guidance tools, new software solutions, and computational approaches. Researchers are aware of these advancements and of the value of systematic reviews/meta-analyses. While keen to implement these approaches, they face an obstacle. Traditionally, systematic reviews have been conducted on interventional research within health-related fields. Those working in other disciplines and with other study designs, whether experimental or observational, find it challenging to follow guidance originally tailored towards interventions. They tend to make subjective adaptations to the guidance tools or omit irrelevant sections, which leads to inconsistent implementation. The Non-Intervention Reproducible and Open Evidence Synthesis (NIROES) collaboration was launched in response to this issue. We have introduced a guidance tool for systematic reviews (NIRO-SR) and are currently working on a project focused on the risk of bias and quality assessment of individual studies. During the talk, I will introduce NIRO-SR, provide an update on our current project, and discuss further plans and ideas.
+
 -  [Register here](https://us02web.zoom.us/meeting/register/tZwucu6hrT0vHNbu0sxk5wyoOLIU3johwQQS).
 
 ## March 15, 2024
