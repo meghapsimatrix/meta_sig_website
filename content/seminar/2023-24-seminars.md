@@ -4,6 +4,15 @@ featured_image: ""
 title: 2023-24 Seminars and Recordings
 date: 2023-09-25
 ---
+## March 15, 2024
+
+***Enhancing Reliability in Automated Record Screening: A Resampling Algorithm***
+
+- Speaker: [Zhipeng Hou](https://zhipenghoustat.github.io/)
+
+- Description: Record screening is a critical aspect of systematic review and meta-analysis, involving the meticulous task of identifying relevant records from a pool of candidate papers. This process is widely acknowledged as time-consuming, costly, and susceptible to human error. Despite the proliferation of automatic literature screening methods leveraging machine learning and AI in recent years to alleviate this burden, there remains a noticeable absence of methods that guarantee performance. In this presentation, we will introduce a flexible resampling algorithm capable of collaborating with any existing screening prioritization algorithm to ensure consistent performance. We will delve into the mathematical and probabilistic foundations of this algorithm and discuss its real-life implementation in record screening.
+
+-   [Slides](../seminar_20_automated_screening.pdf)
 
 ## February 16, 2024
 
