@@ -14,6 +14,10 @@ date: 2023-09-25
 
 -   [Slides](../seminar_20_automated_screening.pdf)
 
+-   Video Recording
+
+        {{< youtube MCI3jNTzzt0 >}}
+
 ## February 16, 2024
 
 ***Overcoming Barriers to Conducting Systematic Reviews of Non-intervention Research***
