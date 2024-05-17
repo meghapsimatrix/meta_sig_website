@@ -15,7 +15,7 @@ date: 2023-09-25
 
 -   Video Recording
 
-        {{< youtube _37WHDM1Pyw}}
+        {{< youtube _37WHDM1Pyw >}}
 
 ## April 19, 2024
 
