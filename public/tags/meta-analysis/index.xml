@@ -2,30 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>meta-analysis on SRMA SIG</title>
-    <link>/tags/meta-analysis/</link>
+    <link>https://www.srmasig.org/tags/meta-analysis/</link>
     <description>Recent content in meta-analysis on SRMA SIG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.srmasig.org/tags/meta-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spotlight: Graduate Student</title>
+      <link>https://www.srmasig.org/posts/spotlight/spotlight_jy/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/posts/spotlight/spotlight_jy/</guid>
+      <description>Jacqueline (Jaki) YiTell us a bit about yourself.
+My name is Jacqueline (Jaki) Yi. I am a Ph.D. candidate studyingClinical-Community Psychology at the University of Illinois at UrbanaChampaign. I have a Bachelor’s in Science in Applied Psychology from NewYork University. In my program of research, I use various inquirymethods (e.g., meta-analysis, structural equation modeling, groundedtheory qualitative methods, mixed methods) to challenge systemicinequality, foster activism, and improve the wellbeing of individualsand broader society.</description>
+    </item>
     
-	<atom:link href="/tags/meta-analysis/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Spotlight: Graduate Student</title>
+      <link>https://www.srmasig.org/posts/spotlight/spotlight_dgc/</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/posts/spotlight/spotlight_dgc/</guid>
+      <description>Diego G. CamposTell us a bit about yourself.
+My name is Diego G. Campos. I am a Ph.D. Candidate at the Centre forEducational Measurement at the University of Oslo (CEMO). I am workingwith Prof. Ronny Scherer and Prof. Mike Cheung to develop, use, andevaluate meta-analytic approaches to synthesize individual participantdata from complex survey studies. We have outstanding educational datafrom large-scale assessments collected at the national and internationallevels.</description>
+    </item>
     
     <item>
       <title>Introducing MOSAIC from American Institutes for Research</title>
-      <link>/posts/ma_resources/mosaic/</link>
+      <link>https://www.srmasig.org/posts/ma_resources/mosaic/</link>
       <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/ma_resources/mosaic/</guid>
+      <guid>https://www.srmasig.org/posts/ma_resources/mosaic/</guid>
       <description>The American Institutes for Research® (AIR®) recently launched theMethods of Synthesis and IntegrationCenter (MOSAIC). The center supports projectsthat synthesize evidence across multiple studies to inform stakeholdersand create evidence-based solutions in education, health, internationaldevelopment, social welfare, and the workforce. At MOSAIC, leadingexperts in evidence synthesis methodology work to developstate-of-the-art synthesis tools. AIR’s MartynaCitkowicz, LauraMichaelson, DavidMiller, JoshPolanin, and RyanWilliams lead thecenter.</description>
     </item>
     
     <item>
       <title>Spotlight: Recent Graduate</title>
-      <link>/posts/spotlight/spotlight_karina/</link>
+      <link>https://www.srmasig.org/posts/spotlight/spotlight_kgd/</link>
       <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/spotlight/spotlight_karina/</guid>
+      <guid>https://www.srmasig.org/posts/spotlight/spotlight_kgd/</guid>
       <description>Karina G. DiazPronouns: she/her/hers
 Tell us a bit about yourself.
 My name is Karina Diaz, I’m a research specialist at the Consortium forPolicy Research in Education (CPRE) at the University of Pennsylvania.I’m primarily responsible for the design and execution of quantitativeanalyses for funded research studies, including efficacy evaluations andlarge-scale projects with experimental and quasi-experimental designs.Prior to this, I collaborated as a research assistant at the STEPPCenter at the Institute for Policy Research (IPR) at NorthwesternUniversity.</description>
@@ -33,10 +49,10 @@ My name is Karina Diaz, I’m a research specialist at the Consortium forPolicy
     
     <item>
       <title>What is Meta-Analysis?</title>
-      <link>/posts/ma_methods/meta_analysis_intro/</link>
+      <link>https://www.srmasig.org/posts/ma_methods/meta_analysis_intro/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/ma_methods/meta_analysis_intro/</guid>
+      <guid>https://www.srmasig.org/posts/ma_methods/meta_analysis_intro/</guid>
       <description>Scientific researchers tend to produce literature on the same topiceither to replicate or extend prior studies or due to a lack ofawareness of prior evidence (Hedges &amp;amp; Cooper, 2009). Results acrossstudies tend to vary, even when researchers try to replicate studies,due to differences in sample characteristics, research designs, analyticstrategies or sampling error (Hedges &amp;amp; Cooper, 2009).
 Meta-analysis is a set of statistical techniques for synthesizingresults from multiple primary studies on a common topic.</description>
     </item>

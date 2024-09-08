@@ -2,13 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Online Seminar on SRMA SIG</title>
-    <link>/seminar/</link>
+    <link>https://www.srmasig.org/seminar/</link>
     <description>Recent content in Online Seminar on SRMA SIG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.srmasig.org/seminar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Upcoming Seminars</title>
+      <link>https://www.srmasig.org/seminar/upcoming-seminars/</link>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/seminar/upcoming-seminars/</guid>
+      <description>September 27, 2024, 11 am CDT Getting Meta-Analyses Done: Practical Perspectives from Experienced Reviewers
+  Panelists:
+ Dr. Carlton Fong, Texas State University Dr. Amanda Neitzel, Johns Hopkins University Dr. Peng Peng, University of Texas at Austin    Description: Our panel of prolific and experienced systematic reviewers will be discussing the very practical side of systematic reviews and meta-analyses, common challenges and roadblocks, and tips for getting meta-analyses done, with plenty of time for audience questions and discussion.</description>
+    </item>
     
-	<atom:link href="/seminar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023-24 Seminars and Recordings</title>
+      <link>https://www.srmasig.org/seminar/2023-24-seminars/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/seminar/2023-24-seminars/</guid>
+      <description>May 17, 2024 Investigating Patterns of Fadeout using MERF, the Meta-Analysis of Educational RCTs with Follow-up
+  Speaker: Emma Hart, Doctoral Candidate, Teachers College, Columbia University
+  Description: Researchers and policymakers aspire for educational interventions to change children’s long-run developmental trajectories. Developmental theory has informed this expectation; boosts to child skills should initiate developmental cascades consistent with long-run intervention effects. Increasing evidence suggests that while interventions often generate impacts on child skills at post-test, these effects commonly fade in the years following the intervention’s end.</description>
+    </item>
     
+    <item>
+      <title>2022-23 Seminars and Recordings</title>
+      <link>https://www.srmasig.org/seminar/2022-23-seminars/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/seminar/2022-23-seminars/</guid>
+      <description>May 19, 2023 MetaReviewer: A Free, Collaborative, Browser-Based Tool for Conducting Data Extraction
+  Speaker: Joshua Polanin, American Institutes for Research
+  Description: Collecting evidence synthesis data from even a few studies presents numerous logistical and organizational challenges. Reviewers with the expertise or resources turn to bespoke database software or costly meta-analysis programs. In the absence of resources or expertise, many reviewers turn to a spreadsheet, which can lead to inaccurate or unreliable data collection.</description>
+    </item>
+    
+    <item>
+      <title>2021-22 Seminars and Recordings</title>
+      <link>https://www.srmasig.org/seminar/2021-22-seminars/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/seminar/2021-22-seminars/</guid>
+      <description>October 22, 2021 Missing Covariates in Meta-Regression: Considerations and Implications
+  Speakers:
+ Jacob Schauer, Northwestern University Jihyun Lee, University of Texas at Austin Karina Diaz-Yanez, University of Pennsylvania Terri Pigott, Georgia State University    Description: This talk will take a deep dive into methods for exploring and handling missing covariates in meta-regression analysis. The speakers will highlight examples of exploratory data analysis techniques and share results of on-going research on methods for handling missing covariate information in a meta-regression.</description>
+    </item>
     
   </channel>
 </rss>

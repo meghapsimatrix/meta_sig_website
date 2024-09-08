@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SIG Officers 2021-2023 on SRMA SIG</title>
-    <link>/leadership/</link>
-    <description>Recent content in SIG Officers 2021-2023 on SRMA SIG</description>
+    <title>SIG Officers 2023-2025 on SRMA SIG</title>
+    <link>https://www.srmasig.org/leadership/</link>
+    <description>Recent content in SIG Officers 2023-2025 on SRMA SIG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/leadership/index.xml" rel="self" type="application/rss+xml" />
-    
+    <language>en-us</language><atom:link href="https://www.srmasig.org/leadership/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SIG Officers 2021-2023</title>
+      <link>https://www.srmasig.org/leadership/officers-2021-23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/leadership/officers-2021-23/</guid>
+      <description>SIG ChairJames E. PustejovskyPronouns: he/him/his
+I am a statistician and associate professor in the School of Education at the University of Wisconsin-Madison, where I teach in the Educational Psychology Department and the graduate program in Quantitative Methods. My research involves developing statistical methods for problems in education, psychology, and other areas of social science research, with a focus on methods related to research synthesis and meta-analysis.
+Program ChairQi ZhangPronouns: he/him/his</description>
+    </item>
     
   </channel>
 </rss>

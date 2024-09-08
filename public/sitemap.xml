@@ -1,119 +1,132 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/categories/</loc>
+    <loc>https://www.srmasig.org/seminar/</loc>
+    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/</loc>
+    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/seminar/upcoming-seminars/</loc>
+    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/program/aera-2024-program/</loc>
+    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/program/</loc>
+    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/seminar/2023-24-seminars/</loc>
+    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/program/aera-2023-program/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/tags/aera/</loc>
+    <lastmod>2023-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/categories/business/</loc>
+    <lastmod>2023-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/categories/</loc>
+    <lastmod>2023-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/posts/business/new_officers/</loc>
+    <lastmod>2023-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/tags/sig/</loc>
+    <lastmod>2023-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/tags/</loc>
+    <lastmod>2023-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/seminar/2022-23-seminars/</loc>
+    <lastmod>2022-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/posts/business/call-for-nominations-2023/</loc>
+    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/tags/graduate-student/</loc>
+    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/tags/meta-analysis/</loc>
+    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/tags/spotlight/</loc>
+    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/categories/spotlight/</loc>
+    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/posts/spotlight/spotlight_jy/</loc>
+    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/tags/systematic-reviews/</loc>
+    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/seminar/2021-22-seminars/</loc>
+    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/program/aera-2022-program/</loc>
+    <lastmod>2022-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/posts/spotlight/spotlight_dgc/</loc>
+    <lastmod>2022-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/posts/ma_resources/mosaic/</loc>
     <lastmod>2021-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/ma_resources/mosaic/</loc>
+  </url><url>
+    <loc>https://www.srmasig.org/categories/resources/</loc>
     <lastmod>2021-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/meta-analysis/</loc>
-    <lastmod>2021-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/resources/</loc>
-    <lastmod>2021-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2021-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/recent-graduate/</loc>
+  </url><url>
+    <loc>https://www.srmasig.org/tags/recent-graduate/</loc>
     <lastmod>2021-08-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/spotlight/</loc>
+  </url><url>
+    <loc>https://www.srmasig.org/posts/spotlight/spotlight_kgd/</loc>
     <lastmod>2021-08-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/spotlight/</loc>
-    <lastmod>2021-08-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/spotlight/spotlight_karina/</loc>
-    <lastmod>2021-08-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/common-effects/</loc>
+  </url><url>
+    <loc>https://www.srmasig.org/tags/common-effects/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/fixed-effects/</loc>
+  </url><url>
+    <loc>https://www.srmasig.org/tags/fixed-effects/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/heterogeneity/</loc>
+  </url><url>
+    <loc>https://www.srmasig.org/tags/heterogeneity/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/meta-regression/</loc>
+  </url><url>
+    <loc>https://www.srmasig.org/tags/meta-regression/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
+  </url><url>
+    <loc>https://www.srmasig.org/categories/r/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/random-effects/</loc>
+  </url><url>
+    <loc>https://www.srmasig.org/tags/random-effects/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/ma_methods/meta_analysis_intro/</loc>
+  </url><url>
+    <loc>https://www.srmasig.org/posts/ma_methods/meta_analysis_intro/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
+  </url><url>
+    <loc>https://www.srmasig.org/program/aera-2021-program/</loc>
+    <lastmod>2021-04-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/program/aera-2020-program/</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/program/aera-2019-program/</loc>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/posts/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/about/</loc>
+  </url><url>
+    <loc>https://www.srmasig.org/contact/</loc>
+  </url><url>
+    <loc>https://www.srmasig.org/resources/</loc>
+  </url><url>
+    <loc>https://www.srmasig.org/leadership/officers-2021-23/</loc>
+  </url><url>
+    <loc>https://www.srmasig.org/leadership/</loc>
   </url>
-  
-  <url>
-    <loc>/about/</loc>
-  </url>
-  
-  <url>
-    <loc>/program/</loc>
-  </url>
-  
-  <url>
-    <loc>/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>/seminar/</loc>
-  </url>
-  
-  <url>
-    <loc>/resources/</loc>
-  </url>
-  
-  <url>
-    <loc>/leadership/</loc>
-  </url>
-  
 </urlset>

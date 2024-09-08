@@ -2,30 +2,151 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Systematic Review and Meta-Analysis SIG on SRMA SIG</title>
-    <link>/</link>
+    <link>https://www.srmasig.org/</link>
     <description>Recent content in Systematic Review and Meta-Analysis SIG on SRMA SIG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.srmasig.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Upcoming Seminars</title>
+      <link>https://www.srmasig.org/seminar/upcoming-seminars/</link>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/seminar/upcoming-seminars/</guid>
+      <description>September 27, 2024, 11 am CDT Getting Meta-Analyses Done: Practical Perspectives from Experienced Reviewers
+  Panelists:
+ Dr. Carlton Fong, Texas State University Dr. Amanda Neitzel, Johns Hopkins University Dr. Peng Peng, University of Texas at Austin    Description: Our panel of prolific and experienced systematic reviewers will be discussing the very practical side of systematic reviews and meta-analyses, common challenges and roadblocks, and tips for getting meta-analyses done, with plenty of time for audience questions and discussion.</description>
+    </item>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AERA 2024 Program</title>
+      <link>https://www.srmasig.org/program/aera-2024-program/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/program/aera-2024-program/</guid>
+      <description>Thursday, April 11, 2024 Research Syntheses and Meta-Analyses in Education: Exemplar Studies and Methodological Guidance Time: 10:50 AM - 12:20 PM (EDT)
+Location: Pennsylvania Convention Center, Level 200, Exhibit Hall A
+Session Type: Poster Session
+  A meta-analysis exploring the relationship between motivation and executive function (Poster 34) - Chawla et al.
+  Factors influencing high school Asian American students&#39; STEM Major Choice: A systematic review (Poster 35) - Zhao et al.</description>
+    </item>
     
+    <item>
+      <title>2023-24 Seminars and Recordings</title>
+      <link>https://www.srmasig.org/seminar/2023-24-seminars/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/seminar/2023-24-seminars/</guid>
+      <description>May 17, 2024 Investigating Patterns of Fadeout using MERF, the Meta-Analysis of Educational RCTs with Follow-up
+  Speaker: Emma Hart, Doctoral Candidate, Teachers College, Columbia University
+  Description: Researchers and policymakers aspire for educational interventions to change children’s long-run developmental trajectories. Developmental theory has informed this expectation; boosts to child skills should initiate developmental cascades consistent with long-run intervention effects. Increasing evidence suggests that while interventions often generate impacts on child skills at post-test, these effects commonly fade in the years following the intervention’s end.</description>
+    </item>
+    
+    <item>
+      <title>AERA 2023 Program</title>
+      <link>https://www.srmasig.org/program/aera-2023-program/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/program/aera-2023-program/</guid>
+      <description>Thursday, April 13, 2023 How to Evaluate Journal Implementation of Open Science Standards: The TRUST Process Time: 8:00 am – 9:30 am (CDT)
+Location: Radisson Blue Aqua Hotel, 2nd Floor, Baltic
+Session Type: Demonstration/Performance
+Friday, April 14, 2023 Systematic Review and Meta-Analysis SIG Roundtable (Table 9) Time: 9:50 am – 11:20am (CDT)
+Location: Fairmount Chicago Millennium Park, 2nd Floor, Imperial Ballroom
+Session Type: Roundtable Session
+  Educational Recommendations for Improving Computing Education: Report From a Systematic Literature Review</description>
+    </item>
+    
+    <item>
+      <title>New Officers</title>
+      <link>https://www.srmasig.org/posts/business/new_officers/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/posts/business/new_officers/</guid>
+      <description>This past January, AERA held its annual elections, which included elections for several officer positions in our SIG. Results were announced recently Officers for the 2023-2025 term will be:
+Program co-chairs: Carlton Fong (Texas State University) and Derek Rodgers (University of Iowa)Secretary: Amanda Neitzel (Johns Hopkins University)Treasurer: Megha Joshi (American Institutes of Research)Graduate Student Representative-at-Large: Qiyang Zhang (Johns Hopkins University)SIG Chair: James Pustejovsky (University of Wisconsin – Madison)I look forward to working with our new officers.</description>
+    </item>
+    
+    <item>
+      <title>2022-23 Seminars and Recordings</title>
+      <link>https://www.srmasig.org/seminar/2022-23-seminars/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/seminar/2022-23-seminars/</guid>
+      <description>May 19, 2023 MetaReviewer: A Free, Collaborative, Browser-Based Tool for Conducting Data Extraction
+  Speaker: Joshua Polanin, American Institutes for Research
+  Description: Collecting evidence synthesis data from even a few studies presents numerous logistical and organizational challenges. Reviewers with the expertise or resources turn to bespoke database software or costly meta-analysis programs. In the absence of resources or expertise, many reviewers turn to a spreadsheet, which can lead to inaccurate or unreliable data collection.</description>
+    </item>
+    
+    <item>
+      <title>Call for SIG Officer Nominations</title>
+      <link>https://www.srmasig.org/posts/business/call-for-nominations-2023/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/posts/business/call-for-nominations-2023/</guid>
+      <description>Our SIG will soon be holding elections for new officers. The terms of the current officers run through April, 2023, and all five positions on the leadership team will be up for election. In order to hold elections, we need candidates! We are now soliciting nominations (including self-nominations!) for all positions. If you are interested in running for a position, please contact SIG chair James Pustejovsky, no later than October 28th, 2022.</description>
+    </item>
+    
+    <item>
+      <title>Spotlight: Graduate Student</title>
+      <link>https://www.srmasig.org/posts/spotlight/spotlight_jy/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/posts/spotlight/spotlight_jy/</guid>
+      <description>Jacqueline (Jaki) YiTell us a bit about yourself.
+My name is Jacqueline (Jaki) Yi. I am a Ph.D. candidate studyingClinical-Community Psychology at the University of Illinois at UrbanaChampaign. I have a Bachelor’s in Science in Applied Psychology from NewYork University. In my program of research, I use various inquirymethods (e.g., meta-analysis, structural equation modeling, groundedtheory qualitative methods, mixed methods) to challenge systemicinequality, foster activism, and improve the wellbeing of individualsand broader society.</description>
+    </item>
+    
+    <item>
+      <title>2021-22 Seminars and Recordings</title>
+      <link>https://www.srmasig.org/seminar/2021-22-seminars/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/seminar/2021-22-seminars/</guid>
+      <description>October 22, 2021 Missing Covariates in Meta-Regression: Considerations and Implications
+  Speakers:
+ Jacob Schauer, Northwestern University Jihyun Lee, University of Texas at Austin Karina Diaz-Yanez, University of Pennsylvania Terri Pigott, Georgia State University    Description: This talk will take a deep dive into methods for exploring and handling missing covariates in meta-regression analysis. The speakers will highlight examples of exploratory data analysis techniques and share results of on-going research on methods for handling missing covariate information in a meta-regression.</description>
+    </item>
+    
+    <item>
+      <title>AERA 2022 Program</title>
+      <link>https://www.srmasig.org/program/aera-2022-program/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/program/aera-2022-program/</guid>
+      <description>Thursday, April 21, 2022 What Works in STEM Education: Evidence From Meta-Analyses Time: 8:00 am &amp;ndash; 9:30 am (PDT)
+Location: San Diego Convention Center, Exhibit Hall B Session
+Session Type: Roundtable Session
+  Impact of Innovative Technology-Related Interventions on K&amp;ndash;12 Students&#39; STEM Career-Related Outcomes: A Meta-Analysis
+  Exploring the Relationships Between Identity and Discourse in K&amp;ndash;12 Mathematics and Science Classrooms
+  A Systematic Review of the Most Effective Digital Math Learning Games for Elementary Students Research Through the Lens of Systematic Review</description>
+    </item>
+    
+    <item>
+      <title>Spotlight: Graduate Student</title>
+      <link>https://www.srmasig.org/posts/spotlight/spotlight_dgc/</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/posts/spotlight/spotlight_dgc/</guid>
+      <description>Diego G. CamposTell us a bit about yourself.
+My name is Diego G. Campos. I am a Ph.D. Candidate at the Centre forEducational Measurement at the University of Oslo (CEMO). I am workingwith Prof. Ronny Scherer and Prof. Mike Cheung to develop, use, andevaluate meta-analytic approaches to synthesize individual participantdata from complex survey studies. We have outstanding educational datafrom large-scale assessments collected at the national and internationallevels.</description>
+    </item>
     
     <item>
       <title>Introducing MOSAIC from American Institutes for Research</title>
-      <link>/posts/ma_resources/mosaic/</link>
+      <link>https://www.srmasig.org/posts/ma_resources/mosaic/</link>
       <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/ma_resources/mosaic/</guid>
+      <guid>https://www.srmasig.org/posts/ma_resources/mosaic/</guid>
       <description>The American Institutes for Research® (AIR®) recently launched theMethods of Synthesis and IntegrationCenter (MOSAIC). The center supports projectsthat synthesize evidence across multiple studies to inform stakeholdersand create evidence-based solutions in education, health, internationaldevelopment, social welfare, and the workforce. At MOSAIC, leadingexperts in evidence synthesis methodology work to developstate-of-the-art synthesis tools. AIR’s MartynaCitkowicz, LauraMichaelson, DavidMiller, JoshPolanin, and RyanWilliams lead thecenter.</description>
     </item>
     
     <item>
       <title>Spotlight: Recent Graduate</title>
-      <link>/posts/spotlight/spotlight_karina/</link>
+      <link>https://www.srmasig.org/posts/spotlight/spotlight_kgd/</link>
       <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/spotlight/spotlight_karina/</guid>
+      <guid>https://www.srmasig.org/posts/spotlight/spotlight_kgd/</guid>
       <description>Karina G. DiazPronouns: she/her/hers
 Tell us a bit about yourself.
 My name is Karina Diaz, I’m a research specialist at the Consortium forPolicy Research in Education (CPRE) at the University of Pennsylvania.I’m primarily responsible for the design and execution of quantitativeanalyses for funded research studies, including efficacy evaluations andlarge-scale projects with experimental and quasi-experimental designs.Prior to this, I collaborated as a research assistant at the STEPPCenter at the Institute for Policy Research (IPR) at NorthwesternUniversity.</description>
@@ -33,22 +154,74 @@ My name is Karina Diaz, I’m a research specialist at the Consortium forPolicy
     
     <item>
       <title>What is Meta-Analysis?</title>
-      <link>/posts/ma_methods/meta_analysis_intro/</link>
+      <link>https://www.srmasig.org/posts/ma_methods/meta_analysis_intro/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/ma_methods/meta_analysis_intro/</guid>
+      <guid>https://www.srmasig.org/posts/ma_methods/meta_analysis_intro/</guid>
       <description>Scientific researchers tend to produce literature on the same topiceither to replicate or extend prior studies or due to a lack ofawareness of prior evidence (Hedges &amp;amp; Cooper, 2009). Results acrossstudies tend to vary, even when researchers try to replicate studies,due to differences in sample characteristics, research designs, analyticstrategies or sampling error (Hedges &amp;amp; Cooper, 2009).
 Meta-analysis is a set of statistical techniques for synthesizingresults from multiple primary studies on a common topic.</description>
     </item>
     
     <item>
+      <title>AERA 2021 Program</title>
+      <link>https://www.srmasig.org/program/aera-2021-program/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/program/aera-2021-program/</guid>
+      <description>Thursday, April 8, 2021 Advancing Methods for Meta-Analysis in Education Research Time: 1:00 pm – 2:00 pm (EDT)
+Session Type: Roundtable Session
+  The Use of Mixture Random-Effect Models in Meta-Analysis: A Follow-Up Simulation Study - Belén Fernández- Castilla, University of Leuven
+  An Evaluation of Meta-Analyses in Education: The Extent of Heterogeneity in Meta-Analysis - Qian Wang, Western Michigan University
+  How to Handle Multi-Arm Studies in Network Meta-Analysis - Guanyu Chen, University of British Columbia</description>
+    </item>
+    
+    <item>
+      <title>AERA 2020 Program</title>
+      <link>https://www.srmasig.org/program/aera-2020-program/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/program/aera-2020-program/</guid>
+      <description>The 2020 annual convention was cancelled due to the COVID-19 pandemic. Following is the program that was planned for the conference.
+Friday, April 17, 2020 New Meta-Analyses in Higher Education Time: 12:00 – 1:30 pm (PDT)
+Location: Marriott Marquis San Francisco, Fourth Level, Verba Buena Salon 9
+Session Type: Roundtable Session
+  A Meta-Analysis of Combinations of Teacher and Student-Centered Practices and Processes in Undergraduate Science Education
+  Supports for College Students Achieving High GPAs in the US and Confucian-Based Countries</description>
+    </item>
+    
+    <item>
+      <title>AERA 2019 Program</title>
+      <link>https://www.srmasig.org/program/aera-2019-program/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/program/aera-2019-program/</guid>
+      <description>Saturday, April 6, 2019 New Systematic Reviews in Education Time: 8:00 – 9:30 am (EDT)
+Location: Metro Toronto Convention Centre, 300 Level, Hall C
+Session Type: Poster Session
+ Emotional Designs in Multimedia Learning: A Meta-Analysis  Sunday, April 7, 2019 Learning About Meta-Analysis and Meta-Analyses About Learning: Methods and Applications of Research Synthesis Time: 8:00 – 9:30 am (EDT)
+Location: Metro Toronto Convention Centre, 200 Level, Room 203A
+Session Type: Paper Session</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>https://www.srmasig.org/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>https://www.srmasig.org/contact/</guid>
       <description>If you have any questions about the SRMA SIG, please email
 James Pustejovsky (pustejovsky@wisc.edu)</description>
+    </item>
+    
+    <item>
+      <title>SIG Officers 2021-2023</title>
+      <link>https://www.srmasig.org/leadership/officers-2021-23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/leadership/officers-2021-23/</guid>
+      <description>SIG ChairJames E. PustejovskyPronouns: he/him/his
+I am a statistician and associate professor in the School of Education at the University of Wisconsin-Madison, where I teach in the Educational Psychology Department and the graduate program in Quantitative Methods. My research involves developing statistical methods for problems in education, psychology, and other areas of social science research, with a focus on methods related to research synthesis and meta-analysis.
+Program ChairQi ZhangPronouns: he/him/his</description>
     </item>
     
   </channel>

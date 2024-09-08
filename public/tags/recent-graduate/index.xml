@@ -2,21 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>recent graduate on SRMA SIG</title>
-    <link>/tags/recent-graduate/</link>
+    <link>https://www.srmasig.org/tags/recent-graduate/</link>
     <description>Recent content in recent graduate on SRMA SIG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Aug 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/recent-graduate/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 04 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.srmasig.org/tags/recent-graduate/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spotlight: Recent Graduate</title>
-      <link>/posts/spotlight/spotlight_karina/</link>
+      <link>https://www.srmasig.org/posts/spotlight/spotlight_kgd/</link>
       <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/spotlight/spotlight_karina/</guid>
+      <guid>https://www.srmasig.org/posts/spotlight/spotlight_kgd/</guid>
       <description>Karina G. DiazPronouns: she/her/hers
 Tell us a bit about yourself.
 My name is Karina Diaz, I’m a research specialist at the Consortium forPolicy Research in Education (CPRE) at the University of Pennsylvania.I’m primarily responsible for the design and execution of quantitativeanalyses for funded research studies, including efficacy evaluations andlarge-scale projects with experimental and quasi-experimental designs.Prior to this, I collaborated as a research assistant at the STEPPCenter at the Institute for Policy Research (IPR) at NorthwesternUniversity.</description>

@@ -1,14 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AERA Program on SRMA SIG</title>
-    <link>/program/</link>
-    <description>Recent content in AERA Program on SRMA SIG</description>
+    <title>AERA Program Archive on SRMA SIG</title>
+    <link>https://www.srmasig.org/program/</link>
+    <description>Recent content in AERA Program Archive on SRMA SIG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.srmasig.org/program/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AERA 2024 Program</title>
+      <link>https://www.srmasig.org/program/aera-2024-program/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/program/aera-2024-program/</guid>
+      <description>Thursday, April 11, 2024 Research Syntheses and Meta-Analyses in Education: Exemplar Studies and Methodological Guidance Time: 10:50 AM - 12:20 PM (EDT)
+Location: Pennsylvania Convention Center, Level 200, Exhibit Hall A
+Session Type: Poster Session
+  A meta-analysis exploring the relationship between motivation and executive function (Poster 34) - Chawla et al.
+  Factors influencing high school Asian American students&#39; STEM Major Choice: A systematic review (Poster 35) - Zhao et al.</description>
+    </item>
     
-	<atom:link href="/program/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AERA 2023 Program</title>
+      <link>https://www.srmasig.org/program/aera-2023-program/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/program/aera-2023-program/</guid>
+      <description>Thursday, April 13, 2023 How to Evaluate Journal Implementation of Open Science Standards: The TRUST Process Time: 8:00 am – 9:30 am (CDT)
+Location: Radisson Blue Aqua Hotel, 2nd Floor, Baltic
+Session Type: Demonstration/Performance
+Friday, April 14, 2023 Systematic Review and Meta-Analysis SIG Roundtable (Table 9) Time: 9:50 am – 11:20am (CDT)
+Location: Fairmount Chicago Millennium Park, 2nd Floor, Imperial Ballroom
+Session Type: Roundtable Session
+  Educational Recommendations for Improving Computing Education: Report From a Systematic Literature Review</description>
+    </item>
     
+    <item>
+      <title>AERA 2022 Program</title>
+      <link>https://www.srmasig.org/program/aera-2022-program/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/program/aera-2022-program/</guid>
+      <description>Thursday, April 21, 2022 What Works in STEM Education: Evidence From Meta-Analyses Time: 8:00 am &amp;ndash; 9:30 am (PDT)
+Location: San Diego Convention Center, Exhibit Hall B Session
+Session Type: Roundtable Session
+  Impact of Innovative Technology-Related Interventions on K&amp;ndash;12 Students&#39; STEM Career-Related Outcomes: A Meta-Analysis
+  Exploring the Relationships Between Identity and Discourse in K&amp;ndash;12 Mathematics and Science Classrooms
+  A Systematic Review of the Most Effective Digital Math Learning Games for Elementary Students Research Through the Lens of Systematic Review</description>
+    </item>
+    
+    <item>
+      <title>AERA 2021 Program</title>
+      <link>https://www.srmasig.org/program/aera-2021-program/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/program/aera-2021-program/</guid>
+      <description>Thursday, April 8, 2021 Advancing Methods for Meta-Analysis in Education Research Time: 1:00 pm – 2:00 pm (EDT)
+Session Type: Roundtable Session
+  The Use of Mixture Random-Effect Models in Meta-Analysis: A Follow-Up Simulation Study - Belén Fernández- Castilla, University of Leuven
+  An Evaluation of Meta-Analyses in Education: The Extent of Heterogeneity in Meta-Analysis - Qian Wang, Western Michigan University
+  How to Handle Multi-Arm Studies in Network Meta-Analysis - Guanyu Chen, University of British Columbia</description>
+    </item>
+    
+    <item>
+      <title>AERA 2020 Program</title>
+      <link>https://www.srmasig.org/program/aera-2020-program/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/program/aera-2020-program/</guid>
+      <description>The 2020 annual convention was cancelled due to the COVID-19 pandemic. Following is the program that was planned for the conference.
+Friday, April 17, 2020 New Meta-Analyses in Higher Education Time: 12:00 – 1:30 pm (PDT)
+Location: Marriott Marquis San Francisco, Fourth Level, Verba Buena Salon 9
+Session Type: Roundtable Session
+  A Meta-Analysis of Combinations of Teacher and Student-Centered Practices and Processes in Undergraduate Science Education
+  Supports for College Students Achieving High GPAs in the US and Confucian-Based Countries</description>
+    </item>
+    
+    <item>
+      <title>AERA 2019 Program</title>
+      <link>https://www.srmasig.org/program/aera-2019-program/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/program/aera-2019-program/</guid>
+      <description>Saturday, April 6, 2019 New Systematic Reviews in Education Time: 8:00 – 9:30 am (EDT)
+Location: Metro Toronto Convention Centre, 300 Level, Hall C
+Session Type: Poster Session
+ Emotional Designs in Multimedia Learning: A Meta-Analysis  Sunday, April 7, 2019 Learning About Meta-Analysis and Meta-Analyses About Learning: Methods and Applications of Research Synthesis Time: 8:00 – 9:30 am (EDT)
+Location: Metro Toronto Convention Centre, 200 Level, Room 203A
+Session Type: Paper Session</description>
+    </item>
     
   </channel>
 </rss>

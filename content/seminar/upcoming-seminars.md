@@ -2,7 +2,43 @@
 description: 'Systematic Reviews and Meta-Analysis Methodology'
 featured_image: ""
 title: Upcoming Seminars
-date: 2023-09-25
+date: 2024-09-08
 ---
 
-We are currently planning seminars for Fall 2024 and Spring 2025. Please feel free to reach out with suggestions, including self-nominations, to [James Pustejovsky](mailto:pustejovsky@wisc.edu). Nominations will be considered if they fall within the scope of the seminar series. Speakers need not be members of AERA. We welcome scholars from outside of North America.
+## September 27, 2024, 11 am CDT
+
+***Getting Meta-Analyses Done: Practical Perspectives from Experienced Reviewers***
+
+- Panelists: 
+    - [Dr. Carlton Fong](https://faculty.txst.edu/profile/2018070), Texas State University
+    - [Dr. Amanda Neitzel](https://education.jhu.edu/directory/amanda-neitzel-inns-phd/), Johns Hopkins University
+    - [Dr. Peng Peng](https://education.utexas.edu/faculty/peng_peng/), University of Texas at Austin
+
+- Description: Our panel of prolific and experienced systematic reviewers will be discussing the very practical side of systematic reviews and meta-analyses, common challenges and roadblocks, and tips for getting meta-analyses done, with plenty of time for audience questions and discussion. 
+
+-  [Register here](https://us02web.zoom.us/meeting/register/tZwucu6hrT0vHNbu0sxk5wyoOLIU3johwQQS).
+
+## October 18, 2024, 9 am CDT
+
+***Fitting Flexible Meta-Analytic Models with Structural Equation Modeling***
+
+- Speaker: [Dr. Mike Cheung](https://mikewlcheung.github.io/), National University of Singapore
+
+-  [Register here](https://us02web.zoom.us/meeting/register/tZwucu6hrT0vHNbu0sxk5wyoOLIU3johwQQS).
+
+## November 15, 2024, 11 am CST
+
+***Using GPT API Models as Second Screeners of Titles and Abstracts in High-Quality Systematic Reviews***
+
+- Speaker: [Dr. Mikkel Vembye](https://www.vive.dk/en/employees/mikkel-helding-vembye-568r9kvr/), Danish Center for Social Science Research
+
+-  [Register here](https://us02web.zoom.us/meeting/register/tZwucu6hrT0vHNbu0sxk5wyoOLIU3johwQQS).
+
+## December 13, 2024, 11 am CST
+
+***Friday the 13th & Single Case Experimental Designs: Allegedly Unlucky Encounters for Meta-Analysts***
+
+- Speakers: [Dr. John Ferron](https://www.usf.edu/education/faculty/faculty-profiles/john-ferron.aspx), University of South Florida,
+and [Dr. Megan Kirby](https://www.linkedin.com/in/dr-megan-kirby-54b2a211/), Glazer Children's Museum
+
+-  [Register here](https://us02web.zoom.us/meeting/register/tZwucu6hrT0vHNbu0sxk5wyoOLIU3johwQQS).

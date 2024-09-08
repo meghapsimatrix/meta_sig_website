@@ -2,84 +2,116 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SRMA SIG</title>
-    <link>/tags/</link>
+    <link>https://www.srmasig.org/tags/</link>
     <description>Recent content in Tags on SRMA SIG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Aug 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.srmasig.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>meta-analysis</title>
-      <link>/tags/meta-analysis/</link>
-      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <title>AERA</title>
+      <link>https://www.srmasig.org/tags/aera/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tags/meta-analysis/</guid>
+      <guid>https://www.srmasig.org/tags/aera/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>recent graduate</title>
-      <link>/tags/recent-graduate/</link>
-      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+      <title>SIG</title>
+      <link>https://www.srmasig.org/tags/sig/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tags/recent-graduate/</guid>
+      <guid>https://www.srmasig.org/tags/sig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graduate student</title>
+      <link>https://www.srmasig.org/tags/graduate-student/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/tags/graduate-student/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meta-analysis</title>
+      <link>https://www.srmasig.org/tags/meta-analysis/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/tags/meta-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>spotlight</title>
-      <link>/tags/spotlight/</link>
+      <link>https://www.srmasig.org/tags/spotlight/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/tags/spotlight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>systematic reviews</title>
+      <link>https://www.srmasig.org/tags/systematic-reviews/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/tags/systematic-reviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recent graduate</title>
+      <link>https://www.srmasig.org/tags/recent-graduate/</link>
       <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/spotlight/</guid>
+      <guid>https://www.srmasig.org/tags/recent-graduate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>common effects</title>
-      <link>/tags/common-effects/</link>
+      <link>https://www.srmasig.org/tags/common-effects/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/common-effects/</guid>
+      <guid>https://www.srmasig.org/tags/common-effects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fixed effects</title>
-      <link>/tags/fixed-effects/</link>
+      <link>https://www.srmasig.org/tags/fixed-effects/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/fixed-effects/</guid>
+      <guid>https://www.srmasig.org/tags/fixed-effects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>heterogeneity</title>
-      <link>/tags/heterogeneity/</link>
+      <link>https://www.srmasig.org/tags/heterogeneity/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/heterogeneity/</guid>
+      <guid>https://www.srmasig.org/tags/heterogeneity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>meta-regression</title>
-      <link>/tags/meta-regression/</link>
+      <link>https://www.srmasig.org/tags/meta-regression/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/meta-regression/</guid>
+      <guid>https://www.srmasig.org/tags/meta-regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>random effects</title>
-      <link>/tags/random-effects/</link>
+      <link>https://www.srmasig.org/tags/random-effects/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/random-effects/</guid>
+      <guid>https://www.srmasig.org/tags/random-effects/</guid>
       <description></description>
     </item>
     

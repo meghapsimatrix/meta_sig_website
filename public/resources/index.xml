@@ -2,13 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resources on SRMA SIG</title>
-    <link>/resources/</link>
+    <link>https://www.srmasig.org/resources/</link>
     <description>Recent content in Resources on SRMA SIG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/resources/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.srmasig.org/resources/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
