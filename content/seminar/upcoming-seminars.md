@@ -16,7 +16,7 @@ date: 2024-09-08
 
 - Description: Our panel of prolific and experienced systematic reviewers will be discussing the very practical side of systematic reviews and meta-analyses, common challenges and roadblocks, and tips for getting meta-analyses done, with plenty of time for audience questions and discussion. 
 
--  [Register here](https://us02web.zoom.us/meeting/register/tZwucu6hrT0vHNbu0sxk5wyoOLIU3johwQQS).
+-  [Register here](https://us06web.zoom.us/meeting/register/tZIldOuorzwiGNAnEoedUXskxj2maT3GbmBH#/registration).
 
 ## October 18, 2024, 9 am CDT
 
@@ -24,7 +24,7 @@ date: 2024-09-08
 
 - Speaker: [Dr. Mike Cheung](https://mikewlcheung.github.io/), National University of Singapore
 
--  [Register here](https://us02web.zoom.us/meeting/register/tZwucu6hrT0vHNbu0sxk5wyoOLIU3johwQQS).
+-  [Register here](https://us06web.zoom.us/meeting/register/tZIldOuorzwiGNAnEoedUXskxj2maT3GbmBH#/registration).
 
 ## November 15, 2024, 11 am CST
 
@@ -32,7 +32,7 @@ date: 2024-09-08
 
 - Speaker: [Dr. Mikkel Vembye](https://www.vive.dk/en/employees/mikkel-helding-vembye-568r9kvr/), Danish Center for Social Science Research
 
--  [Register here](https://us02web.zoom.us/meeting/register/tZwucu6hrT0vHNbu0sxk5wyoOLIU3johwQQS).
+-  [Register here](https://us06web.zoom.us/meeting/register/tZIldOuorzwiGNAnEoedUXskxj2maT3GbmBH#/registration).
 
 ## December 13, 2024, 11 am CST
 
@@ -41,4 +41,4 @@ date: 2024-09-08
 - Speakers: [Dr. John Ferron](https://www.usf.edu/education/faculty/faculty-profiles/john-ferron.aspx), University of South Florida,
 and [Dr. Megan Kirby](https://www.linkedin.com/in/dr-megan-kirby-54b2a211/), Glazer Children's Museum
 
--  [Register here](https://us02web.zoom.us/meeting/register/tZwucu6hrT0vHNbu0sxk5wyoOLIU3johwQQS).
+-  [Register here](https://us06web.zoom.us/meeting/register/tZIldOuorzwiGNAnEoedUXskxj2maT3GbmBH#/registration).
