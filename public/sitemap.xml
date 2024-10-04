@@ -2,11 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.srmasig.org/seminar/</loc>
-    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
+    <loc>https://www.srmasig.org/tags/aera/</loc>
+    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/categories/business/</loc>
+    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/posts/business/call-for-nominations-2025/</loc>
+    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/categories/</loc>
+    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/tags/sig/</loc>
+    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.srmasig.org/</loc>
-    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/tags/</loc>
+    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/seminar/2024-25-seminars/</loc>
+    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.srmasig.org/seminar/</loc>
+    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.srmasig.org/seminar/upcoming-seminars/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
@@ -23,22 +44,7 @@
     <loc>https://www.srmasig.org/program/aera-2023-program/</loc>
     <lastmod>2023-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.srmasig.org/tags/aera/</loc>
-    <lastmod>2023-03-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.srmasig.org/categories/business/</loc>
-    <lastmod>2023-03-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.srmasig.org/categories/</loc>
-    <lastmod>2023-03-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.srmasig.org/posts/business/new_officers/</loc>
-    <lastmod>2023-03-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.srmasig.org/tags/sig/</loc>
-    <lastmod>2023-03-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.srmasig.org/tags/</loc>
     <lastmod>2023-03-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.srmasig.org/seminar/2022-23-seminars/</loc>

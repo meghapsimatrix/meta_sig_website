@@ -6,16 +6,37 @@
     <description>Recent content in Systematic Review and Meta-Analysis SIG on SRMA SIG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.srmasig.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.srmasig.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call for SIG Officer Nominations</title>
+      <link>https://www.srmasig.org/posts/business/call-for-nominations-2025/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/posts/business/call-for-nominations-2025/</guid>
+      <description>Our Systematic Review and Meta-Analysis SIG is seeking new officers for the leadership team, with terms starting after the end of the 2025 convention next April. We welcome nominations (including self-nominations!) for any of the following positions:
+Program Chair – organizes and manages the proposal review process and assembles the SIG’s program for the annual convention.Secretary – reports on SIG activities, including the annual business meeting, and leads communications with SIG members.</description>
+    </item>
+    
+    <item>
+      <title>2024-25 Seminars and Recordings</title>
+      <link>https://www.srmasig.org/seminar/2024-25-seminars/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.srmasig.org/seminar/2024-25-seminars/</guid>
+      <description>September 27, 2024 Getting Meta-Analyses Done: Practical Perspectives from Experienced Reviewers
+  Panelists:
+ Dr. Carlton Fong, Texas State University Dr. Amanda Neitzel, Johns Hopkins University Dr. Peng Peng, University of Texas at Austin    Description: Our panel of prolific and experienced systematic reviewers will be discussing the very practical side of systematic reviews and meta-analyses, common challenges and roadblocks, and tips for getting meta-analyses done, with plenty of time for audience questions and discussion.</description>
+    </item>
+    
     <item>
       <title>Upcoming Seminars</title>
       <link>https://www.srmasig.org/seminar/upcoming-seminars/</link>
       <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
       
       <guid>https://www.srmasig.org/seminar/upcoming-seminars/</guid>
-      <description>September 27, 2024, 11 am CDT Getting Meta-Analyses Done: Practical Perspectives from Experienced Reviewers
-  Panelists:
- Dr. Carlton Fong, Texas State University Dr. Amanda Neitzel, Johns Hopkins University Dr. Peng Peng, University of Texas at Austin    Description: Our panel of prolific and experienced systematic reviewers will be discussing the very practical side of systematic reviews and meta-analyses, common challenges and roadblocks, and tips for getting meta-analyses done, with plenty of time for audience questions and discussion.</description>
+      <description>October 18, 2024, 9 am CDT Fitting Flexible Meta-Analytic Models with Structural Equation Modeling
+  Speaker: Dr. Mike Cheung, National University of Singapore
+  Description: Understanding the differences between various meta-analytic models, such as the fixed-effect, random-effects, and multiplicative error models, can be challenging for researchers. This presentation explains these models using a graphical representation within a structural equation modeling (SEM) framework. Users specify meta-analytic models using lavaan syntax.</description>
     </item>
     
     <item>
