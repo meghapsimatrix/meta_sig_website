@@ -53,6 +53,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   site_logo = ""
   description = ""
   mastodon = "https://fediscience.org/web/@srmasig"
+  bluesky = "https://bsky.app/profile/srma-sig.bsky.social"
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-dark-green"
   body_classes = "baskerville"

@@ -16,12 +16,11 @@ params:
   background_color_class: bg-black
   description: ''  
   linkedin: ''
-  mastodon: ''
+  mastodon: 'https://fediscience.org/@srmasig'
   recent_posts_number: 2
   rss: ''
   site_logo: ''
   slack: ''
+  twitter: 'https://bsky.app/profile/srma-sig.bsky.social'
   stackoverflow: ''
-  twitter: https://twitter.com/SRMA_SIG
   youtube: ''
-  mastodon: https:://https://fediscience.org/web/@srmasig

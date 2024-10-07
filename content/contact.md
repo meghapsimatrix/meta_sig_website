@@ -5,6 +5,7 @@ menu: main
 title: Contact
 ---
 
+Find us on [Mastodon](https://fediscience.org/@srmasig) and [BlueSky](https://bsky.app/profile/srma-sig.bsky.social)!
 
 If you have any questions about the SRMA SIG, please email 
 
