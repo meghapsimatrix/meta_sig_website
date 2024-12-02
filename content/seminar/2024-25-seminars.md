@@ -15,6 +15,12 @@ date: 2024-09-30
 
 -   [Slides](../seminar_25_AIScreenR.pdf)
 
+-   Video Recording
+
+    ```         
+    {{< youtube FLBTuEFk_eE >}}
+    ```
+
 
 ## October 18, 2024, 9 am CDT
 
