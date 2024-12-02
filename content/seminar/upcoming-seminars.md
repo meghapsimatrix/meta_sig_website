@@ -5,21 +5,49 @@ title: Upcoming Seminars
 date: 2024-09-08
 ---
 
-## November 15, 2024, 11 am CST
-
-***Using GPT API Models as Second Screeners of Titles and Abstracts in High-Quality Systematic Reviews***
-
-- Speaker: [Dr. Mikkel Vembye](https://www.vive.dk/en/staff/mikkel-helding-vembye-568r9kvr/), Danish Center for Social Science Research
-
-- Description: Independent human double screening of titles and abstracts is a critical step to ensure the quality of systematic reviews and meta-analyses. However, double screening is a resource-demanding procedure that slows down the review process. In this presentation, I will demonstrate how reviewers reliably can implement OpenAI’s GPT models as second screeners of title and abstracts to mitigate this resource demand. I will provide a practical demonstration of how to conduct title and abstract screening with GPT API models through the newly developed R package AIscreenR and highlight how the approach differs from simply using the ChatGPT interface. I will discuss implementation requirements for ensuring performance that is at least on par with typical human screening. To facilitate this, I will introduce a new screening benchmark scheme that is based on common human screening performance in 22 large-scale systematic reviews. As the initial proof of concept, I will present results of using GPT API screening in three large classification experiments. I will conclude by discussing limitations and future directions for this screening method and how it can be combined with traditional (semi-)automated screening tools. The background for this presentation can be found at https://osf.io/preprints/osf/yrhzm.
-
--  [Register here](https://us06web.zoom.us/meeting/register/tZIldOuorzwiGNAnEoedUXskxj2maT3GbmBH#/registration).
-
 ## December 13, 2024, 11 am CST
 
 ***Friday the 13th & Single Case Experimental Designs: Allegedly Unlucky Encounters for Meta-Analysts***
 
 - Speakers: [Dr. John Ferron](https://www.usf.edu/education/faculty/faculty-profiles/john-ferron.aspx), University of South Florida,
-and [Dr. Megan Kirby](https://www.linkedin.com/in/dr-megan-kirby-54b2a211/), Glazer Children's Museum
+and [Dr. Megan Kirby](https://www.linkedin.com/in/dr-megan-kirby-54b2a211/), Language Dynamics Group
+
+- Description: With increased use of single-case experimental designs to study intervention effects, there is a greater need to include single-case experimental design studies in meta-analyses. In this session, we will discuss alternative methods for estimating effects from single-case studies, illustrate the estimation of these effects from freely available software apps, and provide guidance about choosing among the effect size options.
+
+-  [Register here](https://us06web.zoom.us/meeting/register/tZIldOuorzwiGNAnEoedUXskxj2maT3GbmBH#/registration).
+
+
+## February 14, 2025, 11 am CST
+
+***Adapting Methods for Correcting Selective Reporting Bias in Meta-Analysis of Dependent Effect Sizes***
+
+- Speaker: [Dr. Man Chen](https://education.utexas.edu/faculty/man_chen/), University of Texas at Austin
+
+-  [Register here](https://us06web.zoom.us/meeting/register/tZIldOuorzwiGNAnEoedUXskxj2maT3GbmBH#/registration).
+
+
+## March 14, 2025, 11 am CST
+
+***Launching a Living Systematic Review of SEL in a Politically Charged Climate: From Evidence Synthesis to Practical Significance***
+
+- Speaker: [Dr. Christina Cipriano](https://medicine.yale.edu/profile/christina-cipriano/), Yale School of Medicine
+
+-  [Register here](https://us06web.zoom.us/meeting/register/tZIldOuorzwiGNAnEoedUXskxj2maT3GbmBH#/registration).
+
+
+## April 18, 2025, 11 am CST
+
+***Qualitative Meta-Aggregation in Education Research: Methodological Guidance and Practical Lessons***
+
+- Speaker: [Dr. Yukiko Maeda](https://education.purdue.edu/faculty-profiles/name/yukiko-maeda/), Purdue University
+
+-  [Register here](https://us06web.zoom.us/meeting/register/tZIldOuorzwiGNAnEoedUXskxj2maT3GbmBH#/registration).
+
+
+## May 16, 2025, 10 am CST (Note the special time!)
+
+***Individual Participant Data Meta-Analysis Projects: Rationale, Concepts and Pitfalls***
+
+- Speaker: [Dr. Richard Riley](https://www.birmingham.ac.uk/staff/profiles/applied-health/riley-richard), University of Birmingham
 
 -  [Register here](https://us06web.zoom.us/meeting/register/tZIldOuorzwiGNAnEoedUXskxj2maT3GbmBH#/registration).
