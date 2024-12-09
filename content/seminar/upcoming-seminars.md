@@ -37,7 +37,7 @@ and [Dr. Megan Kirby](https://www.linkedin.com/in/dr-megan-kirby-54b2a211/), Lan
 
 ## April 18, 2025, 11 am CST
 
-***Qualitative Meta-Aggregation in Education Research: Methodological Guidance and Practical Lessons***
+***Synthesizing Qualitative Evidence in Education: Opportunities and Challenges of Meta-Aggregation***
 
 - Speaker: [Dr. Yukiko Maeda](https://education.purdue.edu/faculty-profiles/name/yukiko-maeda/), Purdue University
 
