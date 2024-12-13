@@ -5,18 +5,6 @@ title: Upcoming Seminars
 date: 2024-09-08
 ---
 
-## December 13, 2024, 11 am CST
-
-***Friday the 13th & Single Case Experimental Designs: Allegedly Unlucky Encounters for Meta-Analysts***
-
-- Speakers: [Dr. John Ferron](https://www.usf.edu/education/faculty/faculty-profiles/john-ferron.aspx), University of South Florida,
-and [Dr. Megan Kirby](https://www.linkedin.com/in/dr-megan-kirby-54b2a211/), Language Dynamics Group
-
-- Description: With increased use of single-case experimental designs to study intervention effects, there is a greater need to include single-case experimental design studies in meta-analyses. In this session, we will discuss alternative methods for estimating effects from single-case studies, illustrate the estimation of these effects from freely available software apps, and provide guidance about choosing among the effect size options.
-
--  [Register here](https://us06web.zoom.us/meeting/register/tZIldOuorzwiGNAnEoedUXskxj2maT3GbmBH#/registration).
-
-
 ## February 14, 2025, 11 am CST
 
 ***Adapting Methods for Correcting Selective Reporting Bias in Meta-Analysis of Dependent Effect Sizes***

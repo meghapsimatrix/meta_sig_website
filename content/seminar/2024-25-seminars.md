@@ -5,6 +5,17 @@ title: 2024-25 Seminars and Recordings
 date: 2024-09-30
 ---
 
+## December 13, 2024, 11 am CST
+
+***Friday the 13th & Single Case Experimental Designs: Allegedly Unlucky Encounters for Meta-Analysts***
+
+- Speakers: [Dr. John Ferron](https://www.usf.edu/education/faculty/faculty-profiles/john-ferron.aspx), University of South Florida,
+and [Dr. Megan Kirby](https://www.linkedin.com/in/dr-megan-kirby-54b2a211/), Language Dynamics Group
+
+- Description: With increased use of single-case experimental designs to study intervention effects, there is a greater need to include single-case experimental design studies in meta-analyses. In this session, we will discuss alternative methods for estimating effects from single-case studies, illustrate the estimation of these effects from freely available software apps, and provide guidance about choosing among the effect size options.
+
+-   [Slides](../seminar_26_SCD_meta.pdf)
+
 ## November 15, 2024, 11 am CST
 
 ***Using GPT API Models as Second Screeners of Titles and Abstracts in High-Quality Systematic Reviews***
