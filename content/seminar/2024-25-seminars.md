@@ -26,6 +26,12 @@ and [Dr. Megan Kirby](https://www.linkedin.com/in/dr-megan-kirby-54b2a211/), Lan
 
 -   [Slides](../seminar_26_SCD_meta.pdf)
 
+-   Video Recording
+
+    ```         
+    {{< youtube SFvEcqEXIsg >}}
+    ```
+
 ## November 15, 2024, 11 am CST
 
 ***Using GPT API Models as Second Screeners of Titles and Abstracts in High-Quality Systematic Reviews***
