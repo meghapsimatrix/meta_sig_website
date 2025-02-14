@@ -15,6 +15,13 @@ date: 2024-09-30
 
 -   [Slides](../seminar_27_Selective_Reporting_Dependent_Effects.pdf)
 
+-   Video Recording
+
+    ```         
+    {{< youtube GGjfNez-YsQ >}}
+    ```
+
+
 ## December 13, 2024, 11 am CST
 
 ***Friday the 13th & Single Case Experimental Designs: Allegedly Unlucky Encounters for Meta-Analysts***
