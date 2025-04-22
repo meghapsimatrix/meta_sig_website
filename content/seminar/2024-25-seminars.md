@@ -15,6 +15,11 @@ date: 2024-09-30
 
 -   [Slides](../seminar_29_meta-aggregation.pdf)
 
+-   Video Recording
+
+    ```         
+    {{< youtube aVqhElJXfb8 >}}
+    ```
 
 ## March 14, 2025, 11 am CST
 
