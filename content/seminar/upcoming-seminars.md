@@ -11,4 +11,6 @@ date: 2024-09-08
 
 - Speaker: [Dr. Richard Riley](https://www.birmingham.ac.uk/staff/profiles/applied-health/riley-richard), University of Birmingham
 
+- Description: 
+
 -  [Register here](https://us06web.zoom.us/meeting/register/tZIldOuorzwiGNAnEoedUXskxj2maT3GbmBH#/registration).
