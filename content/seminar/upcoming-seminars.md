@@ -5,7 +5,7 @@ title: Upcoming Seminars
 date: 2024-09-08
 ---
 
-## May 16, 2025, 10 am CST (Note the special time!)
+## May 16, 2025, 10 am CDT (Note the special time!)
 
 ***Individual Participant Data Meta-Analysis Projects: Rationale, Concepts and Pitfalls***
 
