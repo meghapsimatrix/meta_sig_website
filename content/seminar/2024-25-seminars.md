@@ -15,6 +15,8 @@ date: 2024-09-30
 
     [1] Riley RD, Tierney J, Stewart LA (Eds). Individual Participant Data Meta-Analysis: A Handbook for Healthcare Research. Wiley, Chichester; 2021 
 
+-   [Slides](../seminar_30_IPD.pdf)
+
 -   Video Recording
 
     ```         
