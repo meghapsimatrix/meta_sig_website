@@ -11,10 +11,6 @@ date: 2025-10-17
 
 - Speaker: [Dr. James Pustejovsky](https://edpsych.education.wisc.edu/staff/pustejovsky-james-e/), University of Wisconsin Madison
 
-- Description: ### DEREK INSERT OR DELETE
-
--   [Slides](../seminar_30_IPD.pdf)     ### DEREK CHANGE
-
 -   Video Recording
 
     ```         
