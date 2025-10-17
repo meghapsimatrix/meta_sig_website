@@ -11,7 +11,9 @@ date: 2025-10-17
 
 - Speaker: [Dr. James Pustejovsky](https://edpsych.education.wisc.edu/staff/pustejovsky-james-e/), University of Wisconsin Madison
 
--   Video Recording:
+
+-   Video Recording
+
 
     ```         
     {{< youtube Prx2AJe9jmE >}}    
