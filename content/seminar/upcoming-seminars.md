@@ -2,7 +2,7 @@
 description: 'Systematic Reviews and Meta-Analysis Methodology'
 featured_image: ""
 title: Upcoming Seminars
-date: Updated 2025-10-17
+date: 2025-10-17
 ---
 
 Please join us for two more exciting seminars in 2025:
