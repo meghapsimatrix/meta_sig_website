@@ -5,6 +5,7 @@ title: 2025-26 Seminars and Recordings
 date: 2025-10-17
 ---
 
+
 ## October 3, 2025, 11 am CST
 
 ***A Preliminary Data Analysis Workflow for Meta-Analysis of Dependent Effect Sizes***
@@ -20,4 +21,24 @@ date: 2025-10-17
 
     ```         
     {{< youtube Prx2AJe9jmE >}}    
+
+
+
+
+## Novemeber 14, 2025, 11 am CST
+
+***A Meta-Review on the Methodological Quality of Education Intervention Meta-Analyses
+
+- Speakers: Marta Pellegrini, University of Cagliari, [Dr. Terri Pigott](https://education.gsu.edu/profile/terri-pigott/), Georgia State University, Hannah Scarbrough, Georgia State University, Natalie Pruitt, Georgia State University, and Caroline Chubb, Georgia State University
+
+- Description: This meta-review explored the current practices of education meta-analyses in terms of systematic review procedures and meta-analysis methods. We reviewed 247 meta-analyses on the effects of K–12 school-based academic interventions on student academic achievement published after 2011. We found that many reviews were mostly consistent with several best practice recommendations for the review stage, including problem formulation, selection and coding procedures. Reviews rarely preregistered their protocol or shared data, which reduce the transparency and reproducibility of the process. Best practice meta-analysis methods with robust consensus among methodologists were seldom used in our review sample. Recommendations for generating more credible and reproducible findings are provided. We also identify areas with the need for more research and guidance, including how to conduct critical appraisal, how to deal with outliers and missing covariate data, disciplined strategies to build meta-regression models.
+
+- Video Recording
+
+
+    ```         
+    {{< youtube Zr-zbYPn_A4 >}}  
+
+
+
 
