@@ -42,3 +42,18 @@ date: 2025-10-17
 
 
 
+## December 5, 2025, 11 am CST
+
+***The Cite Source app: Examining the utility and efficacy of literature resources & search methodologies
+
+- Speakers: [Trevor Riley] (), Head of Public Services at National Oceaninc and Atmospheric Administration's Central Library
+
+- Description: CiteSource is an R package and Shiny application that was developed to help researchers examine the impact of literature resources and search methodologies. CiteSource has several use cases, each centered on improving search strategies and decision-making based on real-time data. This presentation will focus on three use cases: search string result comparison, benchmark testing, and post-review source/method impact analysis.
+
+- Video Recording
+
+
+    ```         
+    {{< youtube Cnf4oeGY7qA >}} 
+
+
