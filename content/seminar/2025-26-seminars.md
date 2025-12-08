@@ -27,7 +27,7 @@ date: 2025-10-17
 
 ## Novemeber 14, 2025, 11 am CST
 
-***A Meta-Review on the Methodological Quality of Education Intervention Meta-Analyses
+***A Meta-Review on the Methodological Quality of Education Intervention Meta-Analyses***
 
 - Speakers: Marta Pellegrini, University of Cagliari, [Dr. Terri Pigott](https://education.gsu.edu/profile/terri-pigott/), Georgia State University, Hannah Scarbrough, Georgia State University, Natalie Pruitt, Georgia State University, and Caroline Chubb, Georgia State University
 
@@ -44,7 +44,7 @@ date: 2025-10-17
 
 ## December 5, 2025, 11 am CST
 
-***The Cite Source app: Examining the utility and efficacy of literature resources & search methodologies
+***The Cite Source app: Examining the utility and efficacy of literature resources & search methodologies***
 
 - Speakers: [Trevor Riley] (), Head of Public Services at National Oceaninc and Atmospheric Administration's Central Library
 
