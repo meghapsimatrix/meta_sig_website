@@ -55,5 +55,36 @@ date: 2025-12-08
 
     ```         
     {{< youtube Cnf4oeGY7qA >}} 
+    
+   
+    
+
+## April 3, 2026, 11 am CST   
+
+***Data extraction by generative artificial intelligence: Assessing determinants of accuracy using human-extracted data from systematic-review databases.
+
+- Speakers: [Thorben Jansen](https://www.leibniz-ipn.de/en/the-ipn/about-us/staff/thorben-jansen), Leibniz Institute for Science and Mathematics Education
+
+- Description: Systematic reviews rely on accurate data extraction, yet achieving reliability typically demands substantial human expertise, time, and training. Generative artificial intelligence (genAI), particularly large language models (LLMs), offers the potential to streamline and scale this process. Still, uncertainty remains about when LLM-generated extractions should be accepted, scrutinized, or discarded. We address this issue through two complementary empirical investigations
+
+- Video Recording
+
+
+    ```         
+    {{< youtube 9_YHjgf2e7g >}} 
+    
+    
+    
+    
+    
+## May 8, 2026, 11 am CST
+
+***Bayesian modeling of heterogeneity in educational meta-analysis: Prior specification and preidctive implications.
+
+- Speakers: [Christopher Thompson](https://directory.education.tamu.edu/view/1311), Texas A&M University
+
+- Description: TBD
+
+- Video Recording (TBD)
 
 
