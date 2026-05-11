@@ -83,8 +83,13 @@ date: 2025-12-08
 
 - Speakers: [Christopher Thompson](https://directory.education.tamu.edu/view/1311), Texas A&M University
 
-- Description: TBD
+- Description: Capturing and quantifying heterogeneity is an essential facet of meta-analysis. This presentation covers current Bayesian methods for studying heterogeneity, with a focus on key influences on the magnitude of heterogeneity outcomes.
 
-- Video Recording (TBD)
+-   [Slides](https://drive.google.com/file/d/1FOp6odOHc-7_pQW4YlNWZH5nEl7v7enp/view?usp=drive_link)
+
+- Video Recording
+
+    ```
+    {{< youtube j5sfU58zT10 >}}
 
 
