@@ -87,7 +87,7 @@ date: 2025-12-08
 
 -   [Slides](https://drive.google.com/file/d/1FOp6odOHc-7_pQW4YlNWZH5nEl7v7enp/view?usp=drive_link)
 
-- Video Recording
+-   Video Recording
 
     ```
     {{< youtube j5sfU58zT10 >}}
