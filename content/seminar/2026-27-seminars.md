@@ -7,7 +7,7 @@ date: 2026-10-5
 
 
 
-## September 25, 2026, 11 am CST
+## September 255, 2026, 11 am CST
 
 ***MetaMate: Automating Study Coding for Educational Systematic Reviews with Large Language Models***
 
