@@ -7,6 +7,7 @@ title: Online Seminar
 The AERA SIG on Systematic Review and Meta-Analysis is proud to present a regular, online seminar series on the methodology of systematic reviews, meta-analysis, and evidence synthesis for education research and the broader social sciences. Live seminars are usually scheduled for ***Third Fridays*** of the month (with a few exceptions), from 9-10 a.m. Pacific/10-11 a.m. Mountain/11 a.m.-12 noon Central/12-1 p.m. Eastern/16:00-17:00 UTC. The seminars are open to all (you need not be a SIG or AERA member) but require registering. Most talks will be recorded and made available for later viewing.
 
 - [Current Seminar Schedule](/seminar/upcoming-seminars/)
+- [2026-27 Seminars and Recordings](/seminar/2026-27-seminars/)
 - [2025-26 Seminars and Recordings](/seminar/2025-26-seminars/)
 - [2024-25 Seminars and Recordings](/seminar/2024-25-seminars/)
 - [2023-24 Seminars and Recordings](/seminar/2023-24-seminars/)
@@ -20,10 +21,6 @@ To participate in the 2025-26 seminars, please [register here](https://us06web.z
 # Mailing List
 
 To get regular updates about upcoming presentations, please [register here](https://gsu.qualtrics.com/jfe/form/SV_881zggxEkAVnzhk).
-
-# Google Calendar
-
-You can find a Google Calendar with [all of our events here](https://calendar.google.com/calendar/embed?src=00ummeklt33fp6gvo3pj5itick%40group.calendar.google.com&ctz=America%2FChicago).
 
 # Suggest a Speaker
 
