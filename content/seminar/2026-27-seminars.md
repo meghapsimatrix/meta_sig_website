@@ -31,5 +31,30 @@ your own reviews.
     {{< youtube 1dWflKM8R7E >}}  
     
     
+
+
+## October 30th, 11 am CST
+
+***Selecting Meta-Regressors in Meta-Analysis: A Principal Component Analysis Approach***
+
+- Speakers: [Dr. Bixi Zhang](https://www.gc.cuny.edu/people/bixi-zhang), CUNY Graduate Center, & [Dr. Jay Verkuilen](https://www.gc.cuny.edu/people/jay-verkuilen), CUNY Graduate Center
+
+- Description: Meta-regression helps explain effect size heterogeneity, yet numerous, correlated, or
+incomplete moderators complicate model specification. This study examines weighted
+principal component analysis as a preprocessing approach for selecting metaregressors
+while incorporating random effects weights. A Monte Carlo simulation varied
+key design parameters and compared weighted with unweighted PCA under a multilevel
+data structure. Results indicate that the proposed approach can recover the underlying
+structure with moderate numbers of studies, with modest benefits from weighting.
+Applied examples illustrate how dimension plots can summarize moderator structure,
+visualize relationships among variables, and support interpretation before metaregression.
+
+- Video Recording
+
+
+    ```         
+    {{< youtube LFNxRYXsoM4 >}}  
+    
+    
     
     
