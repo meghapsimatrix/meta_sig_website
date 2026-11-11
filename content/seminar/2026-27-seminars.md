@@ -6,8 +6,6 @@ date: 2026-10-5
 ---
 
 
-- WHY ISN'T THIS WORKING???
-
 
 ## September 25 , 2026, 11 am CST
 
